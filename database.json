@@ -1,0 +1,762 @@
+{
+    "users": [],
+    "loja": [
+        {
+            "id": 0,
+            "lojaNome": "Loja do João",
+            "descricao": "Loja especializada em testes",
+            "image": "https://www.ofuxico.com.br/wp-content/uploads/2022/08/cristiano-ronaldo.jpg",
+            "ativo": true,
+            "cartaoFidelidade": [
+                10,
+                20,
+                50
+            ],
+            "dadosAcesso": {
+                "email": "joaojunior.njr7@gmail.com",
+                "senha": "joaojunior123"
+            },
+            "redesSociais": {
+                "instagram": "https://www.instagram.com/quick7.oficial/",
+                "facebook": "https://www.facebook.com/profile.php?id=61555741299822",
+                "youtube": "https://www.youtube.com/@combo7football594",
+                "whatsApp": "11-954725168"
+            },
+            "produtos": [
+                {
+                    "id": 1,
+                    "nomeProduto": "Camisa de time 1",
+                    "descricao": "Camisa de portugal 1",
+                    "preco": 15.0,
+                    "image": "https://imgcentauro-a.akamaihd.net/1366x1366/9459503T.jpg"
+                },
+                {
+                    "id": 2,
+                    "nomeProduto": "Camisa de time 2",
+                    "descricao": "Camisa de portugal 2",
+                    "preco": 15.0,
+                    "image": "https://imgcentauro-a.akamaihd.net/1366x1366/9459503T.jpg"
+                },
+                {
+                    "id": 3,
+                    "nomeProduto": "Camisa de time 3",
+                    "descricao": "Camisa de portugal 3",
+                    "preco": 23.0,
+                    "image": "https://imgcentauro-a.akamaihd.net/1366x1366/9459503T.jpg"
+                },
+                {
+                    "id": 4,
+                    "nomeProduto": "Camisa de time 4",
+                    "descricao": "Camisa de portugal 4",
+                    "preco": 15.0,
+                    "image": "https://imgcentauro-a.akamaihd.net/1366x1366/9459503T.jpg"
+                },
+                {
+                    "id": 5,
+                    "nomeProduto": "Camisa de time 5",
+                    "descricao": "Lanche acompanha pão, calabresa, vinagrete, queijo e maionese",
+                    "preco": 19.0,
+                    "image": "https://imgcentauro-a.akamaihd.net/1366x1366/9459503T.jpg"
+                },
+                {
+                    "id": 6,
+                    "nomeProduto": "Camisa de time 6",
+                    "descricao": "Lanche acompanha pão, hambúrguer, fatias de bacon, queijo, maionese, alface e tomate",
+                    "preco": 19.0,
+                    "image": "https://images.tcdn.com.br/img/img_prod/638286/camisa_chelsea_2024_uniforme_reserva_torcedor_10268_1_9a6a24bc49bcdf4091c19948f5f7a054.jpg"
+                },
+                {
+                    "id": 7,
+                    "nomeProduto": "Camisa de time 7",
+                    "descricao": "",
+                    "preco": 19.0,
+                    "image": "https://images.tcdn.com.br/img/img_prod/638286/camisa_chelsea_2024_uniforme_reserva_torcedor_10268_1_9a6a24bc49bcdf4091c19948f5f7a054.jpg"
+                },
+                {
+                    "id": 8,
+                    "nomeProduto": "Camisa de time 8",
+                    "descricao": "",
+                    "preco": 19.0,
+                    "image": "https://images.tcdn.com.br/img/img_prod/638286/camisa_chelsea_2024_uniforme_reserva_torcedor_10268_1_9a6a24bc49bcdf4091c19948f5f7a054.jpg"
+                },
+                {
+                    "id": 9,
+                    "nomeProduto": "Camisa de time 9",
+                    "descricao": "Batata Cheddar e Bacon",
+                    "preco": 25.0,
+                    "image": "https://imgcentauro-a.akamaihd.net/1366x1366/9459503T.jpg"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "lojaNome": "Loja do Kevin",
+            "descricao": "Teste do Kevinho, segura o novo Rafa",
+            "image": "https://leagueofitems.com/images/champions/tiles/256/126.webp",
+            "ativo": true,
+            "cartaoFidelidade": [
+                10,
+                20,
+                50
+            ],
+            "dadosAcesso": {
+                "email": "jayce@jayce.com",
+                "senha": "1234"
+            },
+            "redesSociais": {
+                "instagram": "https://www.instagram.com/quick7.oficial/",
+                "facebook": "https://www.facebook.com/profile.php?id=61555741299822",
+                "youtube": "https://www.youtube.com/@combo7football594",
+                "whatsApp": "11-954725168"
+            },
+            "produtos": [
+                {
+                    "id": 1,
+                    "nomeProduto": "X-Salada",
+                    "descricao": "Lanche acompanha pão, hambúguer, mussarela, alface, tomate e maionese",
+                    "preco": 15.0,
+                    "image": "https://assets.unileversolutions.com/recipes-v2/106684.jpg?imwidth=800"
+                },
+                {
+                    "id": 2,
+                    "nomeProduto": "X-Burger",
+                    "descricao": "Lanche acompanha pão, hambúguer, mussarela e maionese",
+                    "preco": 15.0,
+                    "image": "https://burgerx.com.br/assets/img/galeria/burgers/x-burger.jpg"
+                },
+                {
+                    "id": 3,
+                    "nomeProduto": "X-Churrasco",
+                    "descricao": "Lanche acompanha pão francês, contra filé, alface, vinagrete, queijo e maionese",
+                    "preco": 23.0,
+                    "image": "http://www.saboresajinomoto.com.br/uploads/images/recipes/sanduiche-de-churrasco.jpg"
+                },
+                {
+                    "id": 4,
+                    "nomeProduto": "X-Egg",
+                    "descricao": "Lanche acompanha pão, hamburguer, queijo, ovo, maionese, alface e tomate",
+                    "preco": 15.0,
+                    "image": "https://sachefmio.blob.core.windows.net/fotos/x-egg-73519.jpg"
+                },
+                {
+                    "id": 5,
+                    "nomeProduto": "X-Calabresa",
+                    "descricao": "Lanche acompanha pão, calabresa, vinagrete, queijo e maionese",
+                    "preco": 19.0,
+                    "image": "https://storage.googleapis.com/domain-images/daa9c855-3149-4d13-8da1-fcf5712742e4/products/gallery_106a48c5-c8b2-4657-b6dc-e623d536ae06.jpg"
+                },
+                {
+                    "id": 6,
+                    "nomeProduto": "X-Bacon",
+                    "descricao": "Lanche acompanha pão, hambúrguer, fatias de bacon, queijo, maionese, alface e tomate",
+                    "preco": 19.0,
+                    "image": "https://burger.eriklima.me/wp-content/uploads/2021/03/X-Bacon.jpg"
+                },
+                {
+                    "id": 7,
+                    "nomeProduto": "Porção de 500g Batata frita simples",
+                    "descricao": "",
+                    "preco": 19.0,
+                    "image": "https://www.botecogois.com.br/wp-content/uploads/2021/01/batata-frita-porcao.jpg"
+                },
+                {
+                    "id": 8,
+                    "nomeProduto": "Porção de 500g Calabresa acebolada",
+                    "descricao": "",
+                    "preco": 19.0,
+                    "image": "https://www.anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-1682-52acab79d88efd805e6a341697e6aecb.jpg"
+                },
+                {
+                    "id": 9,
+                    "nomeProduto": "Porção de 500g Batata com Cheddar e Bacon",
+                    "descricao": "Batata Cheddar e Bacon",
+                    "preco": 25.0,
+                    "image": "https://i.ytimg.com/vi/0Fea2vwfnN8/maxresdefault.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "lojaNome": "Loja do Alex",
+            "descricao": "Rei dos cowboys, especialista em rodeios no IDC",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Cowboy_20060805173639.jpg",
+            "ativo": true,
+            "cartaoFidelidade": [
+                10,
+                20,
+                50
+            ],
+            "dadosAcesso": {
+                "email": "cowboy@goias.com",
+                "senha": "12345"
+            },
+            "redesSociais": {
+                "instagram": "https://www.instagram.com/quick7.oficial/",
+                "facebook": "https://www.facebook.com/profile.php?id=61555741299822",
+                "youtube": "https://www.youtube.com/@combo7football594",
+                "whatsApp": "11-954725168"
+            },
+            "produtos": [
+                {
+                    "id": 1,
+                    "nomeProduto": "X-Salada",
+                    "descricao": "Lanche acompanha pão, hambúguer, mussarela, alface, tomate e maionese",
+                    "preco": 15.0,
+                    "image": "https://assets.unileversolutions.com/recipes-v2/106684.jpg?imwidth=800"
+                },
+                {
+                    "id": 2,
+                    "nomeProduto": "X-Burger",
+                    "descricao": "Lanche acompanha pão, hambúguer, mussarela e maionese",
+                    "preco": 15.0,
+                    "image": "https://burgerx.com.br/assets/img/galeria/burgers/x-burger.jpg"
+                },
+                {
+                    "id": 3,
+                    "nomeProduto": "X-Churrasco",
+                    "descricao": "Lanche acompanha pão francês, contra filé, alface, vinagrete, queijo e maionese",
+                    "preco": 23.0,
+                    "image": "http://www.saboresajinomoto.com.br/uploads/images/recipes/sanduiche-de-churrasco.jpg"
+                },
+                {
+                    "id": 4,
+                    "nomeProduto": "X-Egg",
+                    "descricao": "Lanche acompanha pão, hamburguer, queijo, ovo, maionese, alface e tomate",
+                    "preco": 15.0,
+                    "image": "https://sachefmio.blob.core.windows.net/fotos/x-egg-73519.jpg"
+                },
+                {
+                    "id": 5,
+                    "nomeProduto": "X-Calabresa",
+                    "descricao": "Lanche acompanha pão, calabresa, vinagrete, queijo e maionese",
+                    "preco": 19.0,
+                    "image": "https://storage.googleapis.com/domain-images/daa9c855-3149-4d13-8da1-fcf5712742e4/products/gallery_106a48c5-c8b2-4657-b6dc-e623d536ae06.jpg"
+                },
+                {
+                    "id": 6,
+                    "nomeProduto": "X-Bacon",
+                    "descricao": "Lanche acompanha pão, hambúrguer, fatias de bacon, queijo, maionese, alface e tomate",
+                    "preco": 19.0,
+                    "image": "https://burger.eriklima.me/wp-content/uploads/2021/03/X-Bacon.jpg"
+                },
+                {
+                    "id": 7,
+                    "nomeProduto": "Porção de 500g Batata frita simples",
+                    "descricao": "",
+                    "preco": 19.0,
+                    "image": "https://www.botecogois.com.br/wp-content/uploads/2021/01/batata-frita-porcao.jpg"
+                },
+                {
+                    "id": 8,
+                    "nomeProduto": "Porção de 500g Calabresa acebolada",
+                    "descricao": "",
+                    "preco": 19.0,
+                    "image": "https://www.anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-1682-52acab79d88efd805e6a341697e6aecb.jpg"
+                },
+                {
+                    "id": 9,
+                    "nomeProduto": "Porção de 500g Batata com Cheddar e Bacon",
+                    "descricao": "Batata Cheddar e Bacon",
+                    "preco": 25.0,
+                    "image": "https://i.ytimg.com/vi/0Fea2vwfnN8/maxresdefault.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "lojaNome": "Rei dos lanches",
+            "descricao": "O esquema é engordar, até começar a pagar IPTU só por estar parado na rua",
+            "image": "https://instadelivery-public.nyc3.cdn.digitaloceanspaces.com/stores/logo/166881143763780aadb30bb_medium.png",
+            "ativo": true,
+            "cartaoFidelidade": [
+                10,
+                20,
+                50
+            ],
+            "dadosAcesso": {
+                "email": "teste@teste.com",
+                "senha": "12345"
+            },
+            "redesSociais": {
+                "instagram": "https://www.instagram.com/quick7.oficial/",
+                "facebook": "https://www.facebook.com/profile.php?id=61555741299822",
+                "youtube": "https://www.youtube.com/@combo7football594",
+                "whatsApp": "11-954725168"
+            },
+            "produtos": [
+                {
+                    "id": 1,
+                    "nomeProduto": "X-Salada",
+                    "descricao": "Lanche acompanha pão, hambúguer, mussarela, alface, tomate e maionese",
+                    "preco": 15.0,
+                    "image": "https://assets.unileversolutions.com/recipes-v2/106684.jpg?imwidth=800"
+                },
+                {
+                    "id": 2,
+                    "nomeProduto": "X-Burger",
+                    "descricao": "Lanche acompanha pão, hambúguer, mussarela e maionese",
+                    "preco": 15.0,
+                    "image": "https://burgerx.com.br/assets/img/galeria/burgers/x-burger.jpg"
+                },
+                {
+                    "id": 3,
+                    "nomeProduto": "X-Churrasco",
+                    "descricao": "Lanche acompanha pão francês, contra filé, alface, vinagrete, queijo e maionese",
+                    "preco": 23.0,
+                    "image": "http://www.saboresajinomoto.com.br/uploads/images/recipes/sanduiche-de-churrasco.jpg"
+                },
+                {
+                    "id": 4,
+                    "nomeProduto": "X-Egg",
+                    "descricao": "Lanche acompanha pão, hamburguer, queijo, ovo, maionese, alface e tomate",
+                    "preco": 15.0,
+                    "image": "https://sachefmio.blob.core.windows.net/fotos/x-egg-73519.jpg"
+                },
+                {
+                    "id": 5,
+                    "nomeProduto": "X-Calabresa",
+                    "descricao": "Lanche acompanha pão, calabresa, vinagrete, queijo e maionese",
+                    "preco": 19.0,
+                    "image": "https://storage.googleapis.com/domain-images/daa9c855-3149-4d13-8da1-fcf5712742e4/products/gallery_106a48c5-c8b2-4657-b6dc-e623d536ae06.jpg"
+                },
+                {
+                    "id": 6,
+                    "nomeProduto": "X-Bacon",
+                    "descricao": "Lanche acompanha pão, hambúrguer, fatias de bacon, queijo, maionese, alface e tomate",
+                    "preco": 19.0,
+                    "image": "https://burger.eriklima.me/wp-content/uploads/2021/03/X-Bacon.jpg"
+                },
+                {
+                    "id": 7,
+                    "nomeProduto": "Porção de 500g Batata frita simples",
+                    "descricao": "",
+                    "preco": 19.0,
+                    "image": "https://www.botecogois.com.br/wp-content/uploads/2021/01/batata-frita-porcao.jpg"
+                },
+                {
+                    "id": 8,
+                    "nomeProduto": "Porção de 500g Calabresa acebolada",
+                    "descricao": "",
+                    "preco": 19.0,
+                    "image": "https://www.anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-1682-52acab79d88efd805e6a341697e6aecb.jpg"
+                },
+                {
+                    "id": 9,
+                    "nomeProduto": "Porção de 500g Batata com Cheddar e Bacon",
+                    "descricao": "Batata Cheddar e Bacon",
+                    "preco": 25.0,
+                    "image": "https://i.ytimg.com/vi/0Fea2vwfnN8/maxresdefault.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "lojaNome": "Só cadeiras",
+            "descricao": "Faz o M, e paga um curso",
+            "image": "https://www.brasil247.com/_next/image?url=https%3A%2F%2Fcdn.brasil247.com%2Fpb-b247gcp%2Fswp%2Fjtjeq9%2Fmedia%2F20240810190820_1e51b3e4021b71463bd766c157a4c590318b7d839bf3bf5455476bf3be33c946.webp&w=3840&q=75",
+            "ativo": true,
+            "cartaoFidelidade": [
+                10,
+                20,
+                50
+            ],
+            "dadosAcesso": {
+                "email": "teste@teste.com",
+                "senha": "12345"
+            },
+            "redesSociais": {
+                "instagram": "https://www.instagram.com/quick7.oficial/",
+                "facebook": "https://www.facebook.com/profile.php?id=61555741299822",
+                "youtube": "https://www.youtube.com/@combo7football594",
+                "whatsApp": "11-954725168"
+            },
+            "produtos": [
+                {
+                    "id": 1,
+                    "nomeProduto": "X-Salada",
+                    "descricao": "Lanche acompanha pão, hambúguer, mussarela, alface, tomate e maionese",
+                    "preco": 15.0,
+                    "image": "https://assets.unileversolutions.com/recipes-v2/106684.jpg?imwidth=800"
+                },
+                {
+                    "id": 2,
+                    "nomeProduto": "X-Burger",
+                    "descricao": "Lanche acompanha pão, hambúguer, mussarela e maionese",
+                    "preco": 15.0,
+                    "image": "https://burgerx.com.br/assets/img/galeria/burgers/x-burger.jpg"
+                },
+                {
+                    "id": 3,
+                    "nomeProduto": "X-Churrasco",
+                    "descricao": "Lanche acompanha pão francês, contra filé, alface, vinagrete, queijo e maionese",
+                    "preco": 23.0,
+                    "image": "http://www.saboresajinomoto.com.br/uploads/images/recipes/sanduiche-de-churrasco.jpg"
+                },
+                {
+                    "id": 4,
+                    "nomeProduto": "X-Egg",
+                    "descricao": "Lanche acompanha pão, hamburguer, queijo, ovo, maionese, alface e tomate",
+                    "preco": 15.0,
+                    "image": "https://sachefmio.blob.core.windows.net/fotos/x-egg-73519.jpg"
+                },
+                {
+                    "id": 5,
+                    "nomeProduto": "X-Calabresa",
+                    "descricao": "Lanche acompanha pão, calabresa, vinagrete, queijo e maionese",
+                    "preco": 19.0,
+                    "image": "https://storage.googleapis.com/domain-images/daa9c855-3149-4d13-8da1-fcf5712742e4/products/gallery_106a48c5-c8b2-4657-b6dc-e623d536ae06.jpg"
+                },
+                {
+                    "id": 6,
+                    "nomeProduto": "X-Bacon",
+                    "descricao": "Lanche acompanha pão, hambúrguer, fatias de bacon, queijo, maionese, alface e tomate",
+                    "preco": 19.0,
+                    "image": "https://burger.eriklima.me/wp-content/uploads/2021/03/X-Bacon.jpg"
+                },
+                {
+                    "id": 7,
+                    "nomeProduto": "Porção de 500g Batata frita simples",
+                    "descricao": "",
+                    "preco": 19.0,
+                    "image": "https://www.botecogois.com.br/wp-content/uploads/2021/01/batata-frita-porcao.jpg"
+                },
+                {
+                    "id": 8,
+                    "nomeProduto": "Porção de 500g Calabresa acebolada",
+                    "descricao": "",
+                    "preco": 19.0,
+                    "image": "https://www.anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-1682-52acab79d88efd805e6a341697e6aecb.jpg"
+                },
+                {
+                    "id": 9,
+                    "nomeProduto": "Porção de 500g Batata com Cheddar e Bacon",
+                    "descricao": "Batata Cheddar e Bacon",
+                    "preco": 25.0,
+                    "image": "https://i.ytimg.com/vi/0Fea2vwfnN8/maxresdefault.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "lojaNome": "Padaria do seu Z",
+            "descricao": "O melhor pão do Brasil",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_P-nbsv_ujwrhXNNhaWy9PDxRVF5_f8ZWQ&s.jpg",
+            "ativo": true,
+            "cartaoFidelidade": [
+                10,
+                20,
+                50
+            ],
+            "dadosAcesso": {
+                "email": "teste@teste.com",
+                "senha": "12345"
+            },
+            "redesSociais": {
+                "instagram": "https://www.instagram.com/quick7.oficial/",
+                "facebook": "https://www.facebook.com/profile.php?id=61555741299822",
+                "youtube": "https://www.youtube.com/@combo7football594",
+                "whatsApp": "11-954725168"
+            },
+            "produtos": [
+                {
+                    "id": 1,
+                    "nomeProduto": "X-Salada",
+                    "descricao": "Lanche acompanha pão, hambúguer, mussarela, alface, tomate e maionese",
+                    "preco": 15.0,
+                    "image": "https://assets.unileversolutions.com/recipes-v2/106684.jpg?imwidth=800"
+                },
+                {
+                    "id": 2,
+                    "nomeProduto": "X-Burger",
+                    "descricao": "Lanche acompanha pão, hambúguer, mussarela e maionese",
+                    "preco": 15.0,
+                    "image": "https://burgerx.com.br/assets/img/galeria/burgers/x-burger.jpg"
+                },
+                {
+                    "id": 3,
+                    "nomeProduto": "X-Churrasco",
+                    "descricao": "Lanche acompanha pão francês, contra filé, alface, vinagrete, queijo e maionese",
+                    "preco": 23.0,
+                    "image": "http://www.saboresajinomoto.com.br/uploads/images/recipes/sanduiche-de-churrasco.jpg"
+                },
+                {
+                    "id": 4,
+                    "nomeProduto": "X-Egg",
+                    "descricao": "Lanche acompanha pão, hamburguer, queijo, ovo, maionese, alface e tomate",
+                    "preco": 15.0,
+                    "image": "https://sachefmio.blob.core.windows.net/fotos/x-egg-73519.jpg"
+                },
+                {
+                    "id": 5,
+                    "nomeProduto": "X-Calabresa",
+                    "descricao": "Lanche acompanha pão, calabresa, vinagrete, queijo e maionese",
+                    "preco": 19.0,
+                    "image": "https://storage.googleapis.com/domain-images/daa9c855-3149-4d13-8da1-fcf5712742e4/products/gallery_106a48c5-c8b2-4657-b6dc-e623d536ae06.jpg"
+                },
+                {
+                    "id": 6,
+                    "nomeProduto": "X-Bacon",
+                    "descricao": "Lanche acompanha pão, hambúrguer, fatias de bacon, queijo, maionese, alface e tomate",
+                    "preco": 19.0,
+                    "image": "https://burger.eriklima.me/wp-content/uploads/2021/03/X-Bacon.jpg"
+                },
+                {
+                    "id": 7,
+                    "nomeProduto": "Porção de 500g Batata frita simples",
+                    "descricao": "",
+                    "preco": 19.0,
+                    "image": "https://www.botecogois.com.br/wp-content/uploads/2021/01/batata-frita-porcao.jpg"
+                },
+                {
+                    "id": 8,
+                    "nomeProduto": "Porção de 500g Calabresa acebolada",
+                    "descricao": "",
+                    "preco": 19.0,
+                    "image": "https://www.anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-1682-52acab79d88efd805e6a341697e6aecb.jpg"
+                },
+                {
+                    "id": 9,
+                    "nomeProduto": "Porção de 500g Batata com Cheddar e Bacon",
+                    "descricao": "Batata Cheddar e Bacon",
+                    "preco": 25.0,
+                    "image": "https://i.ytimg.com/vi/0Fea2vwfnN8/maxresdefault.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "lojaNome": "Drogasil",
+            "descricao": "Drogasil a melhor farmácia do Brasil",
+            "image": "https://logospng.org/wp-content/uploads/drogasil.png",
+            "ativo": true,
+            "cartaoFidelidade": [
+                10,
+                20,
+                50
+            ],
+            "dadosAcesso": {
+                "email": "teste@teste.com",
+                "senha": "12345"
+            },
+            "redesSociais": {
+                "instagram": "https://www.instagram.com/quick7.oficial/",
+                "facebook": "https://www.facebook.com/profile.php?id=61555741299822",
+                "youtube": "https://www.youtube.com/@combo7football594",
+                "whatsApp": "11-954725168"
+            },
+            "produtos": [
+                {
+                    "id": 1,
+                    "nomeProduto": "X-Salada",
+                    "descricao": "Lanche acompanha pão, hambúguer, mussarela, alface, tomate e maionese",
+                    "preco": 15.0,
+                    "image": "https://assets.unileversolutions.com/recipes-v2/106684.jpg?imwidth=800"
+                },
+                {
+                    "id": 2,
+                    "nomeProduto": "X-Burger",
+                    "descricao": "Lanche acompanha pão, hambúguer, mussarela e maionese",
+                    "preco": 15.0,
+                    "image": "https://burgerx.com.br/assets/img/galeria/burgers/x-burger.jpg"
+                },
+                {
+                    "id": 3,
+                    "nomeProduto": "X-Churrasco",
+                    "descricao": "Lanche acompanha pão francês, contra filé, alface, vinagrete, queijo e maionese",
+                    "preco": 23.0,
+                    "image": "http://www.saboresajinomoto.com.br/uploads/images/recipes/sanduiche-de-churrasco.jpg"
+                },
+                {
+                    "id": 4,
+                    "nomeProduto": "X-Egg",
+                    "descricao": "Lanche acompanha pão, hamburguer, queijo, ovo, maionese, alface e tomate",
+                    "preco": 15.0,
+                    "image": "https://sachefmio.blob.core.windows.net/fotos/x-egg-73519.jpg"
+                },
+                {
+                    "id": 5,
+                    "nomeProduto": "X-Calabresa",
+                    "descricao": "Lanche acompanha pão, calabresa, vinagrete, queijo e maionese",
+                    "preco": 19.0,
+                    "image": "https://storage.googleapis.com/domain-images/daa9c855-3149-4d13-8da1-fcf5712742e4/products/gallery_106a48c5-c8b2-4657-b6dc-e623d536ae06.jpg"
+                },
+                {
+                    "id": 6,
+                    "nomeProduto": "X-Bacon",
+                    "descricao": "Lanche acompanha pão, hambúrguer, fatias de bacon, queijo, maionese, alface e tomate",
+                    "preco": 19.0,
+                    "image": "https://burger.eriklima.me/wp-content/uploads/2021/03/X-Bacon.jpg"
+                },
+                {
+                    "id": 7,
+                    "nomeProduto": "Porção de 500g Batata frita simples",
+                    "descricao": "",
+                    "preco": 19.0,
+                    "image": "https://www.botecogois.com.br/wp-content/uploads/2021/01/batata-frita-porcao.jpg"
+                },
+                {
+                    "id": 8,
+                    "nomeProduto": "Porção de 500g Calabresa acebolada",
+                    "descricao": "",
+                    "preco": 19.0,
+                    "image": "https://www.anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-1682-52acab79d88efd805e6a341697e6aecb.jpg"
+                },
+                {
+                    "id": 9,
+                    "nomeProduto": "Porção de 500g Batata com Cheddar e Bacon",
+                    "descricao": "Batata Cheddar e Bacon",
+                    "preco": 25.0,
+                    "image": "https://i.ytimg.com/vi/0Fea2vwfnN8/maxresdefault.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "lojaNome": "Vehicle Store",
+            "descricao": "A melhor loja de carros do Brasil",
+            "image": "https://img.freepik.com/vetores-gratis/design-de-logotipo-de-autopecas-gradiente_23-2149460685.jpg",
+            "ativo": true,
+            "cartaoFidelidade": [
+                10,
+                20,
+                50
+            ],
+            "dadosAcesso": {
+                "email": "teste@teste.com",
+                "senha": "12345"
+            },
+            "redesSociais": {
+                "instagram": "https://www.instagram.com/quick7.oficial/",
+                "facebook": "https://www.facebook.com/profile.php?id=61555741299822",
+                "youtube": "https://www.youtube.com/@combo7football594",
+                "whatsApp": "11-954725168"
+            },
+            "produtos": [
+                {
+                    "id": 1,
+                    "nomeProduto": "X-Salada",
+                    "descricao": "Lanche acompanha pão, hambúguer, mussarela, alface, tomate e maionese",
+                    "preco": 15.0,
+                    "image": "https://assets.unileversolutions.com/recipes-v2/106684.jpg?imwidth=800"
+                },
+                {
+                    "id": 2,
+                    "nomeProduto": "X-Burger",
+                    "descricao": "Lanche acompanha pão, hambúguer, mussarela e maionese",
+                    "preco": 15.0,
+                    "image": "https://burgerx.com.br/assets/img/galeria/burgers/x-burger.jpg"
+                },
+                {
+                    "id": 3,
+                    "nomeProduto": "X-Churrasco",
+                    "descricao": "Lanche acompanha pão francês, contra filé, alface, vinagrete, queijo e maionese",
+                    "preco": 23.0,
+                    "image": "http://www.saboresajinomoto.com.br/uploads/images/recipes/sanduiche-de-churrasco.jpg"
+                },
+                {
+                    "id": 4,
+                    "nomeProduto": "X-Egg",
+                    "descricao": "Lanche acompanha pão, hamburguer, queijo, ovo, maionese, alface e tomate",
+                    "preco": 15.0,
+                    "image": "https://sachefmio.blob.core.windows.net/fotos/x-egg-73519.jpg"
+                },
+                {
+                    "id": 5,
+                    "nomeProduto": "X-Calabresa",
+                    "descricao": "Lanche acompanha pão, calabresa, vinagrete, queijo e maionese",
+                    "preco": 19.0,
+                    "image": "https://storage.googleapis.com/domain-images/daa9c855-3149-4d13-8da1-fcf5712742e4/products/gallery_106a48c5-c8b2-4657-b6dc-e623d536ae06.jpg"
+                },
+                {
+                    "id": 6,
+                    "nomeProduto": "X-Bacon",
+                    "descricao": "Lanche acompanha pão, hambúrguer, fatias de bacon, queijo, maionese, alface e tomate",
+                    "preco": 19.0,
+                    "image": "https://burger.eriklima.me/wp-content/uploads/2021/03/X-Bacon.jpg"
+                },
+                {
+                    "id": 7,
+                    "nomeProduto": "Porção de 500g Batata frita simples",
+                    "descricao": "",
+                    "preco": 19.0,
+                    "image": "https://www.botecogois.com.br/wp-content/uploads/2021/01/batata-frita-porcao.jpg"
+                },
+                {
+                    "id": 8,
+                    "nomeProduto": "Porção de 500g Calabresa acebolada",
+                    "descricao": "",
+                    "preco": 19.0,
+                    "image": "https://www.anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-1682-52acab79d88efd805e6a341697e6aecb.jpg"
+                },
+                {
+                    "id": 9,
+                    "nomeProduto": "Porção de 500g Batata com Cheddar e Bacon",
+                    "descricao": "Batata Cheddar e Bacon",
+                    "preco": 25.0,
+                    "image": "https://i.ytimg.com/vi/0Fea2vwfnN8/maxresdefault.jpg"
+                }
+            ]
+        }
+    ],
+    "Recompensas": [
+        {
+            "id": 0,
+            "title": "Numero para sorteio",
+            "points": "100"
+        },
+        {
+            "id": 1,
+            "title": "Pizza",
+            "points": "100"
+        },
+        {
+            "id": 2,
+            "title": "Jornada GetX",
+            "points": "50"
+        }
+    ],
+    "services": [
+        {
+            "id": 0,
+            "title": "Lavagem de carro",
+            "points": "100"
+        },
+        {
+            "id": 1,
+            "title": "Cinema",
+            "points": "50"
+        },
+        {
+            "id": 2,
+            "title": "Passagem de avião",
+            "points": "100"
+        }
+    ],
+    "payment-types": [
+        {
+            "id": 1,
+            "nomeProduto": "Cartão de crédito",
+            "acronym": "CC",
+            "ativo": true
+        },
+        {
+            "id": 2,
+            "nomeProduto": "Cartão de débito",
+            "acronym": "CD",
+            "ativo": true
+        },
+        {
+            "id": 3,
+            "nomeProduto": "Vale Refeição",
+            "acronym": "VR",
+            "ativo": true
+        },
+        {
+            "id": 4,
+            "nomeProduto": "Vale Alimentação",
+            "acronym": "VA",
+            "ativo": true
+        }
+    ],
+    "orders": []
+}
