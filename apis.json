@@ -1,0 +1,2866 @@
+[
+    {
+        "name": "ANP / Base de Distribuição",
+        "url": "https://api.infosimples.com/api/v2/consultas/anp/base-distribuicao"
+    },
+    {
+        "name": "ANP / Certificados",
+        "url": "https://api.infosimples.com/api/v2/consultas/anp/certificados"
+    },
+    {
+        "name": "ANP / Instalações do SIMP",
+        "url": "https://api.infosimples.com/api/v2/consultas/anp/instalacoes-simp"
+    },
+    {
+        "name": "ANP / Instalações do SIMP / Distribuidores Autorizados",
+        "url": "https://api.infosimples.com/api/v2/consultas/anp/instalacoes-simp-distr"
+    },
+    {
+        "name": "ANP / Postos",
+        "url": "https://api.infosimples.com/api/v2/consultas/anp/postos"
+    },
+    {
+        "name": "ANP / Revendas",
+        "url": "https://api.infosimples.com/api/v2/consultas/anp/revendas"
+    },
+    {
+        "name": "Antecedentes Criminais / MG",
+        "url": "https://api.infosimples.com/api/v2/consultas/antecedentes-criminais/mg"
+    },
+    {
+        "name": "Antecedentes Criminais / Polícia Federal / Emitir",
+        "url": "https://api.infosimples.com/api/v2/consultas/antecedentes-criminais/pf/emit"
+    },
+    {
+        "name": "Antecedentes Criminais / Polícia Federal / Validar",
+        "url": "https://api.infosimples.com/api/v2/consultas/antecedentes-criminais/pf/val"
+    },
+    {
+        "name": "Antecedentes Criminais / SP",
+        "url": "https://api.infosimples.com/api/v2/consultas/antecedentes-criminais/sp"
+    },
+    {
+        "name": "ANTT / Produtos Perigosos",
+        "url": "https://api.infosimples.com/api/v2/consultas/antt/produtos-perigosos"
+    },
+    {
+        "name": "ANTT / SIFAMA / Download de Auto de Infração",
+        "url": "https://api.infosimples.com/api/v2/consultas/antt/sifama/download-auto"
+    },
+    {
+        "name": "ANTT / SIFAMA / Lista de Autos de Infração",
+        "url": "https://api.infosimples.com/api/v2/consultas/antt/sifama/lista-autos"
+    },
+    {
+        "name": "ANTT / SIFAMA / Segunda Via de Boletos",
+        "url": "https://api.infosimples.com/api/v2/consultas/antt/sifama/boleto-2via"
+    },
+    {
+        "name": "ANTT / Transportador",
+        "url": "https://api.infosimples.com/api/v2/consultas/antt/transportador"
+    },
+    {
+        "name": "ANTT / Transporte Rodoviário Internacional de Cargas (TRIC)",
+        "url": "https://api.infosimples.com/api/v2/consultas/antt/tric"
+    },
+    {
+        "name": "ANTT / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/antt/veiculo"
+    },
+    {
+        "name": "ANVISA / Processo",
+        "url": "https://api.infosimples.com/api/v2/consultas/anvisa/processo"
+    },
+    {
+        "name": "ANVISA / Produtos",
+        "url": "https://api.infosimples.com/api/v2/consultas/anvisa/produtos"
+    },
+    {
+        "name": "B3 / Participantes",
+        "url": "https://api.infosimples.com/api/v2/consultas/b3/participantes"
+    },
+    {
+        "name": "Banco Central do Brasil (BCB) / Relatório de Cheques sem Fundos",
+        "url": "https://api.infosimples.com/api/v2/consultas/bcb/cheques-sem-fundo"
+    },
+    {
+        "name": "Banco Central do Brasil (BCB) / Valores a Receber",
+        "url": "https://api.infosimples.com/api/v2/consultas/bcb/valores-receber"
+    },
+    {
+        "name": "Buscador / Bing",
+        "url": "https://api.infosimples.com/api/v2/consultas/buscador/bing"
+    },
+    {
+        "name": "Buscador / Google",
+        "url": "https://api.infosimples.com/api/v2/consultas/buscador/google"
+    },
+    {
+        "name": "Buscador / Yahoo",
+        "url": "https://api.infosimples.com/api/v2/consultas/buscador/yahoo"
+    },
+    {
+        "name": "Cadastro Ambiental Rural / Demonstrativo",
+        "url": "https://api.infosimples.com/api/v2/consultas/car/demonstrativo"
+    },
+    {
+        "name": "Cadastro Ambiental Rural / Demonstrativo (PDF)",
+        "url": "https://api.infosimples.com/api/v2/consultas/car/demonstrativo-pdf"
+    },
+    {
+        "name": "Cadastro Ambiental Rural / Download de Shapefile",
+        "url": "https://api.infosimples.com/api/v2/consultas/car/download-shapefile"
+    },
+    {
+        "name": "Cadastro Ambiental Rural / Imóvel",
+        "url": "https://api.infosimples.com/api/v2/consultas/car/imovel"
+    },
+    {
+        "name": "Cadastur / Prestadores",
+        "url": "https://api.infosimples.com/api/v2/consultas/cadastur/prestadores"
+    },
+    {
+        "name": "CADE / Processos",
+        "url": "https://api.infosimples.com/api/v2/consultas/cade/processos"
+    },
+    {
+        "name": "Caixa / Regularidade do Empregador (FGTS)",
+        "url": "https://api.infosimples.com/api/v2/consultas/caixa/regularidade"
+    },
+    {
+        "name": "CARF / Processo",
+        "url": "https://api.infosimples.com/api/v2/consultas/carf/processo"
+    },
+    {
+        "name": "CENPROT SP / Protestos",
+        "url": "https://api.infosimples.com/api/v2/consultas/cenprot-sp/protestos"
+    },
+    {
+        "name": "CNF / Pesquisa de Óbitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/cnf/pesquisa-obito"
+    },
+    {
+        "name": "CNIS / Pré-inscrição",
+        "url": "https://api.infosimples.com/api/v2/consultas/cnis/pre-inscricao"
+    },
+    {
+        "name": "Comprot / Processo",
+        "url": "https://api.infosimples.com/api/v2/consultas/comprot/processo"
+    },
+    {
+        "name": "Conselho Federal de Biomedicina / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cfbm/cadastro"
+    },
+    {
+        "name": "Conselho Federal de Contabilidade / Cadastro de Profissionais e Empresas",
+        "url": "https://api.infosimples.com/api/v2/consultas/cfc/cadastro"
+    },
+    {
+        "name": "Conselho Federal de Farmácia / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cff/cadastro"
+    },
+    {
+        "name": "Conselho Federal de Medicina / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cfm/cadastro"
+    },
+    {
+        "name": "Conselho Federal de Medicina / Estabelecimentos de Saúde",
+        "url": "https://api.infosimples.com/api/v2/consultas/cfm/estabelecimento"
+    },
+    {
+        "name": "Conselho Federal de Medicina Veterinária / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cfmv/cadastro"
+    },
+    {
+        "name": "Conselho Federal de Psicologia / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cfp/cadastro"
+    },
+    {
+        "name": "Conselho Nacional de Justiça / Improbidade Administrativa e Inelegibilidade",
+        "url": "https://api.infosimples.com/api/v2/consultas/cnj/improbidade"
+    },
+    {
+        "name": "Conselho Nacional de Justiça / Mandados de Prisão",
+        "url": "https://api.infosimples.com/api/v2/consultas/cnj/mandados-prisao"
+    },
+    {
+        "name": "Conselho Nacional de Justiça / SEEU / Processos",
+        "url": "https://api.infosimples.com/api/v2/consultas/cnj/seeu/processos"
+    },
+    {
+        "name": "Conselho Nacional de Justiça / Serventias Extrajudiciais",
+        "url": "https://api.infosimples.com/api/v2/consultas/cnj/serventias-extrajudiciais"
+    },
+    {
+        "name": "Conselho Regional de Enfermagem / SP / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/coren/sp/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Farmácia / SP / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/crf/sp/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / AC / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/ac/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / AL / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/al/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / AM / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/am/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / AP / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/ap/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / BA / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/ba/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / CE / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/ce/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / DF / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/df/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / ES / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/es/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / GO / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/go/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / MA / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/ma/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / MG / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/mg/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / MS / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/ms/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / MT / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/mt/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / PA / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/pa/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / PB / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/pb/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / PE / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/pe/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / PI / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/pi/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / PR / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/pr/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / RJ / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/rj/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / RN / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/rn/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / RO / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/ro/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / RR / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/rr/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / RS / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/rs/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / SC / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/sc/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / SE / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/se/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / SP / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/sp/cadastro"
+    },
+    {
+        "name": "Conselho Regional de Odontologia / TO / Cadastro",
+        "url": "https://api.infosimples.com/api/v2/consultas/cro/to/cadastro"
+    },
+    {
+        "name": "Contas / Cemig / Download de Contas",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/cemig/download"
+    },
+    {
+        "name": "Contas / Cemig / Download de Contas para Profissionais",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/cemig/download-pro"
+    },
+    {
+        "name": "Contas / Cemig / Obter Instalações",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/cemig/obter-instalacoes"
+    },
+    {
+        "name": "Contas / Comgás / Download de 2ª Via",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/comgas/download-seg-via"
+    },
+    {
+        "name": "Contas / CPFL / Download",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/cpfl/download"
+    },
+    {
+        "name": "Contas / CPFL / Download (Empresas)",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/cpfl/download-empresas"
+    },
+    {
+        "name": "Contas / CPFL / Download + OCR",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/cpfl/download-ocr"
+    },
+    {
+        "name": "Contas / CPFL / Download para Credenciados",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/cpfl/download-cred"
+    },
+    {
+        "name": "Contas / CPFL / Download via link",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/cpfl/link"
+    },
+    {
+        "name": "Contas / CPFL / Download via link + OCR",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/cpfl/link-ocr"
+    },
+    {
+        "name": "Contas / Enel / CE / Download",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/enel/ce/download"
+    },
+    {
+        "name": "Contas / Enel / RJ / Download",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/enel/rj/download"
+    },
+    {
+        "name": "Contas / Enel / RJ / Download + OCR",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/enel/rj/download-ocr"
+    },
+    {
+        "name": "Contas / Enel / RJ / Lista de Instalações",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/enel/rj/instalacoes"
+    },
+    {
+        "name": "Contas / Enel / SP / Download",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/enel/sp/download"
+    },
+    {
+        "name": "Contas / Enel / SP / Download + OCR",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/enel/sp/download-ocr"
+    },
+    {
+        "name": "Contas / Enel / SP / Gestão Imobiliária",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/enel/sp/gestao-imob"
+    },
+    {
+        "name": "Contas / Light / Download",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/light/download"
+    },
+    {
+        "name": "Contas / Light / Download + OCR",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/light/download-ocr"
+    },
+    {
+        "name": "Contas / Light / Download via Código da Instalação",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/light/download-ci"
+    },
+    {
+        "name": "Contas / Light / Download via Código da Instalação + OCR",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/light/download-ci-ocr"
+    },
+    {
+        "name": "Contas / Light / Lista de Instalações",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/light/lista-instalacoes"
+    },
+    {
+        "name": "Contas / Neoenergia Elektro / Download",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/neoenergia/download"
+    },
+    {
+        "name": "Contas / Neoenergia Elektro / Download + OCR",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/neoenergia/download-ocr"
+    },
+    {
+        "name": "Contas / SABESP / Download de Conta",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/sabesp/download-conta"
+    },
+    {
+        "name": "Contas / SABESP / Lista de Instalações",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/sabesp/lista-instal"
+    },
+    {
+        "name": "Contas / SAESA / Download",
+        "url": "https://api.infosimples.com/api/v2/consultas/contas/saesa/download"
+    },
+    {
+        "name": "Controladoria-Geral da União / Certidão Negativa Correcional (CGU-PJ, CEIS, CNEP e CEPIM)",
+        "url": "https://api.infosimples.com/api/v2/consultas/cgu/cnc-tipo1"
+    },
+    {
+        "name": "Controladoria-Geral da União / Certidão Negativa Correcional (ePAD e CGU-PAD)",
+        "url": "https://api.infosimples.com/api/v2/consultas/cgu/cnc-tipo2"
+    },
+    {
+        "name": "Correios / CEP",
+        "url": "https://api.infosimples.com/api/v2/consultas/correios/cep"
+    },
+    {
+        "name": "Correios / Completa CEP (CEP + Área territorial brasileira)",
+        "url": "https://api.infosimples.com/api/v2/consultas/correios/completa-cep"
+    },
+    {
+        "name": "Correios / Rastreamento",
+        "url": "https://api.infosimples.com/api/v2/consultas/correios/rastreamento"
+    },
+    {
+        "name": "Correios / Restrições de Entrega",
+        "url": "https://api.infosimples.com/api/v2/consultas/correios/restricoes-entrega"
+    },
+    {
+        "name": "CVM / Participante",
+        "url": "https://api.infosimples.com/api/v2/consultas/cvm/participante"
+    },
+    {
+        "name": "CVM / Processos Administrativos Sancionadores",
+        "url": "https://api.infosimples.com/api/v2/consultas/cvm/processo-administrativo"
+    },
+    {
+        "name": "CVM / Processos Sancionadores Julgados",
+        "url": "https://api.infosimples.com/api/v2/consultas/cvm/sancionadores"
+    },
+    {
+        "name": "Dataprev / Fator Acidentário de Prevenção",
+        "url": "https://api.infosimples.com/api/v2/consultas/dataprev/fap"
+    },
+    {
+        "name": "Dataprev / Qualificação cadastral",
+        "url": "https://api.infosimples.com/api/v2/consultas/dataprev/qualificacao"
+    },
+    {
+        "name": "DER / BA / Nada Consta",
+        "url": "https://api.infosimples.com/api/v2/consultas/der/ba/nada-consta"
+    },
+    {
+        "name": "DER / PR / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/der/pr/cnd"
+    },
+    {
+        "name": "DER / PR / Certidão Negativa de Débitos (por placa)",
+        "url": "https://api.infosimples.com/api/v2/consultas/der/pr/certidao-debitos"
+    },
+    {
+        "name": "DER / SP / Multas e Recursos",
+        "url": "https://api.infosimples.com/api/v2/consultas/der/sp/multas"
+    },
+    {
+        "name": "DETRAN / AC / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ac/veiculo"
+    },
+    {
+        "name": "DETRAN / AL / Infrações",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/al/infracoes"
+    },
+    {
+        "name": "DETRAN / AL / Licenciamento",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/al/licenciamento"
+    },
+    {
+        "name": "DETRAN / AL / Renajud",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/al/renajud"
+    },
+    {
+        "name": "DETRAN / AL / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/al/veiculo"
+    },
+    {
+        "name": "DETRAN / AM / Licenciamento Anual",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/am/licenciamento-anual"
+    },
+    {
+        "name": "DETRAN / AM / Multas",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/am/multas"
+    },
+    {
+        "name": "DETRAN / AM / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/am/veiculo"
+    },
+    {
+        "name": "DETRAN / AP / Impressão de CRLV",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ap/crlv"
+    },
+    {
+        "name": "DETRAN / AP / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ap/veiculo"
+    },
+    {
+        "name": "DETRAN / BA / Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ba/debitos"
+    },
+    {
+        "name": "DETRAN / BA / Gravame",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ba/gravame"
+    },
+    {
+        "name": "DETRAN / BA / Licenciamento",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ba/licenciamento"
+    },
+    {
+        "name": "DETRAN / BA / Multas",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ba/multas"
+    },
+    {
+        "name": "DETRAN / BA / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ba/veiculo"
+    },
+    {
+        "name": "DETRAN / CE / Certidão Negativa de Débitos (por placa)",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ce/certidao-debitos"
+    },
+    {
+        "name": "DETRAN / CE / Emissão de Extrato de Licenciamento",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ce/licenciamento"
+    },
+    {
+        "name": "DETRAN / CE / Emissão de Taxa de Multas",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ce/multas"
+    },
+    {
+        "name": "DETRAN / CE / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ce/veiculo"
+    },
+    {
+        "name": "DETRAN / DF / Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/df/debitos"
+    },
+    {
+        "name": "DETRAN / DF / Restrições",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/df/restricoes"
+    },
+    {
+        "name": "DETRAN / DF / Veículo (Mobile)",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/df/veiculo/mobile"
+    },
+    {
+        "name": "DETRAN / ES / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/es/veiculo"
+    },
+    {
+        "name": "DETRAN / GO / Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/go/debitos"
+    },
+    {
+        "name": "DETRAN / GO / Gravame",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/go/gravame"
+    },
+    {
+        "name": "DETRAN / GO / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/go/veiculo"
+    },
+    {
+        "name": "DETRAN / MA / Impressão de CRLV",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ma/crlv"
+    },
+    {
+        "name": "DETRAN / MA / Licenciamento",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ma/licenciamento"
+    },
+    {
+        "name": "DETRAN / MA / Multas",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ma/multas"
+    },
+    {
+        "name": "DETRAN / MA / Restrições",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ma/restricoes"
+    },
+    {
+        "name": "DETRAN / MG / DPVAT",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/mg/dpvat"
+    },
+    {
+        "name": "DETRAN / MG / Emitir Autorização Para Transferência De Propriedade Do Veículo (ATPV-e)",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/mg/atpve"
+    },
+    {
+        "name": "DETRAN / MG / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/mg/ipva"
+    },
+    {
+        "name": "DETRAN / MG / Multas (Descritivos)",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/mg/multas-descritivos"
+    },
+    {
+        "name": "DETRAN / MG / Multas (Extrato)",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/mg/multas-extrato"
+    },
+    {
+        "name": "DETRAN / MG / Pontuação CNH",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/mg/pontuacao-cnh"
+    },
+    {
+        "name": "DETRAN / MG / Publicação de Dano (média e grande monta)",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/mg/publicacao-dano"
+    },
+    {
+        "name": "DETRAN / MG / REFIS",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/mg/refis"
+    },
+    {
+        "name": "DETRAN / MG / Registrar Intenção de Venda de Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/mg/reg-intencao-venda"
+    },
+    {
+        "name": "DETRAN / MG / Situação de Veículo Não Licenciado",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/mg/veic-nao-licenciado"
+    },
+    {
+        "name": "DETRAN / MG / Taxa de Licenciamento / Emissão de DAE",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/mg/emissao-dae"
+    },
+    {
+        "name": "DETRAN / MG / Transferência de Propriedade de Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/mg/transf-prop-veiculo"
+    },
+    {
+        "name": "DETRAN / MG / TRLAV",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/mg/trlav"
+    },
+    {
+        "name": "DETRAN / MS / Guia de Licenciamento e Multas",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ms/guia"
+    },
+    {
+        "name": "DETRAN / MS / Guia Flex / Licenciamentos",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ms/licenciamentos-flex"
+    },
+    {
+        "name": "DETRAN / MS / Guia Flex / Multas",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ms/multas-flex"
+    },
+    {
+        "name": "DETRAN / MS / Multas",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ms/multas"
+    },
+    {
+        "name": "DETRAN / MS / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ms/veiculo"
+    },
+    {
+        "name": "DETRAN / MT / Impressão de CRLV",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/mt/crlv"
+    },
+    {
+        "name": "DETRAN / MT / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/mt/veiculo"
+    },
+    {
+        "name": "DETRAN / PA / Impressão de CRLV",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pa/crlv"
+    },
+    {
+        "name": "DETRAN / PA / Infrações",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pa/infracoes"
+    },
+    {
+        "name": "DETRAN / PA / Licenciamento",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pa/licenciamento"
+    },
+    {
+        "name": "DETRAN / PA / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pa/veiculo"
+    },
+    {
+        "name": "DETRAN / PB / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pb/veiculo"
+    },
+    {
+        "name": "DETRAN / PE / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pe/veiculo"
+    },
+    {
+        "name": "DETRAN / PI / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pi/ipva"
+    },
+    {
+        "name": "DETRAN / PI / Licenciamento",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pi/licenciamento"
+    },
+    {
+        "name": "DETRAN / PI / Multas",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pi/multas"
+    },
+    {
+        "name": "DETRAN / PR / CNH",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pr/cnh"
+    },
+    {
+        "name": "DETRAN / PR / Emissão de CRLV-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pr/crlve"
+    },
+    {
+        "name": "DETRAN / PR / Licenciamento",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pr/licenciamento"
+    },
+    {
+        "name": "DETRAN / PR / Multas (Descritivos)",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pr/multas-descritivos"
+    },
+    {
+        "name": "DETRAN / PR / Multas (Extrato)",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pr/multas-extrato"
+    },
+    {
+        "name": "DETRAN / PR / Registrar Intenção de Venda de Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pr/reg-intencao-venda"
+    },
+    {
+        "name": "DETRAN / PR / Veículo (Completa)",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pr/veiculo-completa"
+    },
+    {
+        "name": "DETRAN / PR / Veículo (Extrato)",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/pr/veiculo"
+    },
+    {
+        "name": "DETRAN / Restrições (Unificada)",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/restricoes"
+    },
+    {
+        "name": "DETRAN / RJ / GRT (Guia de Regularização de Taxas)",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/rj/grt"
+    },
+    {
+        "name": "DETRAN / RJ / IPVA / DARJ",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/rj/ipva/darj"
+    },
+    {
+        "name": "DETRAN / RJ / Multas (Guia de Recolhimento de Multas)",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/rj/multas-guias"
+    },
+    {
+        "name": "DETRAN / RJ / Nada Consta",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/rj/nada-consta"
+    },
+    {
+        "name": "DETRAN / RJ / Nada Consta - Veículo Apreendido",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/rj/veiculo-apreendido"
+    },
+    {
+        "name": "DETRAN / RJ / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/rj/veiculo"
+    },
+    {
+        "name": "DETRAN / RN / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/rn/veiculo"
+    },
+    {
+        "name": "DETRAN / RO / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/ro/veiculo"
+    },
+    {
+        "name": "DETRAN / RR / Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/rr/debitos"
+    },
+    {
+        "name": "DETRAN / RR / Gravame",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/rr/gravame"
+    },
+    {
+        "name": "DETRAN / RS / CNH",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/rs/cnh"
+    },
+    {
+        "name": "DETRAN / RS / Guia de Pagamento",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/rs/guia-pagamento"
+    },
+    {
+        "name": "DETRAN / RS / Infrações",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/rs/infracoes"
+    },
+    {
+        "name": "DETRAN / RS / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/rs/veiculo"
+    },
+    {
+        "name": "DETRAN / SC / Veículo (Extrato)",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/sc/veiculo"
+    },
+    {
+        "name": "DETRAN / SP / Autenticidade de Certidão",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/sp/autenticidade"
+    },
+    {
+        "name": "DETRAN / SP / Débitos e Restrições",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/sp/debitos"
+    },
+    {
+        "name": "DETRAN / TO / Impressão de CRLV",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/to/crlv"
+    },
+    {
+        "name": "DETRAN / TO / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/detran/to/veiculo"
+    },
+    {
+        "name": "Diário Oficial / SP / Valor Venal de Veículo / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/diario-oficial/sp/valor-venal"
+    },
+    {
+        "name": "DNIT / Identificação de Condutor Infrator",
+        "url": "https://api.infosimples.com/api/v2/consultas/dnit/identificacao-condutor"
+    },
+    {
+        "name": "DNIT / Infrações",
+        "url": "https://api.infosimples.com/api/v2/consultas/dnit/infracoes"
+    },
+    {
+        "name": "DNIT / Infrações (CNPJ)",
+        "url": "https://api.infosimples.com/api/v2/consultas/dnit/infracoes-cnpj"
+    },
+    {
+        "name": "DPRF / Nada consta",
+        "url": "https://api.infosimples.com/api/v2/consultas/dprf/nada-consta"
+    },
+    {
+        "name": "DPVAT / Emissão de Guia",
+        "url": "https://api.infosimples.com/api/v2/consultas/dpvat/guia"
+    },
+    {
+        "name": "ECAC / Caixa Postal",
+        "url": "https://api.infosimples.com/api/v2/consultas/ecac/caixa-postal"
+    },
+    {
+        "name": "ECAC / Comprovante de Pagamento",
+        "url": "https://api.infosimples.com/api/v2/consultas/ecac/comprovante-pagamento"
+    },
+    {
+        "name": "ECAC / DCTF WEB",
+        "url": "https://api.infosimples.com/api/v2/consultas/ecac/dctf-web"
+    },
+    {
+        "name": "ECAC / PER/DCOMP",
+        "url": "https://api.infosimples.com/api/v2/consultas/ecac/perdcomp"
+    },
+    {
+        "name": "ECAC / Situação Fiscal",
+        "url": "https://api.infosimples.com/api/v2/consultas/ecac/situacao-fiscal"
+    },
+    {
+        "name": "ECRVSP / ATPV (Intenção de Venda) / Imprimir",
+        "url": "https://api.infosimples.com/api/v2/consultas/ecrvsp/atpv/imprimir"
+    },
+    {
+        "name": "ECRVSP / Estampagem / Autorização",
+        "url": "https://api.infosimples.com/api/v2/consultas/ecrvsp/estampagem/autorizacao"
+    },
+    {
+        "name": "ECRVSP / Multas RENAINF / Por Placa",
+        "url": "https://api.infosimples.com/api/v2/consultas/ecrvsp/multas/placa"
+    },
+    {
+        "name": "ECRVSP / Processos / Andamento",
+        "url": "https://api.infosimples.com/api/v2/consultas/ecrvsp/processos/andamento"
+    },
+    {
+        "name": "ECRVSP / Processos / Imprimir CRLV-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/ecrvsp/processos/crlve"
+    },
+    {
+        "name": "ECRVSP / Restrições / Bloqueios Ativos DETRAN",
+        "url": "https://api.infosimples.com/api/v2/consultas/ecrvsp/restricoes/detran"
+    },
+    {
+        "name": "ECRVSP / Restrições / Bloqueios Judiciais RENAJUD",
+        "url": "https://api.infosimples.com/api/v2/consultas/ecrvsp/restricoes/renajud"
+    },
+    {
+        "name": "ECRVSP / Veículos / Base de Outros Estados",
+        "url": "https://api.infosimples.com/api/v2/consultas/ecrvsp/veiculos/base-outros"
+    },
+    {
+        "name": "ECRVSP / Veículos / Base Estadual de SP",
+        "url": "https://api.infosimples.com/api/v2/consultas/ecrvsp/veiculos/base-sp"
+    },
+    {
+        "name": "ECRVSP / Veículos / Cadastro BIN RENAVAM",
+        "url": "https://api.infosimples.com/api/v2/consultas/ecrvsp/veiculos/bin"
+    },
+    {
+        "name": "ECRVSP / Veículos / Gravames",
+        "url": "https://api.infosimples.com/api/v2/consultas/ecrvsp/veiculos/gravames"
+    },
+    {
+        "name": "FGTS / Emissão de Guia Rápida",
+        "url": "https://api.infosimples.com/api/v2/consultas/fgts/guia-rapida"
+    },
+    {
+        "name": "FGTS / Guia de Arrecadação",
+        "url": "https://api.infosimples.com/api/v2/consultas/fgts/guia"
+    },
+    {
+        "name": "GIT Cidadão (PR) / Multas",
+        "url": "https://api.infosimples.com/api/v2/consultas/git-cidadao-pr/multas"
+    },
+    {
+        "name": "GIT Cidadão (PR) / Notificações",
+        "url": "https://api.infosimples.com/api/v2/consultas/git-cidadao-pr/notificacoes"
+    },
+    {
+        "name": "GS1 / GTIN",
+        "url": "https://api.infosimples.com/api/v2/consultas/gs1/gtin"
+    },
+    {
+        "name": "IBAMA / Autuações Ambientais",
+        "url": "https://api.infosimples.com/api/v2/consultas/ibama/autuacoes"
+    },
+    {
+        "name": "IBAMA / Certidão de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/ibama/certidao-debitos"
+    },
+    {
+        "name": "IBAMA / Certidão de Embargos (Nada Consta)",
+        "url": "https://api.infosimples.com/api/v2/consultas/ibama/certidao-embargos"
+    },
+    {
+        "name": "IBAMA / Certificado de Regularidade",
+        "url": "https://api.infosimples.com/api/v2/consultas/ibama/certificado-regularidade"
+    },
+    {
+        "name": "IBGE / Código de Município",
+        "url": "https://api.infosimples.com/api/v2/consultas/ibge/codigo-municipio"
+    },
+    {
+        "name": "IBGE / Área territorial brasileira",
+        "url": "https://api.infosimples.com/api/v2/consultas/ibge/area-territorial"
+    },
+    {
+        "name": "ICIJ / Offshore Leaks Database",
+        "url": "https://api.infosimples.com/api/v2/consultas/icij/offshore-leaks"
+    },
+    {
+        "name": "IEPTB (CENPROT) / Protestos",
+        "url": "https://api.infosimples.com/api/v2/consultas/ieptb/protestos"
+    },
+    {
+        "name": "IEPTB (CENPROT) / Protestos / Detalhes SP",
+        "url": "https://api.infosimples.com/api/v2/consultas/ieptb/protestos/detalhes-sp"
+    },
+    {
+        "name": "INCRA / Disponibilizador de Coordenadas",
+        "url": "https://api.infosimples.com/api/v2/consultas/incra/coordenadas"
+    },
+    {
+        "name": "INCRA / SIGEF / Detalhes de Parcela",
+        "url": "https://api.infosimples.com/api/v2/consultas/incra/sigef/detalhes-parcela"
+    },
+    {
+        "name": "INCRA / SIGEF / Parcelas",
+        "url": "https://api.infosimples.com/api/v2/consultas/incra/sigef/parcelas"
+    },
+    {
+        "name": "INCRA / SIGEF / Requerimentos",
+        "url": "https://api.infosimples.com/api/v2/consultas/incra/sigef/requerimentos"
+    },
+    {
+        "name": "Infosimples / Certificado Digital (A1/A3)",
+        "url": "https://api.infosimples.com/api/v2/consultas/infosimples/certificado"
+    },
+    {
+        "name": "INMETRO / Cronotacógrafo",
+        "url": "https://api.infosimples.com/api/v2/consultas/inmetro/cronotacografo"
+    },
+    {
+        "name": "INMETRO / Instrumentos / Veículos Tanque",
+        "url": "https://api.infosimples.com/api/v2/consultas/inmetro/instrumentos/vc-tanque"
+    },
+    {
+        "name": "INPI / Marcas",
+        "url": "https://api.infosimples.com/api/v2/consultas/inpi/marcas"
+    },
+    {
+        "name": "INPI / Marcas por CPF/CNPJ",
+        "url": "https://api.infosimples.com/api/v2/consultas/inpi/marcas-titular"
+    },
+    {
+        "name": "INPI / Patentes",
+        "url": "https://api.infosimples.com/api/v2/consultas/inpi/patentes"
+    },
+    {
+        "name": "INPI / Processo de Registro de Marca (Completa)",
+        "url": "https://api.infosimples.com/api/v2/consultas/inpi/marcas-processo"
+    },
+    {
+        "name": "INPI / Processo de Registro de Marca (Resumida)",
+        "url": "https://api.infosimples.com/api/v2/consultas/inpi/marcas-processo-resumida"
+    },
+    {
+        "name": "Junta Comercial / SP / Certidão Simplificada",
+        "url": "https://api.infosimples.com/api/v2/consultas/junta-comercial/sp/simplifica"
+    },
+    {
+        "name": "Junta Comercial / SP / Download de Documento",
+        "url": "https://api.infosimples.com/api/v2/consultas/junta-comercial/sp/download-dc"
+    },
+    {
+        "name": "Junta Comercial / SP / Ficha Cadastral Completa",
+        "url": "https://api.infosimples.com/api/v2/consultas/junta-comercial/sp/completa"
+    },
+    {
+        "name": "Junta Comercial / SP / Ficha Cadastral Simplificada",
+        "url": "https://api.infosimples.com/api/v2/consultas/junta-comercial/sp/ficha"
+    },
+    {
+        "name": "Junta Comercial / SP / Lista de Documentos",
+        "url": "https://api.infosimples.com/api/v2/consultas/junta-comercial/sp/lista-dcs"
+    },
+    {
+        "name": "Junta Comercial / SP / NIRE (Pesquisa Avançada)",
+        "url": "https://api.infosimples.com/api/v2/consultas/junta-comercial/sp/nire"
+    },
+    {
+        "name": "Junta Comercial / SP / NIRE a partir de Sócio",
+        "url": "https://api.infosimples.com/api/v2/consultas/junta-comercial/sp/nire-socio"
+    },
+    {
+        "name": "Junta Comercial / SP / REDESIM / Acompanhamento de Protocolo",
+        "url": "https://api.infosimples.com/api/v2/consultas/junta-comercial/sp/redesim/acp"
+    },
+    {
+        "name": "Laudos Veiculares / DEKRA / ECV (Empresa Credenciada de Vistoria)",
+        "url": "https://api.infosimples.com/api/v2/consultas/laudos-veiculares/dekra/ecv"
+    },
+    {
+        "name": "Laudos Veiculares / DEKRA / LCD (Classificação de Danos)",
+        "url": "https://api.infosimples.com/api/v2/consultas/laudos-veiculares/dekra/lcd"
+    },
+    {
+        "name": "Laudos Veiculares / Plenaver / ECV (Empresa Credenciada de Vistoria)",
+        "url": "https://api.infosimples.com/api/v2/consultas/laudos-veiculares/plenaver/ecv"
+    },
+    {
+        "name": "Laudos Veiculares / Plenaver / LCD (Classificação de Danos)",
+        "url": "https://api.infosimples.com/api/v2/consultas/laudos-veiculares/plenaver/lcd"
+    },
+    {
+        "name": "Laudos Veiculares / Tokio Seguradora / ECV (Empresa Credenciada de Vistoria)",
+        "url": "https://api.infosimples.com/api/v2/consultas/laudos-veiculares/tokio/ecv"
+    },
+    {
+        "name": "Laudos Veiculares / Tokio Seguradora / LCD (Classificação de Danos)",
+        "url": "https://api.infosimples.com/api/v2/consultas/laudos-veiculares/tokio/lcd"
+    },
+    {
+        "name": "MDA / SEAD / Declaração de Aptidão ao PRONAF (DAP)",
+        "url": "https://api.infosimples.com/api/v2/consultas/mda/sead/dap"
+    },
+    {
+        "name": "Ministério da Fazenda / SPED",
+        "url": "https://api.infosimples.com/api/v2/consultas/fazenda/sped"
+    },
+    {
+        "name": "MPF / Amazônia Protege",
+        "url": "https://api.infosimples.com/api/v2/consultas/mpf/amazonia-protege"
+    },
+    {
+        "name": "MPF / Lava-Jato",
+        "url": "https://api.infosimples.com/api/v2/consultas/mpf/lava-jato"
+    },
+    {
+        "name": "MPF / Processos",
+        "url": "https://api.infosimples.com/api/v2/consultas/mpf/processos"
+    },
+    {
+        "name": "MTE / Certidão de Débitos Trabalhistas",
+        "url": "https://api.infosimples.com/api/v2/consultas/mte/certidao-debitos"
+    },
+    {
+        "name": "MTE / Processos por Empregador",
+        "url": "https://api.infosimples.com/api/v2/consultas/mte/processo-empregador"
+    },
+    {
+        "name": "MTE / RAIS",
+        "url": "https://api.infosimples.com/api/v2/consultas/mte/rais"
+    },
+    {
+        "name": "OFAC / Sanções",
+        "url": "https://api.infosimples.com/api/v2/consultas/ofac/sancoes"
+    },
+    {
+        "name": "ONU / Sanções",
+        "url": "https://api.infosimples.com/api/v2/consultas/onu/sancoes"
+    },
+    {
+        "name": "Polícia Federal / Situação e Regularidade de Empresa de Segurança Privada",
+        "url": "https://api.infosimples.com/api/v2/consultas/pf/regularidade-empresa"
+    },
+    {
+        "name": "Polícia Militar / PR / Boletim de Acidentes de Trânsito",
+        "url": "https://api.infosimples.com/api/v2/consultas/pm/pr/bateu"
+    },
+    {
+        "name": "Polícia Rodoviária Federal / Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/prf/debitos"
+    },
+    {
+        "name": "Polícia Rodoviária Federal / Infrações",
+        "url": "https://api.infosimples.com/api/v2/consultas/prf/infracoes"
+    },
+    {
+        "name": "Portal da Transparência / Acordos de Leniência",
+        "url": "https://api.infosimples.com/api/v2/consultas/portal-transparencia/leniencia"
+    },
+    {
+        "name": "Portal da Transparência / Auxílio Emergencial",
+        "url": "https://api.infosimples.com/api/v2/consultas/portal-transparencia/auxilio"
+    },
+    {
+        "name": "Portal da Transparência / Benefício de Prestação Continuada - BPC",
+        "url": "https://api.infosimples.com/api/v2/consultas/portal-transparencia/bpc"
+    },
+    {
+        "name": "Portal da Transparência / Bolsa Família",
+        "url": "https://api.infosimples.com/api/v2/consultas/portal-transparencia/bolsa"
+    },
+    {
+        "name": "Portal da Transparência / Busca",
+        "url": "https://api.infosimples.com/api/v2/consultas/portal-transparencia/busca"
+    },
+    {
+        "name": "Portal da Transparência / Cadastro de Empresas Inidôneas e Suspensas (CEIS)",
+        "url": "https://api.infosimples.com/api/v2/consultas/portal-transparencia/ceis"
+    },
+    {
+        "name": "Portal da Transparência / Cadastro de Entidades Privadas sem Fins Lucrativos Impedidas (CEPIM)",
+        "url": "https://api.infosimples.com/api/v2/consultas/portal-transparencia/cepim"
+    },
+    {
+        "name": "Portal da Transparência / Cadastro de Expulsões da Administração Federal (CEAF)",
+        "url": "https://api.infosimples.com/api/v2/consultas/portal-transparencia/ceaf"
+    },
+    {
+        "name": "Portal da Transparência / Cadastro Nacional de Empresas Punidas (CNEP)",
+        "url": "https://api.infosimples.com/api/v2/consultas/portal-transparencia/cnep"
+    },
+    {
+        "name": "Portal da Transparência / Convênios e Acordos",
+        "url": "https://api.infosimples.com/api/v2/consultas/portal-transparencia/convenios"
+    },
+    {
+        "name": "Portal da Transparência / Garantia-Safra",
+        "url": "https://api.infosimples.com/api/v2/consultas/portal-transparencia/safra"
+    },
+    {
+        "name": "Portal da Transparência / Programa de Erradicação do Trabalho Infantil - PETI",
+        "url": "https://api.infosimples.com/api/v2/consultas/portal-transparencia/peti"
+    },
+    {
+        "name": "Portal da Transparência / Repasse de Verba",
+        "url": "https://api.infosimples.com/api/v2/consultas/portal-transparencia/repasse"
+    },
+    {
+        "name": "Portal da Transparência / Seguro Defeso",
+        "url": "https://api.infosimples.com/api/v2/consultas/portal-transparencia/seguro"
+    },
+    {
+        "name": "Portal da Transparência / Servidor Público",
+        "url": "https://api.infosimples.com/api/v2/consultas/portal-transparencia/servidor"
+    },
+    {
+        "name": "Prefeitura / AP / Macapá / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ap/macapa/cnd"
+    },
+    {
+        "name": "Prefeitura / AP / Santana / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ap/santana/cnd"
+    },
+    {
+        "name": "Prefeitura / BA / Camaçari / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ba/camacari/cnd"
+    },
+    {
+        "name": "Prefeitura / BA / Ilheus / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ba/ilheus/cnd"
+    },
+    {
+        "name": "Prefeitura / BA / Juazeiro / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ba/juazeiro/cnd"
+    },
+    {
+        "name": "Prefeitura / BA / Salvador / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ba/salvador/cnd"
+    },
+    {
+        "name": "Prefeitura / BA / Salvador / Nada Consta",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ba/salvador/nada-consta"
+    },
+    {
+        "name": "Prefeitura / BA / Salvador / NFS-e (Nota Fiscal Eletrônica de Serviços)",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ba/salvador/nfs"
+    },
+    {
+        "name": "Prefeitura / Campina Grande / Multas",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/pb/campina-grande/multas"
+    },
+    {
+        "name": "Prefeitura / CE / Fortaleza / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ce/fortaleza/cnd"
+    },
+    {
+        "name": "Prefeitura / CE / Fortaleza / CPOM",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ce/fortaleza/cpom"
+    },
+    {
+        "name": "Prefeitura / CE / Jaguaretama / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ce/jaguaretama/cnd"
+    },
+    {
+        "name": "Prefeitura / CPOM",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/cpom"
+    },
+    {
+        "name": "Prefeitura / GO / Anápolis / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/go/anapolis/cnd"
+    },
+    {
+        "name": "Prefeitura / GO / Aparecida de Goiânia / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/go/aparecida-goiania/cnd"
+    },
+    {
+        "name": "Prefeitura / GO / Catalão / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/go/catalao/cnd"
+    },
+    {
+        "name": "Prefeitura / GO / Firminópolis / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/go/firminopolis/cnd"
+    },
+    {
+        "name": "Prefeitura / GO / Goiânia / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/go/goiania/cnd"
+    },
+    {
+        "name": "Prefeitura / GO / Itumbiara / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/go/itumbiara/cnd"
+    },
+    {
+        "name": "Prefeitura / GO / Jataí / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/go/jatai/cnd"
+    },
+    {
+        "name": "Prefeitura / GO / Morrinhos / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/go/morrinhos/cnd"
+    },
+    {
+        "name": "Prefeitura / GO / Perolândia / Licitações",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/go/perolandia/licitacoes"
+    },
+    {
+        "name": "Prefeitura / GO / Rio Verde / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/go/rio-verde/cnd"
+    },
+    {
+        "name": "Prefeitura / MA / Balsas / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ma/balsas/cnd"
+    },
+    {
+        "name": "Prefeitura / MA / São Luís / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ma/sao-luis/cnd"
+    },
+    {
+        "name": "Prefeitura / MG / Araújos / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/araujos/cnd"
+    },
+    {
+        "name": "Prefeitura / MG / Belo Horizonte / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/belo-horizonte/cnd"
+    },
+    {
+        "name": "Prefeitura / MG / Belo Horizonte / Certidão Negativa de Débitos (IPTU)",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/belo-horizonte/cndiptu"
+    },
+    {
+        "name": "Prefeitura / MG / Belo Horizonte / IPTU (Emissão Guia)",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/belo-horizonte/iptu"
+    },
+    {
+        "name": "Prefeitura / MG / Contagem / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/contagem/cnd"
+    },
+    {
+        "name": "Prefeitura / MG / Contagem / NFS-e (Nota Fiscal Eletrônica de Serviços)",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/contagem/nfs"
+    },
+    {
+        "name": "Prefeitura / MG / Divinópolis / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/divinopolis/cnd"
+    },
+    {
+        "name": "Prefeitura / MG / Dores do Indaiá / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/dores-indaia/cnd"
+    },
+    {
+        "name": "Prefeitura / MG / Itaúna / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/itauna/cnd"
+    },
+    {
+        "name": "Prefeitura / MG / Janaúba / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/janauba/cnd"
+    },
+    {
+        "name": "Prefeitura / MG / Juatuba / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/juatuba/cnd"
+    },
+    {
+        "name": "Prefeitura / MG / Luz / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/luz/cnd"
+    },
+    {
+        "name": "Prefeitura / MG / Martinho Campos / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/martinho-campos/cnd"
+    },
+    {
+        "name": "Prefeitura / MG / Nova Serrana / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/nova-serrana/cnd"
+    },
+    {
+        "name": "Prefeitura / MG / Santa Vitória / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/santa-vitoria/cnd"
+    },
+    {
+        "name": "Prefeitura / MG / Uberaba / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/uberaba/cnd"
+    },
+    {
+        "name": "Prefeitura / MG / Uberlândia / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/uberlandia/cnd"
+    },
+    {
+        "name": "Prefeitura / MG / Ubá / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mg/uba/cnd"
+    },
+    {
+        "name": "Prefeitura / MS / Calculadora de Fretes",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ms/calculadora-frete"
+    },
+    {
+        "name": "Prefeitura / MS / Campo Grande / NFS-e (Nota Fiscal Eletrônica de Serviços)",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ms/campo-grande/nfs"
+    },
+    {
+        "name": "Prefeitura / MS / Chapadão do Sul / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ms/chapadao-do-sul/cnd"
+    },
+    {
+        "name": "Prefeitura / MS / Naviraí / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/ms/navirai/cnd"
+    },
+    {
+        "name": "Prefeitura / MT / Cuiabá / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mt/cuiaba/cnd"
+    },
+    {
+        "name": "Prefeitura / MT / Cuiabá / NFS-e (Nota Fiscal Eletrônica de Serviços)",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mt/cuiaba/nfs"
+    },
+    {
+        "name": "Prefeitura / MT / Rondonópolis / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/mt/rondonopolis/cnd"
+    },
+    {
+        "name": "Prefeitura / PA / Itaituba / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/pa/itaituba/cnd"
+    },
+    {
+        "name": "Prefeitura / PB / Mataraca / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/pb/mataraca/cnd"
+    },
+    {
+        "name": "Prefeitura / PE / Petrolina / Multas",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/pe/petrolina/multas"
+    },
+    {
+        "name": "Prefeitura / PE / Recife / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/pe/recife/cnd"
+    },
+    {
+        "name": "Prefeitura / PE / Recife / CPOM",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/pe/recife/cpom"
+    },
+    {
+        "name": "Prefeitura / PE / Recife / NFS-e (Nota Fiscal Eletrônica de Serviços)",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/pe/recife/nfs"
+    },
+    {
+        "name": "Prefeitura / PR / Ampére / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/pr/ampere/cnd"
+    },
+    {
+        "name": "Prefeitura / PR / Curitiba / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/pr/curitiba/cnd"
+    },
+    {
+        "name": "Prefeitura / PR / Francisco Beltrão / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/pr/francisco-beltrao/cnd"
+    },
+    {
+        "name": "Prefeitura / RJ / Duque de Caxias / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/rj/duque-de-caxias/cnd"
+    },
+    {
+        "name": "Prefeitura / RJ / Rio de Janeiro / Certidão de Elementos Cadastrais - IPTU",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/rj/rio-janeiro/cert-cad"
+    },
+    {
+        "name": "Prefeitura / RJ / Rio de Janeiro / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/rj/rio-janeiro/cnd"
+    },
+    {
+        "name": "Prefeitura / RJ / Rio de Janeiro / Certidão Tributária de IPTU",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/rj/rio-janeiro/cert-trib"
+    },
+    {
+        "name": "Prefeitura / RJ / Rio de Janeiro / CPOM",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/rj/rio-janeiro/cpom"
+    },
+    {
+        "name": "Prefeitura / RJ / Rio de Janeiro / Multas (Descritivos)",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/rj/rio-janeiro/multas"
+    },
+    {
+        "name": "Prefeitura / RJ / Rio de Janeiro / NFS-e (Nota Fiscal Eletrônica de Serviços)",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/rj/rio-janeiro/nfs"
+    },
+    {
+        "name": "Prefeitura / RN / Natal / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/rn/natal/cnd"
+    },
+    {
+        "name": "Prefeitura / RN / Touros / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/rn/touros/cnd"
+    },
+    {
+        "name": "Prefeitura / RS / Caxias do Sul / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/rs/caxias-do-sul/cnd"
+    },
+    {
+        "name": "Prefeitura / RS / Farroupilha / NFS-e (Nota Fiscal Eletrônica de Serviços)",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/rs/farroupilha/nfs"
+    },
+    {
+        "name": "Prefeitura / RS / Montenegro / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/rs/montenegro/cnd"
+    },
+    {
+        "name": "Prefeitura / RS / Porto Alegre / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/rs/porto-alegre/cnd"
+    },
+    {
+        "name": "Prefeitura / RS / Porto Alegre / Comprovante de Inscrição do ISSQN",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/rs/porto-alegre/issqn"
+    },
+    {
+        "name": "Prefeitura / RS / Santa Cruz do Sul / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/rs/santa-cruz-do-sul/cnd"
+    },
+    {
+        "name": "Prefeitura / RS / Três Coroas / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/rs/tres-coroas/cnd"
+    },
+    {
+        "name": "Prefeitura / SC / Blumenau / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sc/blumenau/cnd"
+    },
+    {
+        "name": "Prefeitura / SC / Florianópolis / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sc/florianopolis/cnd"
+    },
+    {
+        "name": "Prefeitura / SC / Imbituba / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sc/imbituba/cnd"
+    },
+    {
+        "name": "Prefeitura / SC / Itajaí / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sc/itajai/cnd"
+    },
+    {
+        "name": "Prefeitura / SC / Joinville / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sc/joinville/cnd"
+    },
+    {
+        "name": "Prefeitura / SE / Laranjeiras / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/se/laranjeiras/cnd"
+    },
+    {
+        "name": "Prefeitura / SP / Araçariguama / NFS-e (Nota Fiscal Eletrônica de Serviços)",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/aracariguama/nfs"
+    },
+    {
+        "name": "Prefeitura / SP / Campinas / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/campinas/cnd"
+    },
+    {
+        "name": "Prefeitura / SP / Campinas / CPOM",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/campinas/cpom"
+    },
+    {
+        "name": "Prefeitura / SP / Campinas / Parcelas IPTU",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/campinas/iptu"
+    },
+    {
+        "name": "Prefeitura / SP / Campinas / Regularidade OTTC (Operadoras de Tecnologia de Transporte Credenciado)",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/campinas/ottc"
+    },
+    {
+        "name": "Prefeitura / SP / Guarulhos / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/guarulhos/cnd"
+    },
+    {
+        "name": "Prefeitura / SP / Hortolândia / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/hortolandia/cnd"
+    },
+    {
+        "name": "Prefeitura / SP / Jundiaí / Certidão Tributária de IPTU",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/jundiai/cert-trib-iptu"
+    },
+    {
+        "name": "Prefeitura / SP / Mairiporã / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/mairipora/cnd"
+    },
+    {
+        "name": "Prefeitura / SP / Mogi das Cruzes / CPOM",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/mogi-cruzes/cpom"
+    },
+    {
+        "name": "Prefeitura / SP / Osasco / Certidão Tributária de IPTU",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/osasco/iptu"
+    },
+    {
+        "name": "Prefeitura / SP / Sorocaba / CPOM",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sorocaba/cpom"
+    },
+    {
+        "name": "Prefeitura / SP / Sumaré / NFS-e (Nota Fiscal Eletrônica de Serviços)",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sumare/nfs"
+    },
+    {
+        "name": "Prefeitura / SP / São Bernardo do Campo / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-bernardo/cnd"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / 2ª Via da Taxa de Elevadores",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/tx-elevador"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / AIT",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/ait"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / AIT (Últimos 36 meses)",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/ait-listagem"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / CADIN",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/cadin"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / Caixa Postal",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/caixa-postal"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / CCM",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/ccm"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / Certidão de Dados Cadastrais do Imóvel",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/dados-imovel"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / Certidão Tributária de IPTU",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/iptu"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / Certidão Tributária Mobiliária",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/ctm"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / CPOM",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/cpom"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / DSV Digital",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/dsv-digital"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / Débitos de IPTU",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/debitos-iptu"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / Dívida Ativa",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/divida-ativa"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / Multas",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/multas-guias"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / Multas (Antiga)",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/multas"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / NFS-e (Nota Fiscal Eletrônica de Serviços)",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/nfs"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / Recursos de Multas",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/recursos"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / Regularidade OTTC",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/ottc"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / Segunda via Simplificada de IPTU",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/iptu2via"
+    },
+    {
+        "name": "Prefeitura / SP / São Paulo / Valor Venal de Referência",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/sp/sao-paulo/valor-ref"
+    },
+    {
+        "name": "Prefeitura / TO / Colinas / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/pref/to/colinas/cnd"
+    },
+    {
+        "name": "Procuradoria Geral do Estado / BA / Dívida Ativa",
+        "url": "https://api.infosimples.com/api/v2/consultas/pge/ba/divida-ativa"
+    },
+    {
+        "name": "Procuradoria Geral do Estado / MT / Dívida Ativa",
+        "url": "https://api.infosimples.com/api/v2/consultas/pge/mt/divida-ativa"
+    },
+    {
+        "name": "Procuradoria Geral do Estado / RJ / Dívida Ativa",
+        "url": "https://api.infosimples.com/api/v2/consultas/pge/rj/divida-ativa"
+    },
+    {
+        "name": "Procuradoria Geral do Estado / SP / Certidão Negativa de Débitos Tributários",
+        "url": "https://api.infosimples.com/api/v2/consultas/pge/sp/cndt"
+    },
+    {
+        "name": "Procuradoria Geral do Estado / SP / Dívida Ativa",
+        "url": "https://api.infosimples.com/api/v2/consultas/pge/sp/divida-ativa"
+    },
+    {
+        "name": "Procuradoria Geral do Estado / SP / Emissão de GARE de Liquidação",
+        "url": "https://api.infosimples.com/api/v2/consultas/pge/sp/emissao-gare"
+    },
+    {
+        "name": "Receita Federal / Agenda Tributária",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/agenda-tribut"
+    },
+    {
+        "name": "Receita Federal / Cafir",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/cafir"
+    },
+    {
+        "name": "Receita Federal / CNPJ",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/cnpj"
+    },
+    {
+        "name": "Receita Federal / CPF",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/cpf"
+    },
+    {
+        "name": "Receita Federal / CTe",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/cte"
+    },
+    {
+        "name": "Receita Federal / IRPF",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/irpf"
+    },
+    {
+        "name": "Receita Federal / MEI",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/mei"
+    },
+    {
+        "name": "Receita Federal / NFE",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/nfe"
+    },
+    {
+        "name": "Receita Federal / NFS-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/nfse"
+    },
+    {
+        "name": "Receita Federal / NIRF",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/nirf"
+    },
+    {
+        "name": "Receita Federal / PER/DCOMP",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/perdcomp"
+    },
+    {
+        "name": "Receita Federal / PGFN (CND Federal)",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/pgfn"
+    },
+    {
+        "name": "Receita Federal / PGFN (CND Federal) - Lista Segunda Via",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/pgfn/2via-list"
+    },
+    {
+        "name": "Receita Federal / PGFN (CND Federal) - Nova",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/pgfn/nova"
+    },
+    {
+        "name": "Receita Federal / PGFN (CND Federal) - Segunda Via",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/pgfn/2via"
+    },
+    {
+        "name": "Receita Federal / PGFN / Lista de Devedores",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/pgfn/devedores"
+    },
+    {
+        "name": "Receita Federal / Radar (Habilitação Comércio Exterior)",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/radar"
+    },
+    {
+        "name": "Receita Federal / REDESIM / Acompanhamento de Protocolo",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/redesim/acompa"
+    },
+    {
+        "name": "Receita Federal / SICALC / Gerar DARF",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/sicalc/darf"
+    },
+    {
+        "name": "Receita Federal / SIMEI (Declaração Anual)",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/simei-dasn"
+    },
+    {
+        "name": "Receita Federal / Simei / MEI / Emissão de Guia de Parcelamento",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/simei/mei/eg"
+    },
+    {
+        "name": "Receita Federal / Simples (DASN SIMEI)",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/simples-dasn"
+    },
+    {
+        "name": "Receita Federal / Simples (Emissão de DAS de MEI)",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/simples-das"
+    },
+    {
+        "name": "Receita Federal / Simples (Listagem de Períodos para Emissão de DAS)",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/listar-das"
+    },
+    {
+        "name": "Receita Federal / Simples / MEI / Emissão de Guia de Parcelamento",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/simples/mei/eg"
+    },
+    {
+        "name": "Receita Federal / Simples Nacional",
+        "url": "https://api.infosimples.com/api/v2/consultas/receita-federal/simples"
+    },
+    {
+        "name": "Registradores (ARISP) / Consulta de Informações da Conta",
+        "url": "https://api.infosimples.com/api/v2/consultas/registradores/info-conta"
+    },
+    {
+        "name": "Registradores (ARISP) / Matrícula / Download de Matrícula",
+        "url": "https://api.infosimples.com/api/v2/consultas/registradores/matric/download"
+    },
+    {
+        "name": "Registradores (ARISP) / Matrícula / Lista de Pedidos",
+        "url": "https://api.infosimples.com/api/v2/consultas/registradores/matric/lista"
+    },
+    {
+        "name": "Registradores (ARISP) / Matrícula / Novo Pedido de Visualização de Matrícula",
+        "url": "https://api.infosimples.com/api/v2/consultas/registradores/matric/pedido"
+    },
+    {
+        "name": "Registro BR / Whois",
+        "url": "https://api.infosimples.com/api/v2/consultas/registro-br/whois"
+    },
+    {
+        "name": "Secretaria de Inspeção do Trabalho / Trabalho Escravo",
+        "url": "https://api.infosimples.com/api/v2/consultas/sit/trabalho-escravo"
+    },
+    {
+        "name": "SEFAZ / AC / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ac/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / AC / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ac/nfce"
+    },
+    {
+        "name": "SEFAZ / AL / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/al/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / AL / DEC / Caixa Postal",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/al/dec/caixa-postal"
+    },
+    {
+        "name": "SEFAZ / AL / IPVA (ano atual)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/al/ipva"
+    },
+    {
+        "name": "SEFAZ / AL / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/al/nfce"
+    },
+    {
+        "name": "SEFAZ / AL / Pagamento de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/al/pagamento-debitos"
+    },
+    {
+        "name": "SEFAZ / AM / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/am/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / AM / Certidão Negativa de Débitos (Certificado Digital)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/am/certidao-debitos-cert"
+    },
+    {
+        "name": "SEFAZ / AM / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/am/ipva"
+    },
+    {
+        "name": "SEFAZ / AM / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/am/nfce"
+    },
+    {
+        "name": "SEFAZ / AM / NFC-e Completa",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/am/nfce-completa"
+    },
+    {
+        "name": "SEFAZ / AP / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ap/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / AP / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ap/nfce"
+    },
+    {
+        "name": "SEFAZ / BA / Cadastro Centralizado de Contribuinte (CCC) - Homologação",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ba/cadastro-centralizado"
+    },
+    {
+        "name": "SEFAZ / BA / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ba/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / BA / Emitir guia de IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ba/guia-ipva"
+    },
+    {
+        "name": "SEFAZ / BA / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ba/ipva"
+    },
+    {
+        "name": "SEFAZ / BA / IPVA Notificado",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ba/ipva-notificado"
+    },
+    {
+        "name": "SEFAZ / BA / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ba/nfce"
+    },
+    {
+        "name": "SEFAZ / BA / NFC-e (Completa)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ba/nfce-completa"
+    },
+    {
+        "name": "SEFAZ / Cadastro Centralizado de Contribuinte (CCC)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/cadastro-centralizado"
+    },
+    {
+        "name": "SEFAZ / CE / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ce/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / CE / Cupom Fiscal Eletrônico (SAT)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ce/cfe"
+    },
+    {
+        "name": "SEFAZ / CE / DEC / Caixa Postal",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ce/dec/caixa-postal"
+    },
+    {
+        "name": "SEFAZ / CE / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ce/ipva"
+    },
+    {
+        "name": "SEFAZ / CE / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ce/nfce"
+    },
+    {
+        "name": "SEFAZ / CE / NFE",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ce/nfe"
+    },
+    {
+        "name": "SEFAZ / Certidão Negativa de Débitos Estaduais",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / DF / Certidão de Dívida Ativa",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/df/certidao-divida-ativa"
+    },
+    {
+        "name": "SEFAZ / DF / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/df/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / DF / IPTU (Emissão Guia)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/df/iptu"
+    },
+    {
+        "name": "SEFAZ / DF / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/df/ipva"
+    },
+    {
+        "name": "SEFAZ / DF / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/df/nfce"
+    },
+    {
+        "name": "SEFAZ / ES / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/es/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / ES / Certidão Negativa de Débitos (via login)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/es/cnd-login"
+    },
+    {
+        "name": "SEFAZ / ES / DEC / Caixa Postal",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/es/dec/caixa-postal"
+    },
+    {
+        "name": "SEFAZ / ES / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/es/nfce"
+    },
+    {
+        "name": "SEFAZ / GO / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/go/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / GO / DEC / Caixa Postal",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/go/dec/caixa-postal"
+    },
+    {
+        "name": "SEFAZ / GO / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/go/ipva"
+    },
+    {
+        "name": "SEFAZ / GO / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/go/nfce"
+    },
+    {
+        "name": "SEFAZ / GO / Produtor Rural",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/go/produtor-rural"
+    },
+    {
+        "name": "SEFAZ / MA / Certidão de Dívida Ativa",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ma/certidao-divida-ativa"
+    },
+    {
+        "name": "SEFAZ / MA / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ma/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / MA / DEC / Caixa Postal",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ma/dec/caixa-postal"
+    },
+    {
+        "name": "SEFAZ / MA / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ma/ipva"
+    },
+    {
+        "name": "SEFAZ / MA / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ma/nfce"
+    },
+    {
+        "name": "SEFAZ / MG / CADIN",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/mg/cadin"
+    },
+    {
+        "name": "SEFAZ / MG / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/mg/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / MG / DEC / Caixa Postal",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/mg/dec/caixa-postal"
+    },
+    {
+        "name": "SEFAZ / MG / NFC-e Resumida",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/mg/nfce-resumida"
+    },
+    {
+        "name": "SEFAZ / MG / Protesto Inscrito em Dívida Ativa",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/mg/protesto"
+    },
+    {
+        "name": "SEFAZ / MG / Simulação de Parcelamento IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/mg/simulacao-ipva"
+    },
+    {
+        "name": "SEFAZ / MS / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ms/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / MS / DTE / Caixa Postal",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ms/dec/caixa-postal"
+    },
+    {
+        "name": "SEFAZ / MS / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ms/ipva"
+    },
+    {
+        "name": "SEFAZ / MS / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ms/nfce"
+    },
+    {
+        "name": "SEFAZ / MT / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/mt/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / MT / Consulta Credenciamentos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/mt/credenciamentos"
+    },
+    {
+        "name": "SEFAZ / MT / DEC / Caixa Postal",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/mt/dec/caixa-postal"
+    },
+    {
+        "name": "SEFAZ / MT / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/mt/ipva"
+    },
+    {
+        "name": "SEFAZ / MT / IPVA (Extrato)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/mt/extrato-ipva"
+    },
+    {
+        "name": "SEFAZ / MT / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/mt/nfce"
+    },
+    {
+        "name": "SEFAZ / MT / Primeiro Emplacamento",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/mt/primeiro-emplacamento"
+    },
+    {
+        "name": "SEFAZ / MT / Reimpressão de Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/mt/reimpressao-cnd"
+    },
+    {
+        "name": "SEFAZ / NFC-e (Unificada)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/nfce"
+    },
+    {
+        "name": "SEFAZ / PA / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pa/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / PA / DEC / Caixa Postal",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pa/dec/caixa-postal"
+    },
+    {
+        "name": "SEFAZ / PA / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pa/nfce"
+    },
+    {
+        "name": "SEFAZ / PB / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pb/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / PB / Emissão Dar",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pb/emissao-dar"
+    },
+    {
+        "name": "SEFAZ / PB / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pb/ipva"
+    },
+    {
+        "name": "SEFAZ / PB / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pb/nfce"
+    },
+    {
+        "name": "SEFAZ / PE / Certidão de Regularidade Fiscal",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pe/crf"
+    },
+    {
+        "name": "SEFAZ / PE / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pe/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / PE / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pe/nfce"
+    },
+    {
+        "name": "SEFAZ / PI / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pi/ipva"
+    },
+    {
+        "name": "SEFAZ / PI / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pi/nfce"
+    },
+    {
+        "name": "SEFAZ / PI / Solicitar Certidão Negativa da Dívida Ativa (CNDA)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pi/cnda"
+    },
+    {
+        "name": "SEFAZ / PI / Solicitar Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pi/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / PI / Visualizar certidões CNDA/CND",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pi/visualizar-cert"
+    },
+    {
+        "name": "SEFAZ / PR",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pr"
+    },
+    {
+        "name": "SEFAZ / PR / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pr/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / PR / DEC / Caixa Postal",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pr/dec/caixa-postal"
+    },
+    {
+        "name": "SEFAZ / PR / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pr/ipva"
+    },
+    {
+        "name": "SEFAZ / PR / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pr/nfce"
+    },
+    {
+        "name": "SEFAZ / PR / NFE",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/pr/nfe"
+    },
+    {
+        "name": "SEFAZ / RJ / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/rj/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / RJ / Certidão Negativa de Débitos (Certificado Digital)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/rj/certidao-debitos-cert"
+    },
+    {
+        "name": "SEFAZ / RJ / DEC / Caixa Postal",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/rj/dec/caixa-postal"
+    },
+    {
+        "name": "SEFAZ / RJ / NFC-e Completa",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/rj/nfce-completa"
+    },
+    {
+        "name": "SEFAZ / RJ / NFC-e Resumida",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/rj/nfce-resumida"
+    },
+    {
+        "name": "SEFAZ / RN / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/rn/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / RN / NFC-e Resumida",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/rn/nfce-resumida"
+    },
+    {
+        "name": "SEFAZ / RO / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ro/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / RO / DEC / Caixa Postal",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ro/dec/caixa-postal"
+    },
+    {
+        "name": "SEFAZ / RO / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ro/ipva"
+    },
+    {
+        "name": "SEFAZ / RO / NFC-e Completa",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ro/nfce-completa"
+    },
+    {
+        "name": "SEFAZ / RO / NFC-e Resumida",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/ro/nfce-resumida"
+    },
+    {
+        "name": "SEFAZ / RR / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/rr/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / RR / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/rr/nfce"
+    },
+    {
+        "name": "SEFAZ / RS / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/rs/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / RS / ECAC / CND",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/rs/ecac/cnd"
+    },
+    {
+        "name": "SEFAZ / RS / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/rs/ipva"
+    },
+    {
+        "name": "SEFAZ / RS / NFC-e (SVRS)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/rs/nfce-svrs"
+    },
+    {
+        "name": "SEFAZ / RS / NFC-e Resumida",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/rs/nfce-resumida"
+    },
+    {
+        "name": "SEFAZ / SC / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/sc/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / SC / DEC / Caixa Postal",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/sc/dec/caixa-postal"
+    },
+    {
+        "name": "SEFAZ / SC / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/sc/nfce"
+    },
+    {
+        "name": "SEFAZ / SC / NFE",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/sc/nfe"
+    },
+    {
+        "name": "SEFAZ / SE / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/se/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / SE / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/se/nfce"
+    },
+    {
+        "name": "SEFAZ / SE / Pagamento de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/se/pagamento-debitos"
+    },
+    {
+        "name": "SEFAZ / SP / Cadin",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/sp/cadin"
+    },
+    {
+        "name": "SEFAZ / SP / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/sp/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / SP / Cupom Fiscal Eletrônico (SAT)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/sp/cfe"
+    },
+    {
+        "name": "SEFAZ / SP / Cupom Fiscal Eletrônico (SAT) - Detalhado",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/sp/cfe-completa"
+    },
+    {
+        "name": "SEFAZ / SP / DEC / Caixa Postal",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/sp/dec/caixa-postal"
+    },
+    {
+        "name": "SEFAZ / SP / Débitos de Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/sp/debitos-veiculo"
+    },
+    {
+        "name": "SEFAZ / SP / Emissão de guias de IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/sp/emissao-guias-ipva"
+    },
+    {
+        "name": "SEFAZ / SP / IPVA (Veículo Zero KM)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/sp/ipva-zero-km"
+    },
+    {
+        "name": "SEFAZ / SP / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/sp/nfce"
+    },
+    {
+        "name": "SEFAZ / SP / NFE",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/sp/nfe"
+    },
+    {
+        "name": "SEFAZ / SPU / Dados Cadastrais de Imóvel da União",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/spu/dados-imoveis"
+    },
+    {
+        "name": "SEFAZ / SPU / Emitir Certidões de Imóveis da União",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/spu/certidao-imoveis"
+    },
+    {
+        "name": "SEFAZ / TO / Certidão Negativa de Débitos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/to/certidao-debitos"
+    },
+    {
+        "name": "SEFAZ / TO / Extrato IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/to/extrato-ipva"
+    },
+    {
+        "name": "SEFAZ / TO / IPVA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/to/ipva"
+    },
+    {
+        "name": "SEFAZ / TO / NFC-e",
+        "url": "https://api.infosimples.com/api/v2/consultas/sefaz/to/nfce"
+    },
+    {
+        "name": "SEMA / MT / APF Rural",
+        "url": "https://api.infosimples.com/api/v2/consultas/sema/mt/apf"
+    },
+    {
+        "name": "SEMA / PA / Lista de Desmatamento Ilegal do Pará (LDI)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sema/pa/ldi"
+    },
+    {
+        "name": "SENATRAN / CRLV (Certificado de Registro e Licenciamento do Veículo)",
+        "url": "https://api.infosimples.com/api/v2/consultas/senatran/crlv"
+    },
+    {
+        "name": "SENATRAN / Download Infração",
+        "url": "https://api.infosimples.com/api/v2/consultas/senatran/download-infracao"
+    },
+    {
+        "name": "SENATRAN / Infrações",
+        "url": "https://api.infosimples.com/api/v2/consultas/senatran/infracoes"
+    },
+    {
+        "name": "SENATRAN / Meus Veículos - Completa",
+        "url": "https://api.infosimples.com/api/v2/consultas/senatran/meus-veiculos-comp"
+    },
+    {
+        "name": "SENATRAN / Meus Veículos - Possuidor (Detalhes)",
+        "url": "https://api.infosimples.com/api/v2/consultas/senatran/meus-veiculos-info"
+    },
+    {
+        "name": "SENATRAN / Meus Veículos - Possuidor (Listagem)",
+        "url": "https://api.infosimples.com/api/v2/consultas/senatran/meus-veiculos-posse"
+    },
+    {
+        "name": "SENATRAN / Recall",
+        "url": "https://api.infosimples.com/api/v2/consultas/senatran/recall"
+    },
+    {
+        "name": "SENATRAN / Validar CNH",
+        "url": "https://api.infosimples.com/api/v2/consultas/senatran/validar-cnh"
+    },
+    {
+        "name": "SERPRO / RADAR / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/serpro/radar/veiculo"
+    },
+    {
+        "name": "SESP / PR / Situação de Veículos na Polícia Civil",
+        "url": "https://api.infosimples.com/api/v2/consultas/sesp/pr/situacao-veiculo"
+    },
+    {
+        "name": "SESP / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/sesp/veiculo"
+    },
+    {
+        "name": "SICONFI / Declaração Fiscal",
+        "url": "https://api.infosimples.com/api/v2/consultas/siconfi/declaracao"
+    },
+    {
+        "name": "Sinesp Cidadão / Desaparecidos",
+        "url": "https://api.infosimples.com/api/v2/consultas/sinesp/desaparecidos"
+    },
+    {
+        "name": "Sinesp Cidadão / Mandados de Prisão (BNMP)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sinesp/mandados"
+    },
+    {
+        "name": "Sinesp Cidadão / Procurados",
+        "url": "https://api.infosimples.com/api/v2/consultas/sinesp/procurados"
+    },
+    {
+        "name": "Sinesp Cidadão / Veículo",
+        "url": "https://api.infosimples.com/api/v2/consultas/sinesp/veiculo"
+    },
+    {
+        "name": "SINTEGRA / AC",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/ac"
+    },
+    {
+        "name": "SINTEGRA / AL",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/al"
+    },
+    {
+        "name": "SINTEGRA / AM",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/am"
+    },
+    {
+        "name": "SINTEGRA / AP",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/ap"
+    },
+    {
+        "name": "SINTEGRA / BA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/ba"
+    },
+    {
+        "name": "SINTEGRA / CE",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/ce"
+    },
+    {
+        "name": "SINTEGRA / DF",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/df"
+    },
+    {
+        "name": "SINTEGRA / ES",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/es"
+    },
+    {
+        "name": "SINTEGRA / GO",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/go"
+    },
+    {
+        "name": "SINTEGRA / MA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/ma"
+    },
+    {
+        "name": "SINTEGRA / MG",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/mg"
+    },
+    {
+        "name": "SINTEGRA / MS",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/ms"
+    },
+    {
+        "name": "SINTEGRA / MT",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/mt"
+    },
+    {
+        "name": "SINTEGRA / PA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/pa"
+    },
+    {
+        "name": "SINTEGRA / PB",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/pb"
+    },
+    {
+        "name": "SINTEGRA / PE",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/pe"
+    },
+    {
+        "name": "SINTEGRA / PI",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/pi"
+    },
+    {
+        "name": "SINTEGRA / PR",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/pr"
+    },
+    {
+        "name": "SINTEGRA / RJ",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/rj"
+    },
+    {
+        "name": "SINTEGRA / RN",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/rn"
+    },
+    {
+        "name": "SINTEGRA / RO",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/ro"
+    },
+    {
+        "name": "SINTEGRA / RR",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/rr"
+    },
+    {
+        "name": "SINTEGRA / RS",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/rs"
+    },
+    {
+        "name": "SINTEGRA / SC",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/sc"
+    },
+    {
+        "name": "SINTEGRA / SE",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/se"
+    },
+    {
+        "name": "SINTEGRA / SP",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/sp"
+    },
+    {
+        "name": "SINTEGRA / SUFRAMA",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/suframa"
+    },
+    {
+        "name": "SINTEGRA / TO",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/to"
+    },
+    {
+        "name": "SINTEGRA / Unificada",
+        "url": "https://api.infosimples.com/api/v2/consultas/sintegra/unificada"
+    },
+    {
+        "name": "Sivisa / SP",
+        "url": "https://api.infosimples.com/api/v2/consultas/sivisa/sp"
+    },
+    {
+        "name": "SNCR / Emissão do Certificado de Cadastro do Imóvel Rural (CCIR)",
+        "url": "https://api.infosimples.com/api/v2/consultas/sncr/ccir"
+    },
+    {
+        "name": "SUSEP / Administradores",
+        "url": "https://api.infosimples.com/api/v2/consultas/susep/administradores"
+    },
+    {
+        "name": "SUSEP / Corretores",
+        "url": "https://api.infosimples.com/api/v2/consultas/susep/corretores"
+    },
+    {
+        "name": "SUSEP / Empresas",
+        "url": "https://api.infosimples.com/api/v2/consultas/susep/empresas"
+    },
+    {
+        "name": "TCU / Certidão Negativa de Inabilitado ou Inidôneo",
+        "url": "https://api.infosimples.com/api/v2/consultas/tcu/cni"
+    },
+    {
+        "name": "TCU / Certidão Negativa de Processo",
+        "url": "https://api.infosimples.com/api/v2/consultas/tcu/cnp"
+    },
+    {
+        "name": "TCU / Consulta Consolidada de Pessoa Jurídica (APF)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tcu/consolidada-pj"
+    },
+    {
+        "name": "TCU / Inabilitados",
+        "url": "https://api.infosimples.com/api/v2/consultas/tcu/inabilitados"
+    },
+    {
+        "name": "TCU / Relação de Inidôneos",
+        "url": "https://api.infosimples.com/api/v2/consultas/tcu/inidoneos"
+    },
+    {
+        "name": "Tesouro Nacional / Capacidade de Pagamento (CAPAG)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tesouro-nacional/capag"
+    },
+    {
+        "name": "Tribunal / TJBA / Certidão do 1º Grau",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjba/primeiro-grau"
+    },
+    {
+        "name": "Tribunal / TJDF / Nada Consta",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjdf/nada-consta"
+    },
+    {
+        "name": "Tribunal / TJGO / Nada Consta",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjgo/nada-consta"
+    },
+    {
+        "name": "Tribunal / TJMG / Processo",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjmg/processo"
+    },
+    {
+        "name": "Tribunal / TJPR / Processo",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjpr/processo"
+    },
+    {
+        "name": "Tribunal / TJRJ / Cadastro de Pedido de Certidão",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjrj/pedido-cert"
+    },
+    {
+        "name": "Tribunal / TJRJ / Processo",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjrj/processo"
+    },
+    {
+        "name": "Tribunal / TJRJ / Visualizar Certidão",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjrj/obter-certidao"
+    },
+    {
+        "name": "Tribunal / TJRS / Certidão do 1º Grau",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjrs/primeiro-grau"
+    },
+    {
+        "name": "Tribunal / TJSC / Pedido de Certidão",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjsc/pedido-certidao"
+    },
+    {
+        "name": "Tribunal / TJSC / Visualizar Certidão",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjsc/obter-certidao"
+    },
+    {
+        "name": "Tribunal / TJSP / Cadastro de Pedido de Certidão",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjsp/pedido-certidao"
+    },
+    {
+        "name": "Tribunal / TJSP / Colégio Recursal e Turma de Uniformização",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjsp/colegio-recursal"
+    },
+    {
+        "name": "Tribunal / TJSP / Processos do 1º Grau",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjsp/primeiro-grau"
+    },
+    {
+        "name": "Tribunal / TJSP / Processos do 2º Grau",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjsp/segundo-grau"
+    },
+    {
+        "name": "Tribunal / TJSP / Selo Digital",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjsp/selo-digital"
+    },
+    {
+        "name": "Tribunal / TJSP / Visualizar Certidão",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tjsp/obter-certidao"
+    },
+    {
+        "name": "Tribunal / TRF1 / Certidão Negativa Cível e Criminal",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trf1/certidao"
+    },
+    {
+        "name": "Tribunal / TRF1 / Processo",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trf1/processo"
+    },
+    {
+        "name": "Tribunal / TRF2 / Certidão Negativa Cível e Criminal",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trf2/certidao"
+    },
+    {
+        "name": "Tribunal / TRF2 / Processo",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trf2/processo"
+    },
+    {
+        "name": "Tribunal / TRF2 / Processo (eproc)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trf2/processo-eproc"
+    },
+    {
+        "name": "Tribunal / TRF3 / Certidão de Distribuição",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trf3/certidao-distr"
+    },
+    {
+        "name": "Tribunal / TRF3 / Processo",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trf3/processo"
+    },
+    {
+        "name": "Tribunal / TRF4 / Certidão Negativa Cível e Criminal",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trf4/certidao"
+    },
+    {
+        "name": "Tribunal / TRF5 / Certidão Negativa Cível e Criminal",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trf5/certidao"
+    },
+    {
+        "name": "Tribunal / TRF5 / Processo",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trf5/processo"
+    },
+    {
+        "name": "Tribunal / TRF6 / Certidão Negativa Cível e Criminal",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trf6/certidao"
+    },
+    {
+        "name": "Tribunal / TRF6 / Processo",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trf6/processo"
+    },
+    {
+        "name": "Tribunal / TRT / Consulta Processual Unificada",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt/processo"
+    },
+    {
+        "name": "Tribunal / TRT1 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt1/processo"
+    },
+    {
+        "name": "Tribunal / TRT10 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt10/ceat"
+    },
+    {
+        "name": "Tribunal / TRT10 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt10/processo"
+    },
+    {
+        "name": "Tribunal / TRT11 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt11/processo"
+    },
+    {
+        "name": "Tribunal / TRT12 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt12/ceat"
+    },
+    {
+        "name": "Tribunal / TRT12 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt12/processo"
+    },
+    {
+        "name": "Tribunal / TRT13 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt13/ceat"
+    },
+    {
+        "name": "Tribunal / TRT13 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt13/processo"
+    },
+    {
+        "name": "Tribunal / TRT14 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt14/processo"
+    },
+    {
+        "name": "Tribunal / TRT15 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt15/ceat"
+    },
+    {
+        "name": "Tribunal / TRT15 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt15/processo"
+    },
+    {
+        "name": "Tribunal / TRT16 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt16/processo"
+    },
+    {
+        "name": "Tribunal / TRT17 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt17/ceat"
+    },
+    {
+        "name": "Tribunal / TRT17 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt17/processo"
+    },
+    {
+        "name": "Tribunal / TRT18 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt18/processo"
+    },
+    {
+        "name": "Tribunal / TRT19 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt19/ceat"
+    },
+    {
+        "name": "Tribunal / TRT19 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt19/processo"
+    },
+    {
+        "name": "Tribunal / TRT2 / Certidão Eletrônica de Ações Trabalhistas (CEAT) - Processos Digitais",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt2/ceat-digital"
+    },
+    {
+        "name": "Tribunal / TRT2 / Certidão Eletrônica de Ações Trabalhistas (CEAT) - Processos Físicos",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt2/ceat"
+    },
+    {
+        "name": "Tribunal / TRT2 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt2/processo"
+    },
+    {
+        "name": "Tribunal / TRT20 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt20/processo"
+    },
+    {
+        "name": "Tribunal / TRT21 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt21/processo"
+    },
+    {
+        "name": "Tribunal / TRT22 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt22/processo"
+    },
+    {
+        "name": "Tribunal / TRT23 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt23/ceat"
+    },
+    {
+        "name": "Tribunal / TRT24 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt24/ceat"
+    },
+    {
+        "name": "Tribunal / TRT24 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt24/processo"
+    },
+    {
+        "name": "Tribunal / TRT3 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt3/ceat"
+    },
+    {
+        "name": "Tribunal / TRT4 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt4/ceat"
+    },
+    {
+        "name": "Tribunal / TRT4 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt4/processo"
+    },
+    {
+        "name": "Tribunal / TRT5 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt5/ceat"
+    },
+    {
+        "name": "Tribunal / TRT5 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt5/processo"
+    },
+    {
+        "name": "Tribunal / TRT6 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt6/certidao"
+    },
+    {
+        "name": "Tribunal / TRT6 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt6/processo"
+    },
+    {
+        "name": "Tribunal / TRT7 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt7/processo"
+    },
+    {
+        "name": "Tribunal / TRT8 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt8/ceat"
+    },
+    {
+        "name": "Tribunal / TRT8 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt8/processo"
+    },
+    {
+        "name": "Tribunal / TRT9 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt9/ceat"
+    },
+    {
+        "name": "Tribunal / TRT9 / Consulta Processual",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/trt9/processo"
+    },
+    {
+        "name": "Tribunal / TSE / Certidão de Quitação Eleitoral",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tse/certidao"
+    },
+    {
+        "name": "Tribunal / TSE / Doadores e Fornecedores",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tse/doador-fornecedor"
+    },
+    {
+        "name": "Tribunal / TSE / Processo Judicial Eletrônico (PJe)",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tse/pje"
+    },
+    {
+        "name": "Tribunal / TSE / Situação Eleitoral",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tse/situacao"
+    },
+    {
+        "name": "Tribunal / TSE / Título Eleitoral",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tse/titulo"
+    },
+    {
+        "name": "Tribunal / TST / Banco de Falências",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tst/banco-falencias"
+    },
+    {
+        "name": "Tribunal / TST / CNDT",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tst/cndt"
+    },
+    {
+        "name": "Tribunal / TST / Validação de CNDT",
+        "url": "https://api.infosimples.com/api/v2/consultas/tribunal/tst/validacao-cndt"
+    }
+]
