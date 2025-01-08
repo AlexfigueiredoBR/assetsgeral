@@ -1,2866 +1,2866 @@
 [
     {
         "name": "ANP / Base de Distribuição",
-        "url": "http://api.quick7.com.br/api/v2/consultas/anp/base-distribuicao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/anp/base-distribuicao"
     },
     {
         "name": "ANP / Certificados",
-        "url": "http://api.quick7.com.br/api/v2/consultas/anp/certificados"
+        "url": "https://api.quick7.com.br/api/v2/consultas/anp/certificados"
     },
     {
         "name": "ANP / Instalações do SIMP",
-        "url": "http://api.quick7.com.br/api/v2/consultas/anp/instalacoes-simp"
+        "url": "https://api.quick7.com.br/api/v2/consultas/anp/instalacoes-simp"
     },
     {
         "name": "ANP / Instalações do SIMP / Distribuidores Autorizados",
-        "url": "http://api.quick7.com.br/api/v2/consultas/anp/instalacoes-simp-distr"
+        "url": "https://api.quick7.com.br/api/v2/consultas/anp/instalacoes-simp-distr"
     },
     {
         "name": "ANP / Postos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/anp/postos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/anp/postos"
     },
     {
         "name": "ANP / Revendas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/anp/revendas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/anp/revendas"
     },
     {
         "name": "Antecedentes Criminais / MG",
-        "url": "http://api.quick7.com.br/api/v2/consultas/antecedentes-criminais/mg"
+        "url": "https://api.quick7.com.br/api/v2/consultas/antecedentes-criminais/mg"
     },
     {
         "name": "Antecedentes Criminais / Polícia Federal / Emitir",
-        "url": "http://api.quick7.com.br/api/v2/consultas/antecedentes-criminais/pf/emit"
+        "url": "https://api.quick7.com.br/api/v2/consultas/antecedentes-criminais/pf/emit"
     },
     {
         "name": "Antecedentes Criminais / Polícia Federal / Validar",
-        "url": "http://api.quick7.com.br/api/v2/consultas/antecedentes-criminais/pf/val"
+        "url": "https://api.quick7.com.br/api/v2/consultas/antecedentes-criminais/pf/val"
     },
     {
         "name": "Antecedentes Criminais / SP",
-        "url": "http://api.quick7.com.br/api/v2/consultas/antecedentes-criminais/sp"
+        "url": "https://api.quick7.com.br/api/v2/consultas/antecedentes-criminais/sp"
     },
     {
         "name": "ANTT / Produtos Perigosos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/antt/produtos-perigosos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/antt/produtos-perigosos"
     },
     {
         "name": "ANTT / SIFAMA / Download de Auto de Infração",
-        "url": "http://api.quick7.com.br/api/v2/consultas/antt/sifama/download-auto"
+        "url": "https://api.quick7.com.br/api/v2/consultas/antt/sifama/download-auto"
     },
     {
         "name": "ANTT / SIFAMA / Lista de Autos de Infração",
-        "url": "http://api.quick7.com.br/api/v2/consultas/antt/sifama/lista-autos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/antt/sifama/lista-autos"
     },
     {
         "name": "ANTT / SIFAMA / Segunda Via de Boletos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/antt/sifama/boleto-2via"
+        "url": "https://api.quick7.com.br/api/v2/consultas/antt/sifama/boleto-2via"
     },
     {
         "name": "ANTT / Transportador",
-        "url": "http://api.quick7.com.br/api/v2/consultas/antt/transportador"
+        "url": "https://api.quick7.com.br/api/v2/consultas/antt/transportador"
     },
     {
         "name": "ANTT / Transporte Rodoviário Internacional de Cargas (TRIC)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/antt/tric"
+        "url": "https://api.quick7.com.br/api/v2/consultas/antt/tric"
     },
     {
         "name": "ANTT / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/antt/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/antt/veiculo"
     },
     {
         "name": "ANVISA / Processo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/anvisa/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/anvisa/processo"
     },
     {
         "name": "ANVISA / Produtos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/anvisa/produtos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/anvisa/produtos"
     },
     {
         "name": "B3 / Participantes",
-        "url": "http://api.quick7.com.br/api/v2/consultas/b3/participantes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/b3/participantes"
     },
     {
         "name": "Banco Central do Brasil (BCB) / Relatório de Cheques sem Fundos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/bcb/cheques-sem-fundo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/bcb/cheques-sem-fundo"
     },
     {
         "name": "Banco Central do Brasil (BCB) / Valores a Receber",
-        "url": "http://api.quick7.com.br/api/v2/consultas/bcb/valores-receber"
+        "url": "https://api.quick7.com.br/api/v2/consultas/bcb/valores-receber"
     },
     {
         "name": "Buscador / Bing",
-        "url": "http://api.quick7.com.br/api/v2/consultas/buscador/bing"
+        "url": "https://api.quick7.com.br/api/v2/consultas/buscador/bing"
     },
     {
         "name": "Buscador / Google",
-        "url": "http://api.quick7.com.br/api/v2/consultas/buscador/google"
+        "url": "https://api.quick7.com.br/api/v2/consultas/buscador/google"
     },
     {
         "name": "Buscador / Yahoo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/buscador/yahoo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/buscador/yahoo"
     },
     {
         "name": "Cadastro Ambiental Rural / Demonstrativo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/car/demonstrativo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/car/demonstrativo"
     },
     {
         "name": "Cadastro Ambiental Rural / Demonstrativo (PDF)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/car/demonstrativo-pdf"
+        "url": "https://api.quick7.com.br/api/v2/consultas/car/demonstrativo-pdf"
     },
     {
         "name": "Cadastro Ambiental Rural / Download de Shapefile",
-        "url": "http://api.quick7.com.br/api/v2/consultas/car/download-shapefile"
+        "url": "https://api.quick7.com.br/api/v2/consultas/car/download-shapefile"
     },
     {
         "name": "Cadastro Ambiental Rural / Imóvel",
-        "url": "http://api.quick7.com.br/api/v2/consultas/car/imovel"
+        "url": "https://api.quick7.com.br/api/v2/consultas/car/imovel"
     },
     {
         "name": "Cadastur / Prestadores",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cadastur/prestadores"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cadastur/prestadores"
     },
     {
         "name": "CADE / Processos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cade/processos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cade/processos"
     },
     {
         "name": "Caixa / Regularidade do Empregador (FGTS)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/caixa/regularidade"
+        "url": "https://api.quick7.com.br/api/v2/consultas/caixa/regularidade"
     },
     {
         "name": "CARF / Processo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/carf/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/carf/processo"
     },
     {
         "name": "CENPROT SP / Protestos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cenprot-sp/protestos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cenprot-sp/protestos"
     },
     {
         "name": "CNF / Pesquisa de Óbitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cnf/pesquisa-obito"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cnf/pesquisa-obito"
     },
     {
         "name": "CNIS / Pré-inscrição",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cnis/pre-inscricao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cnis/pre-inscricao"
     },
     {
         "name": "Comprot / Processo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/comprot/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/comprot/processo"
     },
     {
         "name": "Conselho Federal de Biomedicina / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cfbm/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cfbm/cadastro"
     },
     {
         "name": "Conselho Federal de Contabilidade / Cadastro de Profissionais e Empresas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cfc/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cfc/cadastro"
     },
     {
         "name": "Conselho Federal de Farmácia / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cff/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cff/cadastro"
     },
     {
         "name": "Conselho Federal de Medicina / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cfm/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cfm/cadastro"
     },
     {
         "name": "Conselho Federal de Medicina / Estabelecimentos de Saúde",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cfm/estabelecimento"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cfm/estabelecimento"
     },
     {
         "name": "Conselho Federal de Medicina Veterinária / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cfmv/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cfmv/cadastro"
     },
     {
         "name": "Conselho Federal de Psicologia / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cfp/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cfp/cadastro"
     },
     {
         "name": "Conselho Nacional de Justiça / Improbidade Administrativa e Inelegibilidade",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cnj/improbidade"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cnj/improbidade"
     },
     {
         "name": "Conselho Nacional de Justiça / Mandados de Prisão",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cnj/mandados-prisao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cnj/mandados-prisao"
     },
     {
         "name": "Conselho Nacional de Justiça / SEEU / Processos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cnj/seeu/processos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cnj/seeu/processos"
     },
     {
         "name": "Conselho Nacional de Justiça / Serventias Extrajudiciais",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cnj/serventias-extrajudiciais"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cnj/serventias-extrajudiciais"
     },
     {
         "name": "Conselho Regional de Enfermagem / SP / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/coren/sp/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/coren/sp/cadastro"
     },
     {
         "name": "Conselho Regional de Farmácia / SP / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/crf/sp/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/crf/sp/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / AC / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/ac/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/ac/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / AL / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/al/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/al/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / AM / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/am/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/am/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / AP / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/ap/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/ap/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / BA / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/ba/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/ba/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / CE / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/ce/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/ce/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / DF / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/df/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/df/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / ES / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/es/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/es/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / GO / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/go/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/go/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / MA / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/ma/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/ma/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / MG / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/mg/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/mg/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / MS / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/ms/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/ms/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / MT / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/mt/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/mt/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / PA / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/pa/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/pa/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / PB / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/pb/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/pb/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / PE / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/pe/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/pe/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / PI / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/pi/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/pi/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / PR / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/pr/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/pr/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / RJ / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/rj/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/rj/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / RN / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/rn/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/rn/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / RO / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/ro/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/ro/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / RR / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/rr/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/rr/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / RS / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/rs/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/rs/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / SC / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/sc/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/sc/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / SE / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/se/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/se/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / SP / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/sp/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/sp/cadastro"
     },
     {
         "name": "Conselho Regional de Odontologia / TO / Cadastro",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cro/to/cadastro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cro/to/cadastro"
     },
     {
         "name": "Contas / Cemig / Download de Contas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/cemig/download"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/cemig/download"
     },
     {
         "name": "Contas / Cemig / Download de Contas para Profissionais",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/cemig/download-pro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/cemig/download-pro"
     },
     {
         "name": "Contas / Cemig / Obter Instalações",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/cemig/obter-instalacoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/cemig/obter-instalacoes"
     },
     {
         "name": "Contas / Comgás / Download de 2ª Via",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/comgas/download-seg-via"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/comgas/download-seg-via"
     },
     {
         "name": "Contas / CPFL / Download",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/cpfl/download"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/cpfl/download"
     },
     {
         "name": "Contas / CPFL / Download (Empresas)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/cpfl/download-empresas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/cpfl/download-empresas"
     },
     {
         "name": "Contas / CPFL / Download + OCR",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/cpfl/download-ocr"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/cpfl/download-ocr"
     },
     {
         "name": "Contas / CPFL / Download para Credenciados",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/cpfl/download-cred"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/cpfl/download-cred"
     },
     {
         "name": "Contas / CPFL / Download via link",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/cpfl/link"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/cpfl/link"
     },
     {
         "name": "Contas / CPFL / Download via link + OCR",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/cpfl/link-ocr"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/cpfl/link-ocr"
     },
     {
         "name": "Contas / Enel / CE / Download",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/enel/ce/download"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/enel/ce/download"
     },
     {
         "name": "Contas / Enel / RJ / Download",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/enel/rj/download"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/enel/rj/download"
     },
     {
         "name": "Contas / Enel / RJ / Download + OCR",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/enel/rj/download-ocr"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/enel/rj/download-ocr"
     },
     {
         "name": "Contas / Enel / RJ / Lista de Instalações",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/enel/rj/instalacoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/enel/rj/instalacoes"
     },
     {
         "name": "Contas / Enel / SP / Download",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/enel/sp/download"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/enel/sp/download"
     },
     {
         "name": "Contas / Enel / SP / Download + OCR",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/enel/sp/download-ocr"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/enel/sp/download-ocr"
     },
     {
         "name": "Contas / Enel / SP / Gestão Imobiliária",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/enel/sp/gestao-imob"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/enel/sp/gestao-imob"
     },
     {
         "name": "Contas / Light / Download",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/light/download"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/light/download"
     },
     {
         "name": "Contas / Light / Download + OCR",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/light/download-ocr"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/light/download-ocr"
     },
     {
         "name": "Contas / Light / Download via Código da Instalação",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/light/download-ci"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/light/download-ci"
     },
     {
         "name": "Contas / Light / Download via Código da Instalação + OCR",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/light/download-ci-ocr"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/light/download-ci-ocr"
     },
     {
         "name": "Contas / Light / Lista de Instalações",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/light/lista-instalacoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/light/lista-instalacoes"
     },
     {
         "name": "Contas / Neoenergia Elektro / Download",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/neoenergia/download"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/neoenergia/download"
     },
     {
         "name": "Contas / Neoenergia Elektro / Download + OCR",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/neoenergia/download-ocr"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/neoenergia/download-ocr"
     },
     {
         "name": "Contas / SABESP / Download de Conta",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/sabesp/download-conta"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/sabesp/download-conta"
     },
     {
         "name": "Contas / SABESP / Lista de Instalações",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/sabesp/lista-instal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/sabesp/lista-instal"
     },
     {
         "name": "Contas / SAESA / Download",
-        "url": "http://api.quick7.com.br/api/v2/consultas/contas/saesa/download"
+        "url": "https://api.quick7.com.br/api/v2/consultas/contas/saesa/download"
     },
     {
         "name": "Controladoria-Geral da União / Certidão Negativa Correcional (CGU-PJ, CEIS, CNEP e CEPIM)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cgu/cnc-tipo1"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cgu/cnc-tipo1"
     },
     {
         "name": "Controladoria-Geral da União / Certidão Negativa Correcional (ePAD e CGU-PAD)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cgu/cnc-tipo2"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cgu/cnc-tipo2"
     },
     {
         "name": "Correios / CEP",
-        "url": "http://api.quick7.com.br/api/v2/consultas/correios/cep"
+        "url": "https://api.quick7.com.br/api/v2/consultas/correios/cep"
     },
     {
         "name": "Correios / Completa CEP (CEP + Área territorial brasileira)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/correios/completa-cep"
+        "url": "https://api.quick7.com.br/api/v2/consultas/correios/completa-cep"
     },
     {
         "name": "Correios / Rastreamento",
-        "url": "http://api.quick7.com.br/api/v2/consultas/correios/rastreamento"
+        "url": "https://api.quick7.com.br/api/v2/consultas/correios/rastreamento"
     },
     {
         "name": "Correios / Restrições de Entrega",
-        "url": "http://api.quick7.com.br/api/v2/consultas/correios/restricoes-entrega"
+        "url": "https://api.quick7.com.br/api/v2/consultas/correios/restricoes-entrega"
     },
     {
         "name": "CVM / Participante",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cvm/participante"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cvm/participante"
     },
     {
         "name": "CVM / Processos Administrativos Sancionadores",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cvm/processo-administrativo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cvm/processo-administrativo"
     },
     {
         "name": "CVM / Processos Sancionadores Julgados",
-        "url": "http://api.quick7.com.br/api/v2/consultas/cvm/sancionadores"
+        "url": "https://api.quick7.com.br/api/v2/consultas/cvm/sancionadores"
     },
     {
         "name": "Dataprev / Fator Acidentário de Prevenção",
-        "url": "http://api.quick7.com.br/api/v2/consultas/dataprev/fap"
+        "url": "https://api.quick7.com.br/api/v2/consultas/dataprev/fap"
     },
     {
         "name": "Dataprev / Qualificação cadastral",
-        "url": "http://api.quick7.com.br/api/v2/consultas/dataprev/qualificacao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/dataprev/qualificacao"
     },
     {
         "name": "DER / BA / Nada Consta",
-        "url": "http://api.quick7.com.br/api/v2/consultas/der/ba/nada-consta"
+        "url": "https://api.quick7.com.br/api/v2/consultas/der/ba/nada-consta"
     },
     {
         "name": "DER / PR / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/der/pr/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/der/pr/cnd"
     },
     {
         "name": "DER / PR / Certidão Negativa de Débitos (por placa)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/der/pr/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/der/pr/certidao-debitos"
     },
     {
         "name": "DER / SP / Multas e Recursos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/der/sp/multas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/der/sp/multas"
     },
     {
         "name": "DETRAN / AC / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ac/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ac/veiculo"
     },
     {
         "name": "DETRAN / AL / Infrações",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/al/infracoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/al/infracoes"
     },
     {
         "name": "DETRAN / AL / Licenciamento",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/al/licenciamento"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/al/licenciamento"
     },
     {
         "name": "DETRAN / AL / Renajud",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/al/renajud"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/al/renajud"
     },
     {
         "name": "DETRAN / AL / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/al/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/al/veiculo"
     },
     {
         "name": "DETRAN / AM / Licenciamento Anual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/am/licenciamento-anual"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/am/licenciamento-anual"
     },
     {
         "name": "DETRAN / AM / Multas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/am/multas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/am/multas"
     },
     {
         "name": "DETRAN / AM / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/am/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/am/veiculo"
     },
     {
         "name": "DETRAN / AP / Impressão de CRLV",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ap/crlv"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ap/crlv"
     },
     {
         "name": "DETRAN / AP / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ap/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ap/veiculo"
     },
     {
         "name": "DETRAN / BA / Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ba/debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ba/debitos"
     },
     {
         "name": "DETRAN / BA / Gravame",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ba/gravame"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ba/gravame"
     },
     {
         "name": "DETRAN / BA / Licenciamento",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ba/licenciamento"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ba/licenciamento"
     },
     {
         "name": "DETRAN / BA / Multas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ba/multas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ba/multas"
     },
     {
         "name": "DETRAN / BA / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ba/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ba/veiculo"
     },
     {
         "name": "DETRAN / CE / Certidão Negativa de Débitos (por placa)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ce/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ce/certidao-debitos"
     },
     {
         "name": "DETRAN / CE / Emissão de Extrato de Licenciamento",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ce/licenciamento"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ce/licenciamento"
     },
     {
         "name": "DETRAN / CE / Emissão de Taxa de Multas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ce/multas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ce/multas"
     },
     {
         "name": "DETRAN / CE / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ce/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ce/veiculo"
     },
     {
         "name": "DETRAN / DF / Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/df/debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/df/debitos"
     },
     {
         "name": "DETRAN / DF / Restrições",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/df/restricoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/df/restricoes"
     },
     {
         "name": "DETRAN / DF / Veículo (Mobile)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/df/veiculo/mobile"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/df/veiculo/mobile"
     },
     {
         "name": "DETRAN / ES / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/es/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/es/veiculo"
     },
     {
         "name": "DETRAN / GO / Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/go/debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/go/debitos"
     },
     {
         "name": "DETRAN / GO / Gravame",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/go/gravame"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/go/gravame"
     },
     {
         "name": "DETRAN / GO / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/go/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/go/veiculo"
     },
     {
         "name": "DETRAN / MA / Impressão de CRLV",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ma/crlv"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ma/crlv"
     },
     {
         "name": "DETRAN / MA / Licenciamento",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ma/licenciamento"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ma/licenciamento"
     },
     {
         "name": "DETRAN / MA / Multas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ma/multas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ma/multas"
     },
     {
         "name": "DETRAN / MA / Restrições",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ma/restricoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ma/restricoes"
     },
     {
         "name": "DETRAN / MG / DPVAT",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/mg/dpvat"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/mg/dpvat"
     },
     {
         "name": "DETRAN / MG / Emitir Autorização Para Transferência De Propriedade Do Veículo (ATPV-e)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/mg/atpve"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/mg/atpve"
     },
     {
         "name": "DETRAN / MG / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/mg/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/mg/ipva"
     },
     {
         "name": "DETRAN / MG / Multas (Descritivos)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/mg/multas-descritivos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/mg/multas-descritivos"
     },
     {
         "name": "DETRAN / MG / Multas (Extrato)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/mg/multas-extrato"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/mg/multas-extrato"
     },
     {
         "name": "DETRAN / MG / Pontuação CNH",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/mg/pontuacao-cnh"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/mg/pontuacao-cnh"
     },
     {
         "name": "DETRAN / MG / Publicação de Dano (média e grande monta)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/mg/publicacao-dano"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/mg/publicacao-dano"
     },
     {
         "name": "DETRAN / MG / REFIS",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/mg/refis"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/mg/refis"
     },
     {
         "name": "DETRAN / MG / Registrar Intenção de Venda de Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/mg/reg-intencao-venda"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/mg/reg-intencao-venda"
     },
     {
         "name": "DETRAN / MG / Situação de Veículo Não Licenciado",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/mg/veic-nao-licenciado"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/mg/veic-nao-licenciado"
     },
     {
         "name": "DETRAN / MG / Taxa de Licenciamento / Emissão de DAE",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/mg/emissao-dae"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/mg/emissao-dae"
     },
     {
         "name": "DETRAN / MG / Transferência de Propriedade de Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/mg/transf-prop-veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/mg/transf-prop-veiculo"
     },
     {
         "name": "DETRAN / MG / TRLAV",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/mg/trlav"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/mg/trlav"
     },
     {
         "name": "DETRAN / MS / Guia de Licenciamento e Multas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ms/guia"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ms/guia"
     },
     {
         "name": "DETRAN / MS / Guia Flex / Licenciamentos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ms/licenciamentos-flex"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ms/licenciamentos-flex"
     },
     {
         "name": "DETRAN / MS / Guia Flex / Multas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ms/multas-flex"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ms/multas-flex"
     },
     {
         "name": "DETRAN / MS / Multas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ms/multas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ms/multas"
     },
     {
         "name": "DETRAN / MS / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ms/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ms/veiculo"
     },
     {
         "name": "DETRAN / MT / Impressão de CRLV",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/mt/crlv"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/mt/crlv"
     },
     {
         "name": "DETRAN / MT / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/mt/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/mt/veiculo"
     },
     {
         "name": "DETRAN / PA / Impressão de CRLV",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pa/crlv"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pa/crlv"
     },
     {
         "name": "DETRAN / PA / Infrações",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pa/infracoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pa/infracoes"
     },
     {
         "name": "DETRAN / PA / Licenciamento",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pa/licenciamento"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pa/licenciamento"
     },
     {
         "name": "DETRAN / PA / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pa/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pa/veiculo"
     },
     {
         "name": "DETRAN / PB / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pb/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pb/veiculo"
     },
     {
         "name": "DETRAN / PE / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pe/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pe/veiculo"
     },
     {
         "name": "DETRAN / PI / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pi/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pi/ipva"
     },
     {
         "name": "DETRAN / PI / Licenciamento",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pi/licenciamento"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pi/licenciamento"
     },
     {
         "name": "DETRAN / PI / Multas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pi/multas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pi/multas"
     },
     {
         "name": "DETRAN / PR / CNH",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pr/cnh"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pr/cnh"
     },
     {
         "name": "DETRAN / PR / Emissão de CRLV-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pr/crlve"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pr/crlve"
     },
     {
         "name": "DETRAN / PR / Licenciamento",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pr/licenciamento"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pr/licenciamento"
     },
     {
         "name": "DETRAN / PR / Multas (Descritivos)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pr/multas-descritivos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pr/multas-descritivos"
     },
     {
         "name": "DETRAN / PR / Multas (Extrato)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pr/multas-extrato"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pr/multas-extrato"
     },
     {
         "name": "DETRAN / PR / Registrar Intenção de Venda de Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pr/reg-intencao-venda"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pr/reg-intencao-venda"
     },
     {
         "name": "DETRAN / PR / Veículo (Completa)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pr/veiculo-completa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pr/veiculo-completa"
     },
     {
         "name": "DETRAN / PR / Veículo (Extrato)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/pr/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/pr/veiculo"
     },
     {
         "name": "DETRAN / Restrições (Unificada)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/restricoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/restricoes"
     },
     {
         "name": "DETRAN / RJ / GRT (Guia de Regularização de Taxas)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/rj/grt"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/rj/grt"
     },
     {
         "name": "DETRAN / RJ / IPVA / DARJ",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/rj/ipva/darj"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/rj/ipva/darj"
     },
     {
         "name": "DETRAN / RJ / Multas (Guia de Recolhimento de Multas)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/rj/multas-guias"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/rj/multas-guias"
     },
     {
         "name": "DETRAN / RJ / Nada Consta",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/rj/nada-consta"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/rj/nada-consta"
     },
     {
         "name": "DETRAN / RJ / Nada Consta - Veículo Apreendido",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/rj/veiculo-apreendido"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/rj/veiculo-apreendido"
     },
     {
         "name": "DETRAN / RJ / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/rj/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/rj/veiculo"
     },
     {
         "name": "DETRAN / RN / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/rn/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/rn/veiculo"
     },
     {
         "name": "DETRAN / RO / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/ro/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/ro/veiculo"
     },
     {
         "name": "DETRAN / RR / Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/rr/debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/rr/debitos"
     },
     {
         "name": "DETRAN / RR / Gravame",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/rr/gravame"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/rr/gravame"
     },
     {
         "name": "DETRAN / RS / CNH",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/rs/cnh"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/rs/cnh"
     },
     {
         "name": "DETRAN / RS / Guia de Pagamento",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/rs/guia-pagamento"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/rs/guia-pagamento"
     },
     {
         "name": "DETRAN / RS / Infrações",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/rs/infracoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/rs/infracoes"
     },
     {
         "name": "DETRAN / RS / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/rs/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/rs/veiculo"
     },
     {
         "name": "DETRAN / SC / Veículo (Extrato)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/sc/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/sc/veiculo"
     },
     {
         "name": "DETRAN / SP / Autenticidade de Certidão",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/sp/autenticidade"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/sp/autenticidade"
     },
     {
         "name": "DETRAN / SP / Débitos e Restrições",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/sp/debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/sp/debitos"
     },
     {
         "name": "DETRAN / TO / Impressão de CRLV",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/to/crlv"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/to/crlv"
     },
     {
         "name": "DETRAN / TO / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/detran/to/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/detran/to/veiculo"
     },
     {
         "name": "Diário Oficial / SP / Valor Venal de Veículo / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/diario-oficial/sp/valor-venal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/diario-oficial/sp/valor-venal"
     },
     {
         "name": "DNIT / Identificação de Condutor Infrator",
-        "url": "http://api.quick7.com.br/api/v2/consultas/dnit/identificacao-condutor"
+        "url": "https://api.quick7.com.br/api/v2/consultas/dnit/identificacao-condutor"
     },
     {
         "name": "DNIT / Infrações",
-        "url": "http://api.quick7.com.br/api/v2/consultas/dnit/infracoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/dnit/infracoes"
     },
     {
         "name": "DNIT / Infrações (CNPJ)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/dnit/infracoes-cnpj"
+        "url": "https://api.quick7.com.br/api/v2/consultas/dnit/infracoes-cnpj"
     },
     {
         "name": "DPRF / Nada consta",
-        "url": "http://api.quick7.com.br/api/v2/consultas/dprf/nada-consta"
+        "url": "https://api.quick7.com.br/api/v2/consultas/dprf/nada-consta"
     },
     {
         "name": "DPVAT / Emissão de Guia",
-        "url": "http://api.quick7.com.br/api/v2/consultas/dpvat/guia"
+        "url": "https://api.quick7.com.br/api/v2/consultas/dpvat/guia"
     },
     {
         "name": "ECAC / Caixa Postal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ecac/caixa-postal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ecac/caixa-postal"
     },
     {
         "name": "ECAC / Comprovante de Pagamento",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ecac/comprovante-pagamento"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ecac/comprovante-pagamento"
     },
     {
         "name": "ECAC / DCTF WEB",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ecac/dctf-web"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ecac/dctf-web"
     },
     {
         "name": "ECAC / PER/DCOMP",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ecac/perdcomp"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ecac/perdcomp"
     },
     {
         "name": "ECAC / Situação Fiscal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ecac/situacao-fiscal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ecac/situacao-fiscal"
     },
     {
         "name": "ECRVSP / ATPV (Intenção de Venda) / Imprimir",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ecrvsp/atpv/imprimir"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ecrvsp/atpv/imprimir"
     },
     {
         "name": "ECRVSP / Estampagem / Autorização",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ecrvsp/estampagem/autorizacao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ecrvsp/estampagem/autorizacao"
     },
     {
         "name": "ECRVSP / Multas RENAINF / Por Placa",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ecrvsp/multas/placa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ecrvsp/multas/placa"
     },
     {
         "name": "ECRVSP / Processos / Andamento",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ecrvsp/processos/andamento"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ecrvsp/processos/andamento"
     },
     {
         "name": "ECRVSP / Processos / Imprimir CRLV-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ecrvsp/processos/crlve"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ecrvsp/processos/crlve"
     },
     {
         "name": "ECRVSP / Restrições / Bloqueios Ativos DETRAN",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ecrvsp/restricoes/detran"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ecrvsp/restricoes/detran"
     },
     {
         "name": "ECRVSP / Restrições / Bloqueios Judiciais RENAJUD",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ecrvsp/restricoes/renajud"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ecrvsp/restricoes/renajud"
     },
     {
         "name": "ECRVSP / Veículos / Base de Outros Estados",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ecrvsp/veiculos/base-outros"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ecrvsp/veiculos/base-outros"
     },
     {
         "name": "ECRVSP / Veículos / Base Estadual de SP",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ecrvsp/veiculos/base-sp"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ecrvsp/veiculos/base-sp"
     },
     {
         "name": "ECRVSP / Veículos / Cadastro BIN RENAVAM",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ecrvsp/veiculos/bin"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ecrvsp/veiculos/bin"
     },
     {
         "name": "ECRVSP / Veículos / Gravames",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ecrvsp/veiculos/gravames"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ecrvsp/veiculos/gravames"
     },
     {
         "name": "FGTS / Emissão de Guia Rápida",
-        "url": "http://api.quick7.com.br/api/v2/consultas/fgts/guia-rapida"
+        "url": "https://api.quick7.com.br/api/v2/consultas/fgts/guia-rapida"
     },
     {
         "name": "FGTS / Guia de Arrecadação",
-        "url": "http://api.quick7.com.br/api/v2/consultas/fgts/guia"
+        "url": "https://api.quick7.com.br/api/v2/consultas/fgts/guia"
     },
     {
         "name": "GIT Cidadão (PR) / Multas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/git-cidadao-pr/multas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/git-cidadao-pr/multas"
     },
     {
         "name": "GIT Cidadão (PR) / Notificações",
-        "url": "http://api.quick7.com.br/api/v2/consultas/git-cidadao-pr/notificacoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/git-cidadao-pr/notificacoes"
     },
     {
         "name": "GS1 / GTIN",
-        "url": "http://api.quick7.com.br/api/v2/consultas/gs1/gtin"
+        "url": "https://api.quick7.com.br/api/v2/consultas/gs1/gtin"
     },
     {
         "name": "IBAMA / Autuações Ambientais",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ibama/autuacoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ibama/autuacoes"
     },
     {
         "name": "IBAMA / Certidão de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ibama/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ibama/certidao-debitos"
     },
     {
         "name": "IBAMA / Certidão de Embargos (Nada Consta)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ibama/certidao-embargos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ibama/certidao-embargos"
     },
     {
         "name": "IBAMA / Certificado de Regularidade",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ibama/certificado-regularidade"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ibama/certificado-regularidade"
     },
     {
         "name": "IBGE / Código de Município",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ibge/codigo-municipio"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ibge/codigo-municipio"
     },
     {
         "name": "IBGE / Área territorial brasileira",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ibge/area-territorial"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ibge/area-territorial"
     },
     {
         "name": "ICIJ / Offshore Leaks Database",
-        "url": "http://api.quick7.com.br/api/v2/consultas/icij/offshore-leaks"
+        "url": "https://api.quick7.com.br/api/v2/consultas/icij/offshore-leaks"
     },
     {
         "name": "IEPTB (CENPROT) / Protestos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ieptb/protestos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ieptb/protestos"
     },
     {
         "name": "IEPTB (CENPROT) / Protestos / Detalhes SP",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ieptb/protestos/detalhes-sp"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ieptb/protestos/detalhes-sp"
     },
     {
         "name": "INCRA / Disponibilizador de Coordenadas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/incra/coordenadas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/incra/coordenadas"
     },
     {
         "name": "INCRA / SIGEF / Detalhes de Parcela",
-        "url": "http://api.quick7.com.br/api/v2/consultas/incra/sigef/detalhes-parcela"
+        "url": "https://api.quick7.com.br/api/v2/consultas/incra/sigef/detalhes-parcela"
     },
     {
         "name": "INCRA / SIGEF / Parcelas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/incra/sigef/parcelas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/incra/sigef/parcelas"
     },
     {
         "name": "INCRA / SIGEF / Requerimentos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/incra/sigef/requerimentos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/incra/sigef/requerimentos"
     },
     {
         "name": "Infosimples / Certificado Digital (A1/A3)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/infosimples/certificado"
+        "url": "https://api.quick7.com.br/api/v2/consultas/infosimples/certificado"
     },
     {
         "name": "INMETRO / Cronotacógrafo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/inmetro/cronotacografo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/inmetro/cronotacografo"
     },
     {
         "name": "INMETRO / Instrumentos / Veículos Tanque",
-        "url": "http://api.quick7.com.br/api/v2/consultas/inmetro/instrumentos/vc-tanque"
+        "url": "https://api.quick7.com.br/api/v2/consultas/inmetro/instrumentos/vc-tanque"
     },
     {
         "name": "INPI / Marcas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/inpi/marcas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/inpi/marcas"
     },
     {
         "name": "INPI / Marcas por CPF/CNPJ",
-        "url": "http://api.quick7.com.br/api/v2/consultas/inpi/marcas-titular"
+        "url": "https://api.quick7.com.br/api/v2/consultas/inpi/marcas-titular"
     },
     {
         "name": "INPI / Patentes",
-        "url": "http://api.quick7.com.br/api/v2/consultas/inpi/patentes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/inpi/patentes"
     },
     {
         "name": "INPI / Processo de Registro de Marca (Completa)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/inpi/marcas-processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/inpi/marcas-processo"
     },
     {
         "name": "INPI / Processo de Registro de Marca (Resumida)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/inpi/marcas-processo-resumida"
+        "url": "https://api.quick7.com.br/api/v2/consultas/inpi/marcas-processo-resumida"
     },
     {
         "name": "Junta Comercial / SP / Certidão Simplificada",
-        "url": "http://api.quick7.com.br/api/v2/consultas/junta-comercial/sp/simplifica"
+        "url": "https://api.quick7.com.br/api/v2/consultas/junta-comercial/sp/simplifica"
     },
     {
         "name": "Junta Comercial / SP / Download de Documento",
-        "url": "http://api.quick7.com.br/api/v2/consultas/junta-comercial/sp/download-dc"
+        "url": "https://api.quick7.com.br/api/v2/consultas/junta-comercial/sp/download-dc"
     },
     {
         "name": "Junta Comercial / SP / Ficha Cadastral Completa",
-        "url": "http://api.quick7.com.br/api/v2/consultas/junta-comercial/sp/completa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/junta-comercial/sp/completa"
     },
     {
         "name": "Junta Comercial / SP / Ficha Cadastral Simplificada",
-        "url": "http://api.quick7.com.br/api/v2/consultas/junta-comercial/sp/ficha"
+        "url": "https://api.quick7.com.br/api/v2/consultas/junta-comercial/sp/ficha"
     },
     {
         "name": "Junta Comercial / SP / Lista de Documentos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/junta-comercial/sp/lista-dcs"
+        "url": "https://api.quick7.com.br/api/v2/consultas/junta-comercial/sp/lista-dcs"
     },
     {
         "name": "Junta Comercial / SP / NIRE (Pesquisa Avançada)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/junta-comercial/sp/nire"
+        "url": "https://api.quick7.com.br/api/v2/consultas/junta-comercial/sp/nire"
     },
     {
         "name": "Junta Comercial / SP / NIRE a partir de Sócio",
-        "url": "http://api.quick7.com.br/api/v2/consultas/junta-comercial/sp/nire-socio"
+        "url": "https://api.quick7.com.br/api/v2/consultas/junta-comercial/sp/nire-socio"
     },
     {
         "name": "Junta Comercial / SP / REDESIM / Acompanhamento de Protocolo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/junta-comercial/sp/redesim/acp"
+        "url": "https://api.quick7.com.br/api/v2/consultas/junta-comercial/sp/redesim/acp"
     },
     {
         "name": "Laudos Veiculares / DEKRA / ECV (Empresa Credenciada de Vistoria)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/laudos-veiculares/dekra/ecv"
+        "url": "https://api.quick7.com.br/api/v2/consultas/laudos-veiculares/dekra/ecv"
     },
     {
         "name": "Laudos Veiculares / DEKRA / LCD (Classificação de Danos)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/laudos-veiculares/dekra/lcd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/laudos-veiculares/dekra/lcd"
     },
     {
         "name": "Laudos Veiculares / Plenaver / ECV (Empresa Credenciada de Vistoria)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/laudos-veiculares/plenaver/ecv"
+        "url": "https://api.quick7.com.br/api/v2/consultas/laudos-veiculares/plenaver/ecv"
     },
     {
         "name": "Laudos Veiculares / Plenaver / LCD (Classificação de Danos)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/laudos-veiculares/plenaver/lcd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/laudos-veiculares/plenaver/lcd"
     },
     {
         "name": "Laudos Veiculares / Tokio Seguradora / ECV (Empresa Credenciada de Vistoria)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/laudos-veiculares/tokio/ecv"
+        "url": "https://api.quick7.com.br/api/v2/consultas/laudos-veiculares/tokio/ecv"
     },
     {
         "name": "Laudos Veiculares / Tokio Seguradora / LCD (Classificação de Danos)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/laudos-veiculares/tokio/lcd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/laudos-veiculares/tokio/lcd"
     },
     {
         "name": "MDA / SEAD / Declaração de Aptidão ao PRONAF (DAP)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/mda/sead/dap"
+        "url": "https://api.quick7.com.br/api/v2/consultas/mda/sead/dap"
     },
     {
         "name": "Ministério da Fazenda / SPED",
-        "url": "http://api.quick7.com.br/api/v2/consultas/fazenda/sped"
+        "url": "https://api.quick7.com.br/api/v2/consultas/fazenda/sped"
     },
     {
         "name": "MPF / Amazônia Protege",
-        "url": "http://api.quick7.com.br/api/v2/consultas/mpf/amazonia-protege"
+        "url": "https://api.quick7.com.br/api/v2/consultas/mpf/amazonia-protege"
     },
     {
         "name": "MPF / Lava-Jato",
-        "url": "http://api.quick7.com.br/api/v2/consultas/mpf/lava-jato"
+        "url": "https://api.quick7.com.br/api/v2/consultas/mpf/lava-jato"
     },
     {
         "name": "MPF / Processos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/mpf/processos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/mpf/processos"
     },
     {
         "name": "MTE / Certidão de Débitos Trabalhistas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/mte/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/mte/certidao-debitos"
     },
     {
         "name": "MTE / Processos por Empregador",
-        "url": "http://api.quick7.com.br/api/v2/consultas/mte/processo-empregador"
+        "url": "https://api.quick7.com.br/api/v2/consultas/mte/processo-empregador"
     },
     {
         "name": "MTE / RAIS",
-        "url": "http://api.quick7.com.br/api/v2/consultas/mte/rais"
+        "url": "https://api.quick7.com.br/api/v2/consultas/mte/rais"
     },
     {
         "name": "OFAC / Sanções",
-        "url": "http://api.quick7.com.br/api/v2/consultas/ofac/sancoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/ofac/sancoes"
     },
     {
         "name": "ONU / Sanções",
-        "url": "http://api.quick7.com.br/api/v2/consultas/onu/sancoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/onu/sancoes"
     },
     {
         "name": "Polícia Federal / Situação e Regularidade de Empresa de Segurança Privada",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pf/regularidade-empresa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pf/regularidade-empresa"
     },
     {
         "name": "Polícia Militar / PR / Boletim de Acidentes de Trânsito",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pm/pr/bateu"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pm/pr/bateu"
     },
     {
         "name": "Polícia Rodoviária Federal / Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/prf/debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/prf/debitos"
     },
     {
         "name": "Polícia Rodoviária Federal / Infrações",
-        "url": "http://api.quick7.com.br/api/v2/consultas/prf/infracoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/prf/infracoes"
     },
     {
         "name": "Portal da Transparência / Acordos de Leniência",
-        "url": "http://api.quick7.com.br/api/v2/consultas/portal-transparencia/leniencia"
+        "url": "https://api.quick7.com.br/api/v2/consultas/portal-transparencia/leniencia"
     },
     {
         "name": "Portal da Transparência / Auxílio Emergencial",
-        "url": "http://api.quick7.com.br/api/v2/consultas/portal-transparencia/auxilio"
+        "url": "https://api.quick7.com.br/api/v2/consultas/portal-transparencia/auxilio"
     },
     {
         "name": "Portal da Transparência / Benefício de Prestação Continuada - BPC",
-        "url": "http://api.quick7.com.br/api/v2/consultas/portal-transparencia/bpc"
+        "url": "https://api.quick7.com.br/api/v2/consultas/portal-transparencia/bpc"
     },
     {
         "name": "Portal da Transparência / Bolsa Família",
-        "url": "http://api.quick7.com.br/api/v2/consultas/portal-transparencia/bolsa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/portal-transparencia/bolsa"
     },
     {
         "name": "Portal da Transparência / Busca",
-        "url": "http://api.quick7.com.br/api/v2/consultas/portal-transparencia/busca"
+        "url": "https://api.quick7.com.br/api/v2/consultas/portal-transparencia/busca"
     },
     {
         "name": "Portal da Transparência / Cadastro de Empresas Inidôneas e Suspensas (CEIS)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/portal-transparencia/ceis"
+        "url": "https://api.quick7.com.br/api/v2/consultas/portal-transparencia/ceis"
     },
     {
         "name": "Portal da Transparência / Cadastro de Entidades Privadas sem Fins Lucrativos Impedidas (CEPIM)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/portal-transparencia/cepim"
+        "url": "https://api.quick7.com.br/api/v2/consultas/portal-transparencia/cepim"
     },
     {
         "name": "Portal da Transparência / Cadastro de Expulsões da Administração Federal (CEAF)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/portal-transparencia/ceaf"
+        "url": "https://api.quick7.com.br/api/v2/consultas/portal-transparencia/ceaf"
     },
     {
         "name": "Portal da Transparência / Cadastro Nacional de Empresas Punidas (CNEP)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/portal-transparencia/cnep"
+        "url": "https://api.quick7.com.br/api/v2/consultas/portal-transparencia/cnep"
     },
     {
         "name": "Portal da Transparência / Convênios e Acordos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/portal-transparencia/convenios"
+        "url": "https://api.quick7.com.br/api/v2/consultas/portal-transparencia/convenios"
     },
     {
         "name": "Portal da Transparência / Garantia-Safra",
-        "url": "http://api.quick7.com.br/api/v2/consultas/portal-transparencia/safra"
+        "url": "https://api.quick7.com.br/api/v2/consultas/portal-transparencia/safra"
     },
     {
         "name": "Portal da Transparência / Programa de Erradicação do Trabalho Infantil - PETI",
-        "url": "http://api.quick7.com.br/api/v2/consultas/portal-transparencia/peti"
+        "url": "https://api.quick7.com.br/api/v2/consultas/portal-transparencia/peti"
     },
     {
         "name": "Portal da Transparência / Repasse de Verba",
-        "url": "http://api.quick7.com.br/api/v2/consultas/portal-transparencia/repasse"
+        "url": "https://api.quick7.com.br/api/v2/consultas/portal-transparencia/repasse"
     },
     {
         "name": "Portal da Transparência / Seguro Defeso",
-        "url": "http://api.quick7.com.br/api/v2/consultas/portal-transparencia/seguro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/portal-transparencia/seguro"
     },
     {
         "name": "Portal da Transparência / Servidor Público",
-        "url": "http://api.quick7.com.br/api/v2/consultas/portal-transparencia/servidor"
+        "url": "https://api.quick7.com.br/api/v2/consultas/portal-transparencia/servidor"
     },
     {
         "name": "Prefeitura / AP / Macapá / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ap/macapa/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ap/macapa/cnd"
     },
     {
         "name": "Prefeitura / AP / Santana / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ap/santana/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ap/santana/cnd"
     },
     {
         "name": "Prefeitura / BA / Camaçari / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ba/camacari/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ba/camacari/cnd"
     },
     {
         "name": "Prefeitura / BA / Ilheus / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ba/ilheus/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ba/ilheus/cnd"
     },
     {
         "name": "Prefeitura / BA / Juazeiro / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ba/juazeiro/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ba/juazeiro/cnd"
     },
     {
         "name": "Prefeitura / BA / Salvador / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ba/salvador/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ba/salvador/cnd"
     },
     {
         "name": "Prefeitura / BA / Salvador / Nada Consta",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ba/salvador/nada-consta"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ba/salvador/nada-consta"
     },
     {
         "name": "Prefeitura / BA / Salvador / NFS-e (Nota Fiscal Eletrônica de Serviços)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ba/salvador/nfs"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ba/salvador/nfs"
     },
     {
         "name": "Prefeitura / Campina Grande / Multas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/pb/campina-grande/multas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/pb/campina-grande/multas"
     },
     {
         "name": "Prefeitura / CE / Fortaleza / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ce/fortaleza/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ce/fortaleza/cnd"
     },
     {
         "name": "Prefeitura / CE / Fortaleza / CPOM",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ce/fortaleza/cpom"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ce/fortaleza/cpom"
     },
     {
         "name": "Prefeitura / CE / Jaguaretama / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ce/jaguaretama/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ce/jaguaretama/cnd"
     },
     {
         "name": "Prefeitura / CPOM",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/cpom"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/cpom"
     },
     {
         "name": "Prefeitura / GO / Anápolis / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/go/anapolis/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/go/anapolis/cnd"
     },
     {
         "name": "Prefeitura / GO / Aparecida de Goiânia / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/go/aparecida-goiania/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/go/aparecida-goiania/cnd"
     },
     {
         "name": "Prefeitura / GO / Catalão / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/go/catalao/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/go/catalao/cnd"
     },
     {
         "name": "Prefeitura / GO / Firminópolis / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/go/firminopolis/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/go/firminopolis/cnd"
     },
     {
         "name": "Prefeitura / GO / Goiânia / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/go/goiania/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/go/goiania/cnd"
     },
     {
         "name": "Prefeitura / GO / Itumbiara / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/go/itumbiara/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/go/itumbiara/cnd"
     },
     {
         "name": "Prefeitura / GO / Jataí / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/go/jatai/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/go/jatai/cnd"
     },
     {
         "name": "Prefeitura / GO / Morrinhos / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/go/morrinhos/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/go/morrinhos/cnd"
     },
     {
         "name": "Prefeitura / GO / Perolândia / Licitações",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/go/perolandia/licitacoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/go/perolandia/licitacoes"
     },
     {
         "name": "Prefeitura / GO / Rio Verde / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/go/rio-verde/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/go/rio-verde/cnd"
     },
     {
         "name": "Prefeitura / MA / Balsas / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ma/balsas/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ma/balsas/cnd"
     },
     {
         "name": "Prefeitura / MA / São Luís / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ma/sao-luis/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ma/sao-luis/cnd"
     },
     {
         "name": "Prefeitura / MG / Araújos / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/araujos/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/araujos/cnd"
     },
     {
         "name": "Prefeitura / MG / Belo Horizonte / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/belo-horizonte/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/belo-horizonte/cnd"
     },
     {
         "name": "Prefeitura / MG / Belo Horizonte / Certidão Negativa de Débitos (IPTU)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/belo-horizonte/cndiptu"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/belo-horizonte/cndiptu"
     },
     {
         "name": "Prefeitura / MG / Belo Horizonte / IPTU (Emissão Guia)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/belo-horizonte/iptu"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/belo-horizonte/iptu"
     },
     {
         "name": "Prefeitura / MG / Contagem / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/contagem/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/contagem/cnd"
     },
     {
         "name": "Prefeitura / MG / Contagem / NFS-e (Nota Fiscal Eletrônica de Serviços)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/contagem/nfs"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/contagem/nfs"
     },
     {
         "name": "Prefeitura / MG / Divinópolis / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/divinopolis/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/divinopolis/cnd"
     },
     {
         "name": "Prefeitura / MG / Dores do Indaiá / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/dores-indaia/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/dores-indaia/cnd"
     },
     {
         "name": "Prefeitura / MG / Itaúna / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/itauna/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/itauna/cnd"
     },
     {
         "name": "Prefeitura / MG / Janaúba / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/janauba/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/janauba/cnd"
     },
     {
         "name": "Prefeitura / MG / Juatuba / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/juatuba/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/juatuba/cnd"
     },
     {
         "name": "Prefeitura / MG / Luz / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/luz/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/luz/cnd"
     },
     {
         "name": "Prefeitura / MG / Martinho Campos / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/martinho-campos/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/martinho-campos/cnd"
     },
     {
         "name": "Prefeitura / MG / Nova Serrana / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/nova-serrana/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/nova-serrana/cnd"
     },
     {
         "name": "Prefeitura / MG / Santa Vitória / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/santa-vitoria/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/santa-vitoria/cnd"
     },
     {
         "name": "Prefeitura / MG / Uberaba / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/uberaba/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/uberaba/cnd"
     },
     {
         "name": "Prefeitura / MG / Uberlândia / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/uberlandia/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/uberlandia/cnd"
     },
     {
         "name": "Prefeitura / MG / Ubá / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mg/uba/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mg/uba/cnd"
     },
     {
         "name": "Prefeitura / MS / Calculadora de Fretes",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ms/calculadora-frete"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ms/calculadora-frete"
     },
     {
         "name": "Prefeitura / MS / Campo Grande / NFS-e (Nota Fiscal Eletrônica de Serviços)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ms/campo-grande/nfs"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ms/campo-grande/nfs"
     },
     {
         "name": "Prefeitura / MS / Chapadão do Sul / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ms/chapadao-do-sul/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ms/chapadao-do-sul/cnd"
     },
     {
         "name": "Prefeitura / MS / Naviraí / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/ms/navirai/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/ms/navirai/cnd"
     },
     {
         "name": "Prefeitura / MT / Cuiabá / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mt/cuiaba/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mt/cuiaba/cnd"
     },
     {
         "name": "Prefeitura / MT / Cuiabá / NFS-e (Nota Fiscal Eletrônica de Serviços)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mt/cuiaba/nfs"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mt/cuiaba/nfs"
     },
     {
         "name": "Prefeitura / MT / Rondonópolis / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/mt/rondonopolis/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/mt/rondonopolis/cnd"
     },
     {
         "name": "Prefeitura / PA / Itaituba / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/pa/itaituba/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/pa/itaituba/cnd"
     },
     {
         "name": "Prefeitura / PB / Mataraca / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/pb/mataraca/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/pb/mataraca/cnd"
     },
     {
         "name": "Prefeitura / PE / Petrolina / Multas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/pe/petrolina/multas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/pe/petrolina/multas"
     },
     {
         "name": "Prefeitura / PE / Recife / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/pe/recife/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/pe/recife/cnd"
     },
     {
         "name": "Prefeitura / PE / Recife / CPOM",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/pe/recife/cpom"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/pe/recife/cpom"
     },
     {
         "name": "Prefeitura / PE / Recife / NFS-e (Nota Fiscal Eletrônica de Serviços)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/pe/recife/nfs"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/pe/recife/nfs"
     },
     {
         "name": "Prefeitura / PR / Ampére / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/pr/ampere/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/pr/ampere/cnd"
     },
     {
         "name": "Prefeitura / PR / Curitiba / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/pr/curitiba/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/pr/curitiba/cnd"
     },
     {
         "name": "Prefeitura / PR / Francisco Beltrão / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/pr/francisco-beltrao/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/pr/francisco-beltrao/cnd"
     },
     {
         "name": "Prefeitura / RJ / Duque de Caxias / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/rj/duque-de-caxias/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/rj/duque-de-caxias/cnd"
     },
     {
         "name": "Prefeitura / RJ / Rio de Janeiro / Certidão de Elementos Cadastrais - IPTU",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/rj/rio-janeiro/cert-cad"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/rj/rio-janeiro/cert-cad"
     },
     {
         "name": "Prefeitura / RJ / Rio de Janeiro / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/rj/rio-janeiro/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/rj/rio-janeiro/cnd"
     },
     {
         "name": "Prefeitura / RJ / Rio de Janeiro / Certidão Tributária de IPTU",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/rj/rio-janeiro/cert-trib"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/rj/rio-janeiro/cert-trib"
     },
     {
         "name": "Prefeitura / RJ / Rio de Janeiro / CPOM",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/rj/rio-janeiro/cpom"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/rj/rio-janeiro/cpom"
     },
     {
         "name": "Prefeitura / RJ / Rio de Janeiro / Multas (Descritivos)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/rj/rio-janeiro/multas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/rj/rio-janeiro/multas"
     },
     {
         "name": "Prefeitura / RJ / Rio de Janeiro / NFS-e (Nota Fiscal Eletrônica de Serviços)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/rj/rio-janeiro/nfs"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/rj/rio-janeiro/nfs"
     },
     {
         "name": "Prefeitura / RN / Natal / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/rn/natal/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/rn/natal/cnd"
     },
     {
         "name": "Prefeitura / RN / Touros / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/rn/touros/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/rn/touros/cnd"
     },
     {
         "name": "Prefeitura / RS / Caxias do Sul / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/rs/caxias-do-sul/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/rs/caxias-do-sul/cnd"
     },
     {
         "name": "Prefeitura / RS / Farroupilha / NFS-e (Nota Fiscal Eletrônica de Serviços)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/rs/farroupilha/nfs"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/rs/farroupilha/nfs"
     },
     {
         "name": "Prefeitura / RS / Montenegro / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/rs/montenegro/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/rs/montenegro/cnd"
     },
     {
         "name": "Prefeitura / RS / Porto Alegre / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/rs/porto-alegre/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/rs/porto-alegre/cnd"
     },
     {
         "name": "Prefeitura / RS / Porto Alegre / Comprovante de Inscrição do ISSQN",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/rs/porto-alegre/issqn"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/rs/porto-alegre/issqn"
     },
     {
         "name": "Prefeitura / RS / Santa Cruz do Sul / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/rs/santa-cruz-do-sul/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/rs/santa-cruz-do-sul/cnd"
     },
     {
         "name": "Prefeitura / RS / Três Coroas / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/rs/tres-coroas/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/rs/tres-coroas/cnd"
     },
     {
         "name": "Prefeitura / SC / Blumenau / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sc/blumenau/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sc/blumenau/cnd"
     },
     {
         "name": "Prefeitura / SC / Florianópolis / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sc/florianopolis/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sc/florianopolis/cnd"
     },
     {
         "name": "Prefeitura / SC / Imbituba / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sc/imbituba/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sc/imbituba/cnd"
     },
     {
         "name": "Prefeitura / SC / Itajaí / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sc/itajai/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sc/itajai/cnd"
     },
     {
         "name": "Prefeitura / SC / Joinville / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sc/joinville/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sc/joinville/cnd"
     },
     {
         "name": "Prefeitura / SE / Laranjeiras / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/se/laranjeiras/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/se/laranjeiras/cnd"
     },
     {
         "name": "Prefeitura / SP / Araçariguama / NFS-e (Nota Fiscal Eletrônica de Serviços)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/aracariguama/nfs"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/aracariguama/nfs"
     },
     {
         "name": "Prefeitura / SP / Campinas / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/campinas/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/campinas/cnd"
     },
     {
         "name": "Prefeitura / SP / Campinas / CPOM",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/campinas/cpom"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/campinas/cpom"
     },
     {
         "name": "Prefeitura / SP / Campinas / Parcelas IPTU",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/campinas/iptu"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/campinas/iptu"
     },
     {
         "name": "Prefeitura / SP / Campinas / Regularidade OTTC (Operadoras de Tecnologia de Transporte Credenciado)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/campinas/ottc"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/campinas/ottc"
     },
     {
         "name": "Prefeitura / SP / Guarulhos / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/guarulhos/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/guarulhos/cnd"
     },
     {
         "name": "Prefeitura / SP / Hortolândia / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/hortolandia/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/hortolandia/cnd"
     },
     {
         "name": "Prefeitura / SP / Jundiaí / Certidão Tributária de IPTU",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/jundiai/cert-trib-iptu"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/jundiai/cert-trib-iptu"
     },
     {
         "name": "Prefeitura / SP / Mairiporã / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/mairipora/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/mairipora/cnd"
     },
     {
         "name": "Prefeitura / SP / Mogi das Cruzes / CPOM",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/mogi-cruzes/cpom"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/mogi-cruzes/cpom"
     },
     {
         "name": "Prefeitura / SP / Osasco / Certidão Tributária de IPTU",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/osasco/iptu"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/osasco/iptu"
     },
     {
         "name": "Prefeitura / SP / Sorocaba / CPOM",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sorocaba/cpom"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sorocaba/cpom"
     },
     {
         "name": "Prefeitura / SP / Sumaré / NFS-e (Nota Fiscal Eletrônica de Serviços)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sumare/nfs"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sumare/nfs"
     },
     {
         "name": "Prefeitura / SP / São Bernardo do Campo / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-bernardo/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-bernardo/cnd"
     },
     {
         "name": "Prefeitura / SP / São Paulo / 2ª Via da Taxa de Elevadores",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/tx-elevador"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/tx-elevador"
     },
     {
         "name": "Prefeitura / SP / São Paulo / AIT",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/ait"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/ait"
     },
     {
         "name": "Prefeitura / SP / São Paulo / AIT (Últimos 36 meses)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/ait-listagem"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/ait-listagem"
     },
     {
         "name": "Prefeitura / SP / São Paulo / CADIN",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/cadin"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/cadin"
     },
     {
         "name": "Prefeitura / SP / São Paulo / Caixa Postal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/caixa-postal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/caixa-postal"
     },
     {
         "name": "Prefeitura / SP / São Paulo / CCM",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/ccm"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/ccm"
     },
     {
         "name": "Prefeitura / SP / São Paulo / Certidão de Dados Cadastrais do Imóvel",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/dados-imovel"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/dados-imovel"
     },
     {
         "name": "Prefeitura / SP / São Paulo / Certidão Tributária de IPTU",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/iptu"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/iptu"
     },
     {
         "name": "Prefeitura / SP / São Paulo / Certidão Tributária Mobiliária",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/ctm"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/ctm"
     },
     {
         "name": "Prefeitura / SP / São Paulo / CPOM",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/cpom"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/cpom"
     },
     {
         "name": "Prefeitura / SP / São Paulo / DSV Digital",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/dsv-digital"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/dsv-digital"
     },
     {
         "name": "Prefeitura / SP / São Paulo / Débitos de IPTU",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/debitos-iptu"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/debitos-iptu"
     },
     {
         "name": "Prefeitura / SP / São Paulo / Dívida Ativa",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/divida-ativa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/divida-ativa"
     },
     {
         "name": "Prefeitura / SP / São Paulo / Multas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/multas-guias"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/multas-guias"
     },
     {
         "name": "Prefeitura / SP / São Paulo / Multas (Antiga)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/multas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/multas"
     },
     {
         "name": "Prefeitura / SP / São Paulo / NFS-e (Nota Fiscal Eletrônica de Serviços)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/nfs"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/nfs"
     },
     {
         "name": "Prefeitura / SP / São Paulo / Recursos de Multas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/recursos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/recursos"
     },
     {
         "name": "Prefeitura / SP / São Paulo / Regularidade OTTC",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/ottc"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/ottc"
     },
     {
         "name": "Prefeitura / SP / São Paulo / Segunda via Simplificada de IPTU",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/iptu2via"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/iptu2via"
     },
     {
         "name": "Prefeitura / SP / São Paulo / Valor Venal de Referência",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/valor-ref"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/sp/sao-paulo/valor-ref"
     },
     {
         "name": "Prefeitura / TO / Colinas / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pref/to/colinas/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pref/to/colinas/cnd"
     },
     {
         "name": "Procuradoria Geral do Estado / BA / Dívida Ativa",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pge/ba/divida-ativa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pge/ba/divida-ativa"
     },
     {
         "name": "Procuradoria Geral do Estado / MT / Dívida Ativa",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pge/mt/divida-ativa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pge/mt/divida-ativa"
     },
     {
         "name": "Procuradoria Geral do Estado / RJ / Dívida Ativa",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pge/rj/divida-ativa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pge/rj/divida-ativa"
     },
     {
         "name": "Procuradoria Geral do Estado / SP / Certidão Negativa de Débitos Tributários",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pge/sp/cndt"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pge/sp/cndt"
     },
     {
         "name": "Procuradoria Geral do Estado / SP / Dívida Ativa",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pge/sp/divida-ativa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pge/sp/divida-ativa"
     },
     {
         "name": "Procuradoria Geral do Estado / SP / Emissão de GARE de Liquidação",
-        "url": "http://api.quick7.com.br/api/v2/consultas/pge/sp/emissao-gare"
+        "url": "https://api.quick7.com.br/api/v2/consultas/pge/sp/emissao-gare"
     },
     {
         "name": "Receita Federal / Agenda Tributária",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/agenda-tribut"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/agenda-tribut"
     },
     {
         "name": "Receita Federal / Cafir",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/cafir"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/cafir"
     },
     {
         "name": "Receita Federal / CNPJ",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/cnpj"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/cnpj"
     },
     {
         "name": "Receita Federal / CPF",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/cpf"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/cpf"
     },
     {
         "name": "Receita Federal / CTe",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/cte"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/cte"
     },
     {
         "name": "Receita Federal / IRPF",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/irpf"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/irpf"
     },
     {
         "name": "Receita Federal / MEI",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/mei"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/mei"
     },
     {
         "name": "Receita Federal / NFE",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/nfe"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/nfe"
     },
     {
         "name": "Receita Federal / NFS-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/nfse"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/nfse"
     },
     {
         "name": "Receita Federal / NIRF",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/nirf"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/nirf"
     },
     {
         "name": "Receita Federal / PER/DCOMP",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/perdcomp"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/perdcomp"
     },
     {
         "name": "Receita Federal / PGFN (CND Federal)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/pgfn"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/pgfn"
     },
     {
         "name": "Receita Federal / PGFN (CND Federal) - Lista Segunda Via",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/pgfn/2via-list"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/pgfn/2via-list"
     },
     {
         "name": "Receita Federal / PGFN (CND Federal) - Nova",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/pgfn/nova"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/pgfn/nova"
     },
     {
         "name": "Receita Federal / PGFN (CND Federal) - Segunda Via",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/pgfn/2via"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/pgfn/2via"
     },
     {
         "name": "Receita Federal / PGFN / Lista de Devedores",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/pgfn/devedores"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/pgfn/devedores"
     },
     {
         "name": "Receita Federal / Radar (Habilitação Comércio Exterior)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/radar"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/radar"
     },
     {
         "name": "Receita Federal / REDESIM / Acompanhamento de Protocolo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/redesim/acompa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/redesim/acompa"
     },
     {
         "name": "Receita Federal / SICALC / Gerar DARF",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/sicalc/darf"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/sicalc/darf"
     },
     {
         "name": "Receita Federal / SIMEI (Declaração Anual)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/simei-dasn"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/simei-dasn"
     },
     {
         "name": "Receita Federal / Simei / MEI / Emissão de Guia de Parcelamento",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/simei/mei/eg"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/simei/mei/eg"
     },
     {
         "name": "Receita Federal / Simples (DASN SIMEI)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/simples-dasn"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/simples-dasn"
     },
     {
         "name": "Receita Federal / Simples (Emissão de DAS de MEI)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/simples-das"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/simples-das"
     },
     {
         "name": "Receita Federal / Simples (Listagem de Períodos para Emissão de DAS)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/listar-das"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/listar-das"
     },
     {
         "name": "Receita Federal / Simples / MEI / Emissão de Guia de Parcelamento",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/simples/mei/eg"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/simples/mei/eg"
     },
     {
         "name": "Receita Federal / Simples Nacional",
-        "url": "http://api.quick7.com.br/api/v2/consultas/receita-federal/simples"
+        "url": "https://api.quick7.com.br/api/v2/consultas/receita-federal/simples"
     },
     {
         "name": "Registradores (ARISP) / Consulta de Informações da Conta",
-        "url": "http://api.quick7.com.br/api/v2/consultas/registradores/info-conta"
+        "url": "https://api.quick7.com.br/api/v2/consultas/registradores/info-conta"
     },
     {
         "name": "Registradores (ARISP) / Matrícula / Download de Matrícula",
-        "url": "http://api.quick7.com.br/api/v2/consultas/registradores/matric/download"
+        "url": "https://api.quick7.com.br/api/v2/consultas/registradores/matric/download"
     },
     {
         "name": "Registradores (ARISP) / Matrícula / Lista de Pedidos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/registradores/matric/lista"
+        "url": "https://api.quick7.com.br/api/v2/consultas/registradores/matric/lista"
     },
     {
         "name": "Registradores (ARISP) / Matrícula / Novo Pedido de Visualização de Matrícula",
-        "url": "http://api.quick7.com.br/api/v2/consultas/registradores/matric/pedido"
+        "url": "https://api.quick7.com.br/api/v2/consultas/registradores/matric/pedido"
     },
     {
         "name": "Registro BR / Whois",
-        "url": "http://api.quick7.com.br/api/v2/consultas/registro-br/whois"
+        "url": "https://api.quick7.com.br/api/v2/consultas/registro-br/whois"
     },
     {
         "name": "Secretaria de Inspeção do Trabalho / Trabalho Escravo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sit/trabalho-escravo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sit/trabalho-escravo"
     },
     {
         "name": "SEFAZ / AC / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ac/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ac/certidao-debitos"
     },
     {
         "name": "SEFAZ / AC / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ac/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ac/nfce"
     },
     {
         "name": "SEFAZ / AL / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/al/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/al/certidao-debitos"
     },
     {
         "name": "SEFAZ / AL / DEC / Caixa Postal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/al/dec/caixa-postal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/al/dec/caixa-postal"
     },
     {
         "name": "SEFAZ / AL / IPVA (ano atual)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/al/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/al/ipva"
     },
     {
         "name": "SEFAZ / AL / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/al/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/al/nfce"
     },
     {
         "name": "SEFAZ / AL / Pagamento de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/al/pagamento-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/al/pagamento-debitos"
     },
     {
         "name": "SEFAZ / AM / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/am/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/am/certidao-debitos"
     },
     {
         "name": "SEFAZ / AM / Certidão Negativa de Débitos (Certificado Digital)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/am/certidao-debitos-cert"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/am/certidao-debitos-cert"
     },
     {
         "name": "SEFAZ / AM / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/am/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/am/ipva"
     },
     {
         "name": "SEFAZ / AM / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/am/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/am/nfce"
     },
     {
         "name": "SEFAZ / AM / NFC-e Completa",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/am/nfce-completa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/am/nfce-completa"
     },
     {
         "name": "SEFAZ / AP / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ap/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ap/certidao-debitos"
     },
     {
         "name": "SEFAZ / AP / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ap/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ap/nfce"
     },
     {
         "name": "SEFAZ / BA / Cadastro Centralizado de Contribuinte (CCC) - Homologação",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ba/cadastro-centralizado"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ba/cadastro-centralizado"
     },
     {
         "name": "SEFAZ / BA / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ba/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ba/certidao-debitos"
     },
     {
         "name": "SEFAZ / BA / Emitir guia de IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ba/guia-ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ba/guia-ipva"
     },
     {
         "name": "SEFAZ / BA / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ba/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ba/ipva"
     },
     {
         "name": "SEFAZ / BA / IPVA Notificado",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ba/ipva-notificado"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ba/ipva-notificado"
     },
     {
         "name": "SEFAZ / BA / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ba/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ba/nfce"
     },
     {
         "name": "SEFAZ / BA / NFC-e (Completa)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ba/nfce-completa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ba/nfce-completa"
     },
     {
         "name": "SEFAZ / Cadastro Centralizado de Contribuinte (CCC)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/cadastro-centralizado"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/cadastro-centralizado"
     },
     {
         "name": "SEFAZ / CE / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ce/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ce/certidao-debitos"
     },
     {
         "name": "SEFAZ / CE / Cupom Fiscal Eletrônico (SAT)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ce/cfe"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ce/cfe"
     },
     {
         "name": "SEFAZ / CE / DEC / Caixa Postal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ce/dec/caixa-postal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ce/dec/caixa-postal"
     },
     {
         "name": "SEFAZ / CE / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ce/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ce/ipva"
     },
     {
         "name": "SEFAZ / CE / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ce/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ce/nfce"
     },
     {
         "name": "SEFAZ / CE / NFE",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ce/nfe"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ce/nfe"
     },
     {
         "name": "SEFAZ / Certidão Negativa de Débitos Estaduais",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/certidao-debitos"
     },
     {
         "name": "SEFAZ / DF / Certidão de Dívida Ativa",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/df/certidao-divida-ativa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/df/certidao-divida-ativa"
     },
     {
         "name": "SEFAZ / DF / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/df/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/df/certidao-debitos"
     },
     {
         "name": "SEFAZ / DF / IPTU (Emissão Guia)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/df/iptu"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/df/iptu"
     },
     {
         "name": "SEFAZ / DF / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/df/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/df/ipva"
     },
     {
         "name": "SEFAZ / DF / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/df/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/df/nfce"
     },
     {
         "name": "SEFAZ / ES / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/es/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/es/certidao-debitos"
     },
     {
         "name": "SEFAZ / ES / Certidão Negativa de Débitos (via login)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/es/cnd-login"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/es/cnd-login"
     },
     {
         "name": "SEFAZ / ES / DEC / Caixa Postal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/es/dec/caixa-postal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/es/dec/caixa-postal"
     },
     {
         "name": "SEFAZ / ES / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/es/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/es/nfce"
     },
     {
         "name": "SEFAZ / GO / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/go/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/go/certidao-debitos"
     },
     {
         "name": "SEFAZ / GO / DEC / Caixa Postal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/go/dec/caixa-postal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/go/dec/caixa-postal"
     },
     {
         "name": "SEFAZ / GO / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/go/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/go/ipva"
     },
     {
         "name": "SEFAZ / GO / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/go/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/go/nfce"
     },
     {
         "name": "SEFAZ / GO / Produtor Rural",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/go/produtor-rural"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/go/produtor-rural"
     },
     {
         "name": "SEFAZ / MA / Certidão de Dívida Ativa",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ma/certidao-divida-ativa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ma/certidao-divida-ativa"
     },
     {
         "name": "SEFAZ / MA / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ma/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ma/certidao-debitos"
     },
     {
         "name": "SEFAZ / MA / DEC / Caixa Postal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ma/dec/caixa-postal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ma/dec/caixa-postal"
     },
     {
         "name": "SEFAZ / MA / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ma/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ma/ipva"
     },
     {
         "name": "SEFAZ / MA / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ma/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ma/nfce"
     },
     {
         "name": "SEFAZ / MG / CADIN",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/mg/cadin"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/mg/cadin"
     },
     {
         "name": "SEFAZ / MG / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/mg/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/mg/certidao-debitos"
     },
     {
         "name": "SEFAZ / MG / DEC / Caixa Postal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/mg/dec/caixa-postal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/mg/dec/caixa-postal"
     },
     {
         "name": "SEFAZ / MG / NFC-e Resumida",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/mg/nfce-resumida"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/mg/nfce-resumida"
     },
     {
         "name": "SEFAZ / MG / Protesto Inscrito em Dívida Ativa",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/mg/protesto"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/mg/protesto"
     },
     {
         "name": "SEFAZ / MG / Simulação de Parcelamento IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/mg/simulacao-ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/mg/simulacao-ipva"
     },
     {
         "name": "SEFAZ / MS / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ms/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ms/certidao-debitos"
     },
     {
         "name": "SEFAZ / MS / DTE / Caixa Postal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ms/dec/caixa-postal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ms/dec/caixa-postal"
     },
     {
         "name": "SEFAZ / MS / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ms/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ms/ipva"
     },
     {
         "name": "SEFAZ / MS / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ms/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ms/nfce"
     },
     {
         "name": "SEFAZ / MT / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/mt/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/mt/certidao-debitos"
     },
     {
         "name": "SEFAZ / MT / Consulta Credenciamentos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/mt/credenciamentos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/mt/credenciamentos"
     },
     {
         "name": "SEFAZ / MT / DEC / Caixa Postal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/mt/dec/caixa-postal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/mt/dec/caixa-postal"
     },
     {
         "name": "SEFAZ / MT / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/mt/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/mt/ipva"
     },
     {
         "name": "SEFAZ / MT / IPVA (Extrato)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/mt/extrato-ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/mt/extrato-ipva"
     },
     {
         "name": "SEFAZ / MT / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/mt/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/mt/nfce"
     },
     {
         "name": "SEFAZ / MT / Primeiro Emplacamento",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/mt/primeiro-emplacamento"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/mt/primeiro-emplacamento"
     },
     {
         "name": "SEFAZ / MT / Reimpressão de Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/mt/reimpressao-cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/mt/reimpressao-cnd"
     },
     {
         "name": "SEFAZ / NFC-e (Unificada)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/nfce"
     },
     {
         "name": "SEFAZ / PA / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pa/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pa/certidao-debitos"
     },
     {
         "name": "SEFAZ / PA / DEC / Caixa Postal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pa/dec/caixa-postal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pa/dec/caixa-postal"
     },
     {
         "name": "SEFAZ / PA / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pa/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pa/nfce"
     },
     {
         "name": "SEFAZ / PB / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pb/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pb/certidao-debitos"
     },
     {
         "name": "SEFAZ / PB / Emissão Dar",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pb/emissao-dar"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pb/emissao-dar"
     },
     {
         "name": "SEFAZ / PB / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pb/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pb/ipva"
     },
     {
         "name": "SEFAZ / PB / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pb/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pb/nfce"
     },
     {
         "name": "SEFAZ / PE / Certidão de Regularidade Fiscal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pe/crf"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pe/crf"
     },
     {
         "name": "SEFAZ / PE / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pe/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pe/certidao-debitos"
     },
     {
         "name": "SEFAZ / PE / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pe/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pe/nfce"
     },
     {
         "name": "SEFAZ / PI / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pi/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pi/ipva"
     },
     {
         "name": "SEFAZ / PI / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pi/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pi/nfce"
     },
     {
         "name": "SEFAZ / PI / Solicitar Certidão Negativa da Dívida Ativa (CNDA)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pi/cnda"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pi/cnda"
     },
     {
         "name": "SEFAZ / PI / Solicitar Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pi/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pi/certidao-debitos"
     },
     {
         "name": "SEFAZ / PI / Visualizar certidões CNDA/CND",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pi/visualizar-cert"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pi/visualizar-cert"
     },
     {
         "name": "SEFAZ / PR",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pr"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pr"
     },
     {
         "name": "SEFAZ / PR / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pr/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pr/certidao-debitos"
     },
     {
         "name": "SEFAZ / PR / DEC / Caixa Postal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pr/dec/caixa-postal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pr/dec/caixa-postal"
     },
     {
         "name": "SEFAZ / PR / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pr/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pr/ipva"
     },
     {
         "name": "SEFAZ / PR / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pr/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pr/nfce"
     },
     {
         "name": "SEFAZ / PR / NFE",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/pr/nfe"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/pr/nfe"
     },
     {
         "name": "SEFAZ / RJ / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/rj/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/rj/certidao-debitos"
     },
     {
         "name": "SEFAZ / RJ / Certidão Negativa de Débitos (Certificado Digital)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/rj/certidao-debitos-cert"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/rj/certidao-debitos-cert"
     },
     {
         "name": "SEFAZ / RJ / DEC / Caixa Postal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/rj/dec/caixa-postal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/rj/dec/caixa-postal"
     },
     {
         "name": "SEFAZ / RJ / NFC-e Completa",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/rj/nfce-completa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/rj/nfce-completa"
     },
     {
         "name": "SEFAZ / RJ / NFC-e Resumida",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/rj/nfce-resumida"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/rj/nfce-resumida"
     },
     {
         "name": "SEFAZ / RN / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/rn/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/rn/certidao-debitos"
     },
     {
         "name": "SEFAZ / RN / NFC-e Resumida",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/rn/nfce-resumida"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/rn/nfce-resumida"
     },
     {
         "name": "SEFAZ / RO / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ro/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ro/certidao-debitos"
     },
     {
         "name": "SEFAZ / RO / DEC / Caixa Postal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ro/dec/caixa-postal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ro/dec/caixa-postal"
     },
     {
         "name": "SEFAZ / RO / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ro/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ro/ipva"
     },
     {
         "name": "SEFAZ / RO / NFC-e Completa",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ro/nfce-completa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ro/nfce-completa"
     },
     {
         "name": "SEFAZ / RO / NFC-e Resumida",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/ro/nfce-resumida"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/ro/nfce-resumida"
     },
     {
         "name": "SEFAZ / RR / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/rr/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/rr/certidao-debitos"
     },
     {
         "name": "SEFAZ / RR / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/rr/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/rr/nfce"
     },
     {
         "name": "SEFAZ / RS / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/rs/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/rs/certidao-debitos"
     },
     {
         "name": "SEFAZ / RS / ECAC / CND",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/rs/ecac/cnd"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/rs/ecac/cnd"
     },
     {
         "name": "SEFAZ / RS / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/rs/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/rs/ipva"
     },
     {
         "name": "SEFAZ / RS / NFC-e (SVRS)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/rs/nfce-svrs"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/rs/nfce-svrs"
     },
     {
         "name": "SEFAZ / RS / NFC-e Resumida",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/rs/nfce-resumida"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/rs/nfce-resumida"
     },
     {
         "name": "SEFAZ / SC / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/sc/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/sc/certidao-debitos"
     },
     {
         "name": "SEFAZ / SC / DEC / Caixa Postal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/sc/dec/caixa-postal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/sc/dec/caixa-postal"
     },
     {
         "name": "SEFAZ / SC / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/sc/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/sc/nfce"
     },
     {
         "name": "SEFAZ / SC / NFE",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/sc/nfe"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/sc/nfe"
     },
     {
         "name": "SEFAZ / SE / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/se/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/se/certidao-debitos"
     },
     {
         "name": "SEFAZ / SE / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/se/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/se/nfce"
     },
     {
         "name": "SEFAZ / SE / Pagamento de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/se/pagamento-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/se/pagamento-debitos"
     },
     {
         "name": "SEFAZ / SP / Cadin",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/sp/cadin"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/sp/cadin"
     },
     {
         "name": "SEFAZ / SP / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/sp/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/sp/certidao-debitos"
     },
     {
         "name": "SEFAZ / SP / Cupom Fiscal Eletrônico (SAT)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/sp/cfe"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/sp/cfe"
     },
     {
         "name": "SEFAZ / SP / Cupom Fiscal Eletrônico (SAT) - Detalhado",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/sp/cfe-completa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/sp/cfe-completa"
     },
     {
         "name": "SEFAZ / SP / DEC / Caixa Postal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/sp/dec/caixa-postal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/sp/dec/caixa-postal"
     },
     {
         "name": "SEFAZ / SP / Débitos de Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/sp/debitos-veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/sp/debitos-veiculo"
     },
     {
         "name": "SEFAZ / SP / Emissão de guias de IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/sp/emissao-guias-ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/sp/emissao-guias-ipva"
     },
     {
         "name": "SEFAZ / SP / IPVA (Veículo Zero KM)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/sp/ipva-zero-km"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/sp/ipva-zero-km"
     },
     {
         "name": "SEFAZ / SP / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/sp/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/sp/nfce"
     },
     {
         "name": "SEFAZ / SP / NFE",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/sp/nfe"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/sp/nfe"
     },
     {
         "name": "SEFAZ / SPU / Dados Cadastrais de Imóvel da União",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/spu/dados-imoveis"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/spu/dados-imoveis"
     },
     {
         "name": "SEFAZ / SPU / Emitir Certidões de Imóveis da União",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/spu/certidao-imoveis"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/spu/certidao-imoveis"
     },
     {
         "name": "SEFAZ / TO / Certidão Negativa de Débitos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/to/certidao-debitos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/to/certidao-debitos"
     },
     {
         "name": "SEFAZ / TO / Extrato IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/to/extrato-ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/to/extrato-ipva"
     },
     {
         "name": "SEFAZ / TO / IPVA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/to/ipva"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/to/ipva"
     },
     {
         "name": "SEFAZ / TO / NFC-e",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sefaz/to/nfce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sefaz/to/nfce"
     },
     {
         "name": "SEMA / MT / APF Rural",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sema/mt/apf"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sema/mt/apf"
     },
     {
         "name": "SEMA / PA / Lista de Desmatamento Ilegal do Pará (LDI)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sema/pa/ldi"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sema/pa/ldi"
     },
     {
         "name": "SENATRAN / CRLV (Certificado de Registro e Licenciamento do Veículo)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/senatran/crlv"
+        "url": "https://api.quick7.com.br/api/v2/consultas/senatran/crlv"
     },
     {
         "name": "SENATRAN / Download Infração",
-        "url": "http://api.quick7.com.br/api/v2/consultas/senatran/download-infracao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/senatran/download-infracao"
     },
     {
         "name": "SENATRAN / Infrações",
-        "url": "http://api.quick7.com.br/api/v2/consultas/senatran/infracoes"
+        "url": "https://api.quick7.com.br/api/v2/consultas/senatran/infracoes"
     },
     {
         "name": "SENATRAN / Meus Veículos - Completa",
-        "url": "http://api.quick7.com.br/api/v2/consultas/senatran/meus-veiculos-comp"
+        "url": "https://api.quick7.com.br/api/v2/consultas/senatran/meus-veiculos-comp"
     },
     {
         "name": "SENATRAN / Meus Veículos - Possuidor (Detalhes)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/senatran/meus-veiculos-info"
+        "url": "https://api.quick7.com.br/api/v2/consultas/senatran/meus-veiculos-info"
     },
     {
         "name": "SENATRAN / Meus Veículos - Possuidor (Listagem)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/senatran/meus-veiculos-posse"
+        "url": "https://api.quick7.com.br/api/v2/consultas/senatran/meus-veiculos-posse"
     },
     {
         "name": "SENATRAN / Recall",
-        "url": "http://api.quick7.com.br/api/v2/consultas/senatran/recall"
+        "url": "https://api.quick7.com.br/api/v2/consultas/senatran/recall"
     },
     {
         "name": "SENATRAN / Validar CNH",
-        "url": "http://api.quick7.com.br/api/v2/consultas/senatran/validar-cnh"
+        "url": "https://api.quick7.com.br/api/v2/consultas/senatran/validar-cnh"
     },
     {
         "name": "SERPRO / RADAR / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/serpro/radar/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/serpro/radar/veiculo"
     },
     {
         "name": "SESP / PR / Situação de Veículos na Polícia Civil",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sesp/pr/situacao-veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sesp/pr/situacao-veiculo"
     },
     {
         "name": "SESP / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sesp/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sesp/veiculo"
     },
     {
         "name": "SICONFI / Declaração Fiscal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/siconfi/declaracao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/siconfi/declaracao"
     },
     {
         "name": "Sinesp Cidadão / Desaparecidos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sinesp/desaparecidos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sinesp/desaparecidos"
     },
     {
         "name": "Sinesp Cidadão / Mandados de Prisão (BNMP)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sinesp/mandados"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sinesp/mandados"
     },
     {
         "name": "Sinesp Cidadão / Procurados",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sinesp/procurados"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sinesp/procurados"
     },
     {
         "name": "Sinesp Cidadão / Veículo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sinesp/veiculo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sinesp/veiculo"
     },
     {
         "name": "SINTEGRA / AC",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/ac"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/ac"
     },
     {
         "name": "SINTEGRA / AL",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/al"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/al"
     },
     {
         "name": "SINTEGRA / AM",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/am"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/am"
     },
     {
         "name": "SINTEGRA / AP",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/ap"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/ap"
     },
     {
         "name": "SINTEGRA / BA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/ba"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/ba"
     },
     {
         "name": "SINTEGRA / CE",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/ce"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/ce"
     },
     {
         "name": "SINTEGRA / DF",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/df"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/df"
     },
     {
         "name": "SINTEGRA / ES",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/es"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/es"
     },
     {
         "name": "SINTEGRA / GO",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/go"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/go"
     },
     {
         "name": "SINTEGRA / MA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/ma"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/ma"
     },
     {
         "name": "SINTEGRA / MG",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/mg"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/mg"
     },
     {
         "name": "SINTEGRA / MS",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/ms"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/ms"
     },
     {
         "name": "SINTEGRA / MT",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/mt"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/mt"
     },
     {
         "name": "SINTEGRA / PA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/pa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/pa"
     },
     {
         "name": "SINTEGRA / PB",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/pb"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/pb"
     },
     {
         "name": "SINTEGRA / PE",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/pe"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/pe"
     },
     {
         "name": "SINTEGRA / PI",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/pi"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/pi"
     },
     {
         "name": "SINTEGRA / PR",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/pr"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/pr"
     },
     {
         "name": "SINTEGRA / RJ",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/rj"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/rj"
     },
     {
         "name": "SINTEGRA / RN",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/rn"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/rn"
     },
     {
         "name": "SINTEGRA / RO",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/ro"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/ro"
     },
     {
         "name": "SINTEGRA / RR",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/rr"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/rr"
     },
     {
         "name": "SINTEGRA / RS",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/rs"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/rs"
     },
     {
         "name": "SINTEGRA / SC",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/sc"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/sc"
     },
     {
         "name": "SINTEGRA / SE",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/se"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/se"
     },
     {
         "name": "SINTEGRA / SP",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/sp"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/sp"
     },
     {
         "name": "SINTEGRA / SUFRAMA",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/suframa"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/suframa"
     },
     {
         "name": "SINTEGRA / TO",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/to"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/to"
     },
     {
         "name": "SINTEGRA / Unificada",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sintegra/unificada"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sintegra/unificada"
     },
     {
         "name": "Sivisa / SP",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sivisa/sp"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sivisa/sp"
     },
     {
         "name": "SNCR / Emissão do Certificado de Cadastro do Imóvel Rural (CCIR)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/sncr/ccir"
+        "url": "https://api.quick7.com.br/api/v2/consultas/sncr/ccir"
     },
     {
         "name": "SUSEP / Administradores",
-        "url": "http://api.quick7.com.br/api/v2/consultas/susep/administradores"
+        "url": "https://api.quick7.com.br/api/v2/consultas/susep/administradores"
     },
     {
         "name": "SUSEP / Corretores",
-        "url": "http://api.quick7.com.br/api/v2/consultas/susep/corretores"
+        "url": "https://api.quick7.com.br/api/v2/consultas/susep/corretores"
     },
     {
         "name": "SUSEP / Empresas",
-        "url": "http://api.quick7.com.br/api/v2/consultas/susep/empresas"
+        "url": "https://api.quick7.com.br/api/v2/consultas/susep/empresas"
     },
     {
         "name": "TCU / Certidão Negativa de Inabilitado ou Inidôneo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tcu/cni"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tcu/cni"
     },
     {
         "name": "TCU / Certidão Negativa de Processo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tcu/cnp"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tcu/cnp"
     },
     {
         "name": "TCU / Consulta Consolidada de Pessoa Jurídica (APF)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tcu/consolidada-pj"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tcu/consolidada-pj"
     },
     {
         "name": "TCU / Inabilitados",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tcu/inabilitados"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tcu/inabilitados"
     },
     {
         "name": "TCU / Relação de Inidôneos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tcu/inidoneos"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tcu/inidoneos"
     },
     {
         "name": "Tesouro Nacional / Capacidade de Pagamento (CAPAG)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tesouro-nacional/capag"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tesouro-nacional/capag"
     },
     {
         "name": "Tribunal / TJBA / Certidão do 1º Grau",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjba/primeiro-grau"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjba/primeiro-grau"
     },
     {
         "name": "Tribunal / TJDF / Nada Consta",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjdf/nada-consta"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjdf/nada-consta"
     },
     {
         "name": "Tribunal / TJGO / Nada Consta",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjgo/nada-consta"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjgo/nada-consta"
     },
     {
         "name": "Tribunal / TJMG / Processo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjmg/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjmg/processo"
     },
     {
         "name": "Tribunal / TJPR / Processo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjpr/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjpr/processo"
     },
     {
         "name": "Tribunal / TJRJ / Cadastro de Pedido de Certidão",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjrj/pedido-cert"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjrj/pedido-cert"
     },
     {
         "name": "Tribunal / TJRJ / Processo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjrj/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjrj/processo"
     },
     {
         "name": "Tribunal / TJRJ / Visualizar Certidão",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjrj/obter-certidao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjrj/obter-certidao"
     },
     {
         "name": "Tribunal / TJRS / Certidão do 1º Grau",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjrs/primeiro-grau"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjrs/primeiro-grau"
     },
     {
         "name": "Tribunal / TJSC / Pedido de Certidão",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjsc/pedido-certidao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjsc/pedido-certidao"
     },
     {
         "name": "Tribunal / TJSC / Visualizar Certidão",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjsc/obter-certidao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjsc/obter-certidao"
     },
     {
         "name": "Tribunal / TJSP / Cadastro de Pedido de Certidão",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjsp/pedido-certidao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjsp/pedido-certidao"
     },
     {
         "name": "Tribunal / TJSP / Colégio Recursal e Turma de Uniformização",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjsp/colegio-recursal"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjsp/colegio-recursal"
     },
     {
         "name": "Tribunal / TJSP / Processos do 1º Grau",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjsp/primeiro-grau"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjsp/primeiro-grau"
     },
     {
         "name": "Tribunal / TJSP / Processos do 2º Grau",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjsp/segundo-grau"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjsp/segundo-grau"
     },
     {
         "name": "Tribunal / TJSP / Selo Digital",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjsp/selo-digital"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjsp/selo-digital"
     },
     {
         "name": "Tribunal / TJSP / Visualizar Certidão",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tjsp/obter-certidao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tjsp/obter-certidao"
     },
     {
         "name": "Tribunal / TRF1 / Certidão Negativa Cível e Criminal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trf1/certidao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trf1/certidao"
     },
     {
         "name": "Tribunal / TRF1 / Processo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trf1/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trf1/processo"
     },
     {
         "name": "Tribunal / TRF2 / Certidão Negativa Cível e Criminal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trf2/certidao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trf2/certidao"
     },
     {
         "name": "Tribunal / TRF2 / Processo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trf2/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trf2/processo"
     },
     {
         "name": "Tribunal / TRF2 / Processo (eproc)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trf2/processo-eproc"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trf2/processo-eproc"
     },
     {
         "name": "Tribunal / TRF3 / Certidão de Distribuição",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trf3/certidao-distr"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trf3/certidao-distr"
     },
     {
         "name": "Tribunal / TRF3 / Processo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trf3/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trf3/processo"
     },
     {
         "name": "Tribunal / TRF4 / Certidão Negativa Cível e Criminal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trf4/certidao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trf4/certidao"
     },
     {
         "name": "Tribunal / TRF5 / Certidão Negativa Cível e Criminal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trf5/certidao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trf5/certidao"
     },
     {
         "name": "Tribunal / TRF5 / Processo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trf5/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trf5/processo"
     },
     {
         "name": "Tribunal / TRF6 / Certidão Negativa Cível e Criminal",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trf6/certidao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trf6/certidao"
     },
     {
         "name": "Tribunal / TRF6 / Processo",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trf6/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trf6/processo"
     },
     {
         "name": "Tribunal / TRT / Consulta Processual Unificada",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt/processo"
     },
     {
         "name": "Tribunal / TRT1 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt1/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt1/processo"
     },
     {
         "name": "Tribunal / TRT10 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt10/ceat"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt10/ceat"
     },
     {
         "name": "Tribunal / TRT10 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt10/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt10/processo"
     },
     {
         "name": "Tribunal / TRT11 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt11/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt11/processo"
     },
     {
         "name": "Tribunal / TRT12 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt12/ceat"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt12/ceat"
     },
     {
         "name": "Tribunal / TRT12 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt12/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt12/processo"
     },
     {
         "name": "Tribunal / TRT13 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt13/ceat"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt13/ceat"
     },
     {
         "name": "Tribunal / TRT13 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt13/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt13/processo"
     },
     {
         "name": "Tribunal / TRT14 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt14/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt14/processo"
     },
     {
         "name": "Tribunal / TRT15 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt15/ceat"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt15/ceat"
     },
     {
         "name": "Tribunal / TRT15 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt15/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt15/processo"
     },
     {
         "name": "Tribunal / TRT16 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt16/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt16/processo"
     },
     {
         "name": "Tribunal / TRT17 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt17/ceat"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt17/ceat"
     },
     {
         "name": "Tribunal / TRT17 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt17/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt17/processo"
     },
     {
         "name": "Tribunal / TRT18 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt18/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt18/processo"
     },
     {
         "name": "Tribunal / TRT19 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt19/ceat"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt19/ceat"
     },
     {
         "name": "Tribunal / TRT19 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt19/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt19/processo"
     },
     {
         "name": "Tribunal / TRT2 / Certidão Eletrônica de Ações Trabalhistas (CEAT) - Processos Digitais",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt2/ceat-digital"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt2/ceat-digital"
     },
     {
         "name": "Tribunal / TRT2 / Certidão Eletrônica de Ações Trabalhistas (CEAT) - Processos Físicos",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt2/ceat"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt2/ceat"
     },
     {
         "name": "Tribunal / TRT2 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt2/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt2/processo"
     },
     {
         "name": "Tribunal / TRT20 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt20/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt20/processo"
     },
     {
         "name": "Tribunal / TRT21 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt21/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt21/processo"
     },
     {
         "name": "Tribunal / TRT22 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt22/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt22/processo"
     },
     {
         "name": "Tribunal / TRT23 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt23/ceat"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt23/ceat"
     },
     {
         "name": "Tribunal / TRT24 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt24/ceat"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt24/ceat"
     },
     {
         "name": "Tribunal / TRT24 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt24/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt24/processo"
     },
     {
         "name": "Tribunal / TRT3 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt3/ceat"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt3/ceat"
     },
     {
         "name": "Tribunal / TRT4 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt4/ceat"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt4/ceat"
     },
     {
         "name": "Tribunal / TRT4 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt4/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt4/processo"
     },
     {
         "name": "Tribunal / TRT5 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt5/ceat"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt5/ceat"
     },
     {
         "name": "Tribunal / TRT5 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt5/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt5/processo"
     },
     {
         "name": "Tribunal / TRT6 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt6/certidao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt6/certidao"
     },
     {
         "name": "Tribunal / TRT6 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt6/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt6/processo"
     },
     {
         "name": "Tribunal / TRT7 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt7/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt7/processo"
     },
     {
         "name": "Tribunal / TRT8 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt8/ceat"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt8/ceat"
     },
     {
         "name": "Tribunal / TRT8 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt8/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt8/processo"
     },
     {
         "name": "Tribunal / TRT9 / Certidão Eletrônica de Ações Trabalhistas (CEAT)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt9/ceat"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt9/ceat"
     },
     {
         "name": "Tribunal / TRT9 / Consulta Processual",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/trt9/processo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/trt9/processo"
     },
     {
         "name": "Tribunal / TSE / Certidão de Quitação Eleitoral",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tse/certidao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tse/certidao"
     },
     {
         "name": "Tribunal / TSE / Doadores e Fornecedores",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tse/doador-fornecedor"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tse/doador-fornecedor"
     },
     {
         "name": "Tribunal / TSE / Processo Judicial Eletrônico (PJe)",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tse/pje"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tse/pje"
     },
     {
         "name": "Tribunal / TSE / Situação Eleitoral",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tse/situacao"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tse/situacao"
     },
     {
         "name": "Tribunal / TSE / Título Eleitoral",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tse/titulo"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tse/titulo"
     },
     {
         "name": "Tribunal / TST / Banco de Falências",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tst/banco-falencias"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tst/banco-falencias"
     },
     {
         "name": "Tribunal / TST / CNDT",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tst/cndt"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tst/cndt"
     },
     {
         "name": "Tribunal / TST / Validação de CNDT",
-        "url": "http://api.quick7.com.br/api/v2/consultas/tribunal/tst/validacao-cndt"
+        "url": "https://api.quick7.com.br/api/v2/consultas/tribunal/tst/validacao-cndt"
     }
 ]
